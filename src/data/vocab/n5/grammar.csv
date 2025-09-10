@@ -1,0 +1,54 @@
+word,furigana,translation,description,example,example_translation,category,level
+です,,is; am; are (to be),The polite copula verb used with nouns and na-adjectives to state that something 'is' something.,私は学生です。,I am a student.,copula,n5
+〜ます,,(Polite verb ending),The polite form ending for verbs; used in present and future tense positive statements.,食べます,I eat / I will eat.,verb,n5
+〜ません,,(Polite negative verb ending),The polite negative form ending for verbs.,食べません,I do not eat / I will not eat.,verb,n5
+〜ました,,(Polite past verb ending),The polite past tense ending for verbs.,食べました,I ate.,verb,n5
+〜ませんでした,,(Polite past negative verb ending),The polite past negative form ending for verbs.,食べませんでした,I did not eat.,verb,n5
+〜たい,,want to...,Added to the stem of a verb to express the speaker's desire to do something.,日本に行きたいです。,I want to go to Japan.,verb,n5
+〜ませんか,,"Won't you...? Would you like to...?",A polite way to extend an invitation or make a suggestion to someone.,一緒に昼ご飯を食べませんか。,Would you like to have lunch together?,phrase,n5
+〜ましょう,,let's...,A verb form used to make a suggestion to do something together.,映画を見ましょう。,Let's watch a movie.,verb,n5
+〜ましょうか,,Shall I...?,Used to politely offer to do something for someone.,荷物を持ちましょうか。,Shall I carry your luggage?,phrase,n5
+〜てください,,please do...,Used to make a polite request. It is added to the て-form of a verb.,静かにしてください。,Please be quiet.,phrase,n5
+〜ています,,"is doing... / is...ing",Added to the て-form of a verb to express an ongoing action or current state.,雨が降っています。,Rain is falling.,verb,n5
+があります,,"There is/are (for inanimate things)",Used to indicate the existence of non-living things; plants; or events.,机の上に本があります。,There is a book on the desk.,verb,n5
+がいます,,"There is/are (for animate things)",Used to indicate the existence of living things (people; animals).,公園に猫がいます。,There is a cat in the park.,verb,n5
+は,,(Topic Marker Particle),A particle used to mark the topic of a sentence. It is pronounced 'wa'.,これは本です。,"As for this, it is a book. / This is a book.",particle,n5
+が,,(Subject Marker Particle),"A particle used to mark the subject of a sentence, often for new information or with potential verbs.",桜がきれいです。,The cherry blossoms are beautiful.,particle,n5
+を,,(Direct Object Marker Particle),A particle placed after a noun to indicate that it is the direct object of the verb.,水を飲みます。,I drink water.,particle,n5
+に,,(Target/Location/Time Particle),"Indicates direction (to a place), location of existence, a point in time, or an indirect object.",学校に行きます。,I go to school.,particle,n5
+で,,(Means/Location of Action Particle),Indicates the means by which an action is done or the location where an action takes place.,箸で食べます。,I eat with chopsticks.,particle,n5
+へ,,(Direction Particle),A particle indicating direction towards a place. It is pronounced 'e'.,日本へ行きます。,I will go to Japan.,particle,n5
+と,,"and (with)","A particle used to connect nouns exhaustively, meaning 'and'. Also means 'with' for doing an action with someone.",友達と映画を見ます。,I will watch a movie with a friend.,particle,n5
+の,,(Possession Particle),"A particle that connects two nouns, showing possession or attribution.",これは私のカバンです。,This is my bag.,particle,n5
+も,,"also; too","A particle that means 'also' or 'too'. It replaces は, が, or を.",私も行きます。,I will also go.,particle,n5
+か,,(Question Marker Particle),A particle placed at the end of a sentence to turn it into a question.,これは何ですか。,What is this?,particle,n5
+〜ね,,"isn't it? right?",A sentence-ending particle used to seek agreement or confirmation.,いい天気ですね。,"It's nice weather, isn't it?",particle,n5
+〜よ,,"you know; I tell you",A sentence-ending particle used to emphasize information you are sharing with the listener.,あれは駅ですよ。,"That is the station, you know.",particle,n5
+から,,from,A particle indicating a starting point in time or space.,仕事は9時からです。,Work is from 9 o'clock.,particle,n5
+まで,,"until; to",A particle indicating a limit or endpoint in time or space.,仕事は5時までです。,Work is until 5 o'clock.,particle,n5
+や,,"and (among other things)","A particle used to list nouns, implying that the list is not exhaustive.",かばんの中に本やペンがあります。,"In the bag, there are things like books and pens.",particle,n5
+じゃないです,,is not,"The polite negative form of the copula です, used with nouns and na-adjectives.",彼は先生じゃないです。,He is not a teacher.,adjective,n5
+〜くないです,,"is not (for i-adjectives)",The polite negative form for i-adjectives. Remove the final い and add くないです.,この部屋は広くないです。,This room is not spacious.,adjective,n5
+〜かったです,,"was (for i-adjectives)",The polite past tense form for i-adjectives. Remove the final い and add かったです.,昨日は寒かったです。,Yesterday was cold.,adjective,n5
+〜ではありません,,"is not (formal)",The more formal negative form of the copula です.,これは私の傘ではありません。,This is not my umbrella.,adjective,n5
+〜な,,(na-adjective connector),The connector used for na-adjectives when they modify a noun directly.,これは静かな公園です。,This is a quiet park.,adjective,n5
+から,,because,"A conjunctive particle used to give a reason for something. It is placed after the reason clause.","お腹が空きましたから、食べます。","Because I became hungry, I will eat.",particle,n5
+が,,"but; however",A conjunctive particle used to connect two sentences where the second sentence contrasts the first.,このレストランは高いですが、美味しいです。,"This restaurant is expensive, but it's delicious.",particle,n5
+どうぞ,,"Please; Here you go",An adverb used when offering something to someone politely.,どうぞよろしくお願いします。,"Nice to meet you. (Please be kind to me)",adverb,n5
+とても,,very,An adverb used to emphasize adjectives.,このケーキはとても美味しいです。,This cake is very delicious.,adverb,n5
+あまり,,"not very; not much (with negative)","An adverb that is used with negative forms to mean ""not very"" or ""not much"".",今日はあまり暑くないです。,It is not very hot today.,adverb,n5
+あまり～ない,,"not very; not much ~",Used to express that something is not very or not much.,彼はあまり話さない。,He doesn't talk much.,expression,n5
+一番,いちばん,"the most; number one",An adverb used before adjectives to express the superlative degree (the most...).,富士山は日本で一番高い山です。,Mt. Fuji is the tallest mountain in Japan.,adverb,n5
+一緒に,いっしょに,together,An adverb meaning 'together'.,一緒に勉強しませんか。,Shall we study together?,adverb,n5
+いつも,,always,An adverb meaning 'always'.,私はいつも7時に起きます。,I always wake up at 7 o'clock.,adverb,n5
+これ,,"this (thing near me)",A demonstrative pronoun for things close to the speaker.,これは私の本です。,This is my book.,pronoun,n5
+それ,,"that (thing near you)",A demonstrative pronoun for things close to the listener.,それはあなたのペンです。,That is your pen.,pronoun,n5
+あれ,,"that (thing over there)",A demonstrative pronoun for things far from both the speaker and listener.,あれは山です。,That over there is a mountain.,pronoun,n5
+どれ,,which one,"An interrogative pronoun used to ask 'which one' among three or more things.",あなたの傘はどれですか。,Which one is your umbrella?,pronoun,n5
+誰,だれ,who,An interrogative pronoun meaning 'who'.,あの人は誰ですか。,Who is that person?,pronoun,n5
+何,なん・なに,what,"An interrogative pronoun meaning 'what'. The pronunciation changes based on the following particle.",これは何ですか。,What is this?,pronoun,n5
+どこ,,where,An interrogative pronoun meaning 'where'.,トイレはどこですか。,Where is the bathroom?,pronoun,n5
+いつ,,when,An interrogative pronoun meaning 'when'.,誕生日はいつですか。,When is your birthday?,pronoun,n5
+いくら,,how much,An interrogative pronoun used to ask about the price of something.,このりんごはいくらですか。,How much is this apple?,pronoun,n5
+どんな,,"what kind of",An interrogative adjective used to ask about the nature or type of something.,どんな音楽が好きですか。,What kind of music do you like?,adjective,n5
+どの,,which,"An interrogative adjective used to ask 'which' when followed by a noun.",どの傘があなたのですか。,Which umbrella is yours?,adjective,n5

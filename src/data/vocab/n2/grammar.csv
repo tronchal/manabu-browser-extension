@@ -1,0 +1,148 @@
+word,furigana,translation,description,example,example_translation,category,level
+あげく,,"in the end (after a lot of effort); on top of all that","Used after a verb (in past tense) or a noun modifying particle to express a negative result after a long process or struggle.","長時間議論したあげく、結論が出なかった。","After discussing for a long time, we couldn't reach a conclusion.",expression,n2
+あまり,,"so... that; to the extent that","Used to express that something is so extreme that it causes another action or state.","彼の成功が嬉しいあまり、彼女は泣き出した。","She was so happy about his success that she started crying.",expression,n2
+以上,いじょう,"now that; since; as long as","Expresses a strong determination or a logical conclusion based on a given condition.","約束した以上、必ず守ります。","Now that I've promised, I will definitely keep it.",expression,n2
+一方,いっぽう,"on the other hand; while; meanwhile","Used to contrast two things or to indicate a continuing trend.","彼は医者として働く一方、小説も書いている。","He works as a doctor, while also writing novels.",expression,n2
+うえで,,"upon; after","Indicates that the preceding action is necessary for the action that follows.","この書類は契約を結ぶうえで必要です。","These documents are necessary for concluding a contract.",expression,n2
+おかげで,,"thanks to","Expresses gratitude for a positive outcome. Can be used sarcastically for negative outcomes.","先生のおかげで合格できました。","Thanks to my teacher, I was able to pass.",expression,n2
+がち,,"tend to; prone to","A suffix attached to nouns or verb stems to indicate a frequent tendency, often for something negative.","彼は子供の頃、病気がちだった。","He was prone to illness when he was a child.",suffix,n2
+かけ,,"half-; in the middle of","A suffix attached to the stem of a verb to indicate that an action has been started but not completed.","テーブルに飲みかけのコーヒーが置いてあった。","There was a half-drunk cup of coffee on the table.",suffix,n2
+がたい,,"difficult to","A suffix attached to a verb stem to express that something is psychologically or physically difficult to do.","彼の意見は賛成しがたい。","His opinion is difficult to agree with.",suffix,n2
+がる,,"to show signs of; to appear to","A suffix attached to an adjective to indicate that someone (usually a third party) is showing signs of a certain feeling.","子供が新しいおもちゃを欲しがっている。","The child is showing that he wants the new toy.",verb,n2
+きり,,"only; just; since","Can mean 'only' or indicate that a state continues from a past action.","彼とは去年会ったきり、会っていない。","I haven't seen him since I met him last year.",particle,n2
+くせに,,"even though; and yet","Expresses strong criticism or contempt for someone who does something contrary to what is expected.","あの子は子供のくせに、大人のような口をきく。","That child speaks like an adult even though they are just a kid.",expression,n2
+ことか,,"how...!; what a...!","Used with question words to emphasize a strong emotion, like wonder, sadness, or happiness.","何度君に仕事をしっかりやれと言ったことか。","How many times have I told you to do your job properly!",expression,n2
+さえ,,"even","Emphasizes something by giving an extreme example. Often used with conditional forms like ば.","彼は自分の名前さえ書けない。","He can't even write his own name.",particle,n2
+次第,しだい,"as soon as; depending on","Can mean 'as soon as' when following a verb stem, or 'depending on' when following a noun.","結果がわかり次第、ご連絡します。","I will contact you as soon as I know the result.",expression,n2
+ずにはいられない,,"can't help but","Expresses a strong, uncontrollable urge or impulse to do something.","その映画の結末に、泣かずにはいられなかった。","I couldn't help but cry at the ending of that movie.",expression,n2
+せいで,,"due to (negative reason)","Used to indicate the cause of a negative outcome.","雨のせいで、ピクニックは中止になった。","Because of the rain, the picnic was canceled.",expression,n2
+だけあって,,"as expected from; precisely because","Used to express that something is worthy of its reputation or status.","彼は日本に10年住んだだけあって、日本語がとても上手だ。","As one would expect from someone who lived in Japan for 10 years, his Japanese is very good.",expression,n2
+だけに,,"all the more because; precisely because","Emphasizes that because of a certain fact, the result is even more significant or emotional.","期待が大きかっただけに、失敗は残念だった。","Precisely because my expectations were high, the failure was all the more disappointing.",expression,n2
+たとえ〜ても,,"even if","Used with conditional forms to express 'even if' a hypothetical situation occurs.","たとえお金がなくても、幸せに生きたい。","Even if I don't have money, I want to live happily.",expression,n2
+たばかり,,"just finished doing","Indicates that an action has just been completed.","これは昨日買ったばかりの服です。","These are clothes I just bought yesterday.",expression,n2
+ついでに,,"while you're at it","Indicates doing an additional action while taking the opportunity of the main action.","散歩のついでに、手紙を出してきてくれる？","While you're out for a walk, can you mail this letter?",expression,n2
+っけ,,"was it?; I seem to remember","A sentence-ending particle used to confirm or recall something one is trying to remember.","あの人の名前、何て言ったっけ？","What was that person's name again?",particle,n2
+つつ,,"while; although","A more formal equivalent of ながら, meaning 'while' doing something. Also used as つつも to mean 'although'.","お酒は体に悪いと知りつつ、やめられない。","Although I know alcohol is bad for my body, I can't quit.",particle,n2
+つつある,,"to be in the process of","Indicates that a change is gradually progressing.","この街の環境は改善されつつある。","The environment in this town is gradually improving.",expression,n2
+てからでないと,,"unless... first; not until","Expresses that one action cannot occur until another action is completed.","よく調べてからでないと、答えはわからない。","You won't know the answer unless you investigate it thoroughly first.",expression,n2
+てたまらない,,"can't bear; extremely","Expresses a strong, unbearable feeling or desire.","故郷の母のことが心配でたまらない。","I'm extremely worried about my mother back home.",expression,n2
+てはいられない,,"can't afford to; can't keep","Expresses that one cannot continue in a certain state or action due to circumstances.","ずっと遊んではいられない。そろそろ勉強しよう。","I can't afford to keep playing around. It's time to study.",expression,n2
+ということだ,,"it means that; I hear that","Used to conclude, explain a situation, or report something heard.","電車がストライキで止まっている。ということは、今日は学校が休みということだ。","The trains are stopped due to a strike. That means school is canceled today.",expression,n2
+というと、といえば,,"speaking of; when it comes to","Used to pick up on a topic just mentioned and elaborate on it or associate it with something else.","北海道というと、広い農地と海鮮を思い出す。","Speaking of Hokkaido, I think of vast farmland and seafood.",expression,n2
+というのは,,"the reason is; that is to say","Used to provide a reason, explanation, or definition.","私は彼が嫌いだ。というのは、いつも嘘をつくからだ。","I dislike him. The reason is that he always lies.",expression,n2
+というものだ,,"it's truly; it's what you call","Used to strongly assert one's judgment or conclusion about something.","時間を守れないのは社会人として失格というものだ。","Not being on time is what you'd call a disqualification for a working adult.",expression,n2
+というものではない、というわけではない,,"it's not that; it doesn't mean that","Used to negate a general statement, implying that it's not always true.","お金があれば幸せになれるというものではない。","It's not that having money means you can be happy.",expression,n2
+といっても,,"although I say; having said that","Used to downplay or clarify a preceding statement.","料理ができるといっても、卵焼きだけです。","Although I say I can cook, I can only make tamagoyaki.",expression,n2
+通り,とおり,"as; in the same way as","Means 'in accordance with' or 'just as' something was stated, shown, or planned.","説明書の通りに組み立ててください。","Please assemble it according to the instructions.",expression,n2
+とか,,"and so on; or something; I heard that","Used to give vague examples or to report hearsay in a casual way.","明日は雨になるとか。","I heard something about it raining tomorrow.",particle,n2
+どころか,,"far from; let alone","Used to strongly negate the preceding statement and emphasize a more extreme one.","彼は静かどころか、すごく騒がしい人だ。","Far from being quiet, he is a very noisy person.",expression,n2
+ところだった,,"was on the verge of; almost","Expresses that something was very close to happening, but did not.","あと少しで車にひかれるところだった。","I was almost hit by a car.",expression,n2
+としたら、とすれば,,"if we assume; supposing that","Used to set up a hypothetical situation.","もし100万円が当たったとしたら、何に使いますか？","If you were to win 1 million yen, what would you use it for?",expression,n2
+としても,,"even if","Expresses that even if a certain condition were met, the conclusion would not change.","たとえ誘われたとしても、そのパーティーには行かない。","Even if I were invited, I wouldn't go to that party.",expression,n2
+とともに,,"together with; along with","Means 'together with' someone or 'along with' a change, indicating a simultaneous occurrence.","年を取るとともに、記憶力が衰えてきた。","As I get older, my memory has weakened.",expression,n2
+ないことはない、ないこともない,,"it's not that... not; it's not impossible to","A double negative used to express that something is possible, though perhaps not ideal or definite.","その計画に賛成できないこともない。","It's not that I can't agree with that plan.",expression,n2
+ながらも,,"although; despite","Expresses a contradiction between two states or actions.","彼は貧しいながらも、いつも笑顔を絶やさない。","Although he is poor, he always has a smile on his face.",expression,n2
+など、なんか、なんて,,"things like; and so on; as for","Used to give examples. なんか and なんて are more casual and can express humility or contempt.","お土産にペンなんかどうですか？","How about something like a pen for a souvenir?",particle,n2
+にあたって、にあたり,,"on the occasion of; at the time of","A formal expression used for important events or beginnings.","開会にあたり、一言ご挨拶申し上げます。","On the occasion of the opening, I would like to say a few words.",expression,n2
+において,,"in; at; on (formal)","A formal equivalent of the particle で, indicating a place, time, or situation.","その会議は東京において開催された。","That conference was held in Tokyo.",expression,n2
+に応じて,におうじて,"in accordance with; depending on","Indicates that something changes or is adapted based on another variable.","収入に応じて、税金の額が変わる。","The amount of tax changes in accordance with your income.",expression,n2
+における,,"in; at; on (formal, attributive)","The attributive form of において, used to modify a noun.","大学における研究生活はとても楽しかった。","My research life at the university was very enjoyable.",expression,n2
+に限って,にかぎって,"of all...; especially when; only","Emphasizes a specific case, often with a nuance of it being an exception or unfortunate timing.","彼に限って、そんな悪いことをするはずがない。","Of all people, he's the last one who would do such a bad thing.",expression,n2
+にかわって、にかわり,,"in place of; on behalf of","Indicates a substitution or replacement.","父にかわって、私がご挨拶に参りました。","I have come to give a greeting on behalf of my father.",expression,n2
+に関して,にかんして,"regarding; concerning","A formal expression used to introduce a topic.","その事件に関して、警察は詳細を明らかにした。","Regarding that incident, the police revealed the details.",expression,n2
+に決まっている,にきまっている,"it must be; it's certain that","Expresses the speaker's strong conviction.","そんなことを言えば、彼女は怒るに決まっている。","If you say that, she's certain to get angry.",expression,n2
+に比べて,にくらべて,"compared to","Used to make a comparison.","去年に比べて、今年の冬は暖かい。","Compared to last year, this winter is warm.",expression,n2
+に加えて,にくわえて,"in addition to","Used to add another element.","雨に加えて、強風も吹き始めた。","In addition to the rain, a strong wind also began to blow.",expression,n2
+に応えて,にこたえて,"in response to","Indicates an action taken in response to a request, hope, or expectation.","ファンの期待にこたえて、歌手はアンコール曲を歌った。","In response to the fans' expectations, the singer sang an encore.",expression,n2
+に際して,にさいして,"on the occasion of; at the time of","A formal expression used at the beginning of an important action or event.","出発に際して、一言ご挨拶を申し上げます。","On the occasion of our departure, I would like to say a few words.",expression,n2
+にしたら、にすれば,,"from the perspective of; for","Used to state a point of view.","患者にしたら、医者の説明は不十分だった。","From the patient's perspective, the doctor's explanation was insufficient.",expression,n2
+にしても,,"even if; even so","Concedes a point but introduces a contrasting or surprising follow-up.","忙しいにしても、連絡ぐらいはできたでしょう。","Even if you were busy, you could have at least contacted me.",expression,n2
+にしろ、にせよ,,"whether... or; even if","A formal version of にしても. Can also be used to list options.","賛成するにしろ反対するにしろ、理由を説明しなさい。","Whether you agree or disagree, please explain your reason.",expression,n2
+に過ぎない,にすぎない,"to be nothing more than; to be only","Used to downplay the extent or importance of something.","それはひとつの推論に過ぎない。","That is nothing more than a conjecture.",expression,n2
+に相違ない,にそういない,"without a doubt; must be","A formal way to express the speaker's confident guess or conviction.","準備ができていなければ、失敗するに相違ない。","If you aren't prepared, you will fail without a doubt.",expression,n2
+に沿って,にそって,"along; in accordance with","Means to follow a plan, policy, or physical path.","この道に沿ってまっすぐ行くと駅に出ます。","If you go straight along this road, you will reach the station.",expression,n2
+に対して,にたいして,"towards; regarding; in contrast to","Indicates the target of an action or feeling, or is used to create a contrast.","お客様に対して、失礼な態度を取ってはいけない。","You must not have a rude attitude towards customers.",expression,n2
+に違いない,にちがいない,"it must be; I'm sure that","Expresses the speaker's strong belief or certainty.","約束したから、彼は来るに違いない。","Since he promised, I'm sure he will come.",expression,n2
+について,,"about; concerning","The standard way to say 'about' a topic.","日本の歴史について研究しています。","I am researching about Japanese history.",particle,n2
+につれて,,"as; in proportion to","Indicates that one thing changes in proportion to another.","時代が変わるにつれて、人々の考え方も変わる。","As the times change, people's way of thinking also changes.",expression,n2
+にとって,,"for; from the perspective of","Expresses value or effect from a specific viewpoint.","この資料は私の研究にとって非常に重要だ。","This material is very important for my research.",expression,n2
+に伴って,にともなって,"along with; as a result of","Indicates that something occurs simultaneously with or as a consequence of something else.","高齢化に伴って、医療費が増加している。","Along with the aging population, medical costs are increasing.",expression,n2
+には,,"for the purpose of; in order to","Used to indicate the purpose of an action, often with a verb of necessity.","外国へ行くには、パスポートが必要だ。","In order to go abroad, a passport is necessary.",particle,n2
+によって,,"by; due to; depending on","Indicates a cause, means, agent (in a passive sentence), or that something varies depending on another factor.","台風によって、建物が大きく損傷した。","The building was severely damaged due to the typhoon.",expression,n2
+にわたって,,"over a period of; throughout","Indicates that something extends over a range of time, space, or quantity.","この研究は10年にわたって続けられた。","This research was continued over a period of ten years.",expression,n2
+ぬきで,,"without","Means to do something without something else.","冗談抜きで、真剣に話そう。","Let's talk seriously, without any jokes.",expression,n2
+ねばならない,,"must; have to","A formal and written equivalent of なければならない.","学生は勉強せねばならない。","Students must study.",expression,n2
+のもとで,,"under the influence of; under the guidance of","Means 'under' someone's control, guidance, influence, or under specific conditions.","優秀な教授の指導のもとで、研究を進める。","I will proceed with my research under the guidance of an excellent professor.",expression,n2
+はずがない,,"cannot be; it's impossible that","Expresses the speaker's strong belief that something is impossible.","知らないはずがない。彼は絶対に見た。","It's impossible that he doesn't know. He definitely saw it.",expression,n2
+はずだ,,"it should be; I expect that","Expresses an expectation based on prior knowledge or evidence.","約束したから、彼は来るはずだ。","Since he promised, I expect he will come.",expression,n2
+ば～ほど,,"the more... the more...","Used with verbs and adjectives to express that as one thing increases, another increases proportionally.","練習すればするほど、上手になる。","The more you practice, the better you become.",expression,n2
+べき、べきだ,,"should; ought to","Expresses obligation or what is considered the right thing to do.","学生はもっと勉強すべきだ。","Students should study more.",expression,n2
+ぼくに,,"only; merely; just","Emphasizes the small degree or limited extent of something.","彼は一言ぼくに笑っただけだった。","He merely laughed without saying a word.",adverb,n2
+まい,,"probably not; will not","Expresses the speaker's negative intention or a negative conjecture.","二度とそんなことはするまい。","I will probably not do such a thing again.",particle,n2
+までして,,"even going so far as to","Emphasizes the extreme length one goes to in order to do something.","借金までして車を買う必要はない。","There's no need to buy a car, even going so far as to take out a loan.",expression,n2
+まま,,"as it is; in the state of","Indicates leaving something unchanged or doing something while in an unchanged state.","窓を開けたまま、出かけてしまった。","I went out leaving the window open.",expression,n2
+みたいだ,,"like; seem; as if","Used to make informal comparisons or express speculation based on appearance.","彼はとても疲れているみたいだ。","He seems very tired.",verb,n2
+向き,むき,"suitable for","A suffix attached to nouns to indicate something is suitable for a specific group.","このゲームは子供向きだ。","This game is suitable for children.",suffix,n2
+向け,むけ,"aimed at; made for","A suffix attached to nouns to indicate something is made for a specific target audience.","これは海外向けに輸出される商品だ。","This is a product made for overseas export.",suffix,n2
+も～ば～も、も～なら～も,,"...and... as well; neither... nor...","Used to list two things, often with a similar positive or negative connotation.","彼はお金もなければ時間もない。","He has neither money nor time.",expression,n2
+もの,,"because (explaining a reason, often with a sense of excuse)","Used at the end of a sentence (often by women or children) to give a reason or explanation.","だって、知らなかったんだもの。","But, it's because I didn't know.",particle,n2
+ものか,,"no way!; I'll never!","A strong rhetorical expression used to emphatically deny something.","あんなまずい店、二度と行くものか。","There's no way I'd go to such a terrible restaurant again!",expression,n2
+ものがある,,"there is something ... about it; I feel that","Used to express a strong feeling or impression about something.","彼の演奏には人を感動させるものがある。","There is something in his performance that moves people.",expression,n2
+ものだ,,"it is natural that; used to (recollection)","Expresses a general truth or is used to recall past habits.","年を取ると、目が悪くなるものだ。","It's natural for one's eyesight to get worse with age.",expression,n2
+ものではない,,"should not; must not","Used to state a strong prohibition or that something goes against common sense.","人を騙すようなことはするものではない。","You shouldn't do things like deceiving people.",expression,n2
+ものなら,,"if one could","Used with potential verbs to express a strong desire for something that is difficult to achieve.","できるものなら、世界中を旅行してみたい。","If I could, I would want to travel all over the world.",expression,n2
+ものの,,"although; but","Concedes a point in the first clause, but introduces a contrary outcome in the second.","新しいパソコンを買ったものの、まだ使い方がよくわからない。","Although I bought a new computer, I still don't really know how to use it.",conjunction,n2
+やら～やら,,"and... and... among other things","Used to list examples, often with a nuance of being overwhelmed or that things are in a disorderly state.","宿題やらレポートやらで、忙しい。","I'm busy with things like homework and reports.",particle,n2
+ようがない、ようもない,,"there is no way to","Expresses that something is impossible to do because there is no method or means.","住所がわからないので、連絡の取りようがない。","Since I don't know the address, there is no way to contact them.",expression,n2
+ように,,"so that; in order to","Indicates a purpose or goal. Also used to make a request or state a hope.","忘れ物をしないようにしてください。","Please be careful so that you don't forget anything.",expression,n2
+わけだ,,"it's no wonder that; that's why","Used to express a natural conclusion based on the circumstances.","寒いわけだ。ストーブが消えている。","No wonder it's cold. The stove is off.",expression,n2
+わけではない、わけじゃない,,"it's not that; it doesn't mean that","Used to partially negate a statement, implying it's not entirely the case.","嫌いなわけではないが、あまり興味がない。","It's not that I dislike it, but I'm not very interested.",expression,n2
+割に,わりに,"for; considering","Indicates that something is surprising or unexpected in relation to something else.","年の割に、彼は若く見える。","He looks young for his age.",expression,n2
+をきっかけに、をきっかけとして,,"triggered by; with... as a start","Indicates that one thing becomes the starting point or opportunity for something else.","留学をきっかけに、異文化に興味を持つようになった。","My study abroad experience triggered my interest in different cultures.",expression,n2
+を通じて,をつうじて,"through; throughout","Means 'through' a medium or method, or 'throughout' a period of time.","一年を通じて、温暖な気候だ。","The climate is warm throughout the year.",expression,n2
+を問わず,をとわず,"regardless of","Indicates that something is not affected by a certain condition or difference.","この公園は季節を問わず、美しい。","This park is beautiful regardless of the season.",expression,n2
+を抜きにして,をぬきにして,"without; leaving out","Means to do something without something else.","堅苦しい挨拶は抜きにして、さあ食べましょう。","Let's skip the formal greetings and eat!",expression,n2
+をはじめ、をはじめとする,,"starting with; including","Used to give a prominent example when listing several things.","東京をはじめ、大阪や名古屋などの大都市。","Major cities, starting with Tokyo, such as Osaka and Nagoya.",expression,n2
+をめぐって、をめぐる,,"concerning; over","Used when there is a controversy or discussion surrounding a specific topic.","環境問題をめぐって、熱心な討論が行われた。","A heated discussion took place concerning environmental issues.",expression,n2
+をもとに、をもとにして,,"based on","Indicates that something is used as a foundation or source material.","実際にあった話をもとに小説を書いた。","I wrote a novel based on a true story.",expression,n2
+んばかりに、んばかりだ,,"as if about to","Indicates that someone or something appears to be on the verge of doing something.","彼は泣かんばかりの顔で頼んできた。","He asked me with a face that looked as if he was about to cry.",expression,n2
+がたい,,"difficult to; hard to","A suffix attached to verbs to express something is psychologically or physically difficult to do. (Reiterated for completeness)","得がたい経験をした。","I had a hard-to-come-by experience.",suffix,n2
+かねる,,"to be unable to; to find it difficult to","A formal expression indicating that the speaker finds it difficult to do something for psychological or practical reasons.","そのご意見には賛成しかねます。","I find it difficult to agree with that opinion.",verb,n2
+かねない,,"might; could possibly","Expresses the possibility that something negative might happen.","そんなことを言えば、誤解を招きかねない。","If you say such a thing, it might lead to a misunderstanding.",expression,n2
+っぽい,,"-ish; like; tending to","A casual suffix attached to nouns or verb stems to indicate a strong resemblance or tendency.","彼の説明は忘れっぽくて、わかりにくい。","His explanations tend to be forgetful and are hard to understand.",suffix,n2
+っこない,,"no chance of; definitely not","A very casual and emphatic way to express that something is absolutely impossible.","今からじゃ、終わりっこないよ。","There's no way we'll finish if we start now.",expression,n2
+ばよかった,,"I should have; I wish I had","Expresses regret about something that was or was not done in the past.","もっと勉強すればよかった。","I should have studied more.",expression,n2
+ふりをする,,"to pretend to; to act as if","Means to pretend to be in a certain state or to be doing something.","彼は寝たふりをした。","He pretended to be asleep.",phrase,n2
+やむを得ない,やむをえない,"unavoidable; cannot be helped","Describes a situation that is inevitable or beyond one's control.","中止はやむを得なかった。","The cancellation was unavoidable.",expression,n2
+わけがない,,"there's no way that; it's impossible that","Expresses the speaker's strong conviction that something is absolutely impossible.","彼がそんなことをするわけがない。","There's no way he would do such a thing.",expression,n2
+せいか,,"perhaps because of","Used to express an uncertain reason for a situation.","年のせいか、最近疲れやすい。","Perhaps because of my age, I get tired easily these days.",expression,n2
+だけ,,"only; just; as much as","A particle that can limit a scope or, with a verb, imply 'to the extent that'.","できるだけ早く来てください。","Please come as soon as you can.",particle,n2
+とか～とか,,"... and ... among other things","Used to list examples in a casual manner.","休みの日は映画を見るとか、買い物をするとかして過ごす。","On my days off, I spend my time doing things like watching movies and shopping.",particle,n2
+という,,"called; that","Used to define, name, or quote something.","山田という人から電話があった。","There was a call from a person named Yamada.",expression,n2
+ても,,"even if","A concessive particle meaning 'even if'.","雨が降っても行きます。","I will go even if it rains.",particle,n2
+こと,,"thing; matter; fact","A nominalizer that turns verbs and clauses into nouns.","大切なことは諦めないことだ。","The important thing is not to give up.",noun,n2
+ところ,,"place; point; moment","Can indicate a point in time or a situation.","今帰ってきたところです。","I just got back.",noun,n2
+ものの,,"although; but","Concedes a point stated in the first clause, but introduces a contrary outcome in the second. (Reiterated for completeness)","申し込んではみたものの、実際に行けるかどうかわからない。","Although I applied, I don't know if I can actually go.",conjunction,n2
+上で,うえで,"after; upon","Indicates that the preceding action is a prerequisite for the following action.","よく考えた上で、決めてください。","Please decide after thinking it over carefully.",expression,n2
+に反して,にはんして,"contrary to; against","Indicates that something is opposite to what was expected or stated.","予想に反して、結果は良かった。","Contrary to expectations, the result was good.",expression,n2
+に基づいて,にもとづいて,"based on","Indicates that something is founded on or derived from a source.","実際の事件に基づいて書かれた小説。","A novel written based on an actual incident.",expression,n2
+にわたる、にわたって,,"spanning; over","The attributive form of にわたって, used before a noun, indicating something extends over a range of time or space.","これは十年にわたる研究の成果だ。","This is the result of research spanning ten years.",expression,n2
+に限らず,にかぎらず,"not only; not limited to","Indicates that something applies not just to one thing but to others as well.","この規則は学生に限らず、教員にも適用される。","This rule applies not only to students but also to the teaching staff.",expression,n2
+に応じた,におうじた,"suited to; in accordance with","The attributive form of に応じて, used before a noun.","体力に応じた運動をすることが大切だ。","It is important to do exercise suited to your physical strength.",expression,n2
+に沿った,にそった,"in line with; along","The attributive form of に沿って, used before a noun.","当初の計画に沿った進行。","Progress in line with the initial plan.",expression,n2
+に対する,にたいする,"towards; regarding","The attributive form of に対して, used before a noun.","親に対する態度が悪い。","His attitude toward his parents is bad.",expression,n2
+に関する,にかんする,"related to; concerning","The attributive form of に関して, used before a noun.","環境に関する問題を議論する。","To discuss problems related to the environment.",expression,n2
+を込めて,をこめて,"filled with; with","Indicates that an action is done with a deep feeling or emotion.","愛を込めて、料理を作った。","I cooked with love.",expression,n2
+を中心に,をちゅうしんに,"centered around; mainly","Indicates that something is the main focus.","この祭りは地域の神社を中心に行われる。","This festival is held centered around the local shrine.",expression,n2
+を踏まえて,をふまえて,"based on; taking into account","Indicates that something is considered as a basis for a decision or action.","現在の状況を踏まえて、今後の方針を決める。","We will decide our future policy based on the current situation.",expression,n2
+をものともせずに,,"undaunted by; in spite of","Expresses that someone proceeds without being discouraged by difficulties.","彼はけがをものともせずに、試合に出場した。","He played in the game, undaunted by his injury.",expression,n2
+んがため、んがために,,"in order to; for the purpose of","A formal and literary way to express a strong purpose.","真実を知らんがため、調査を続ける。","I will continue the investigation in order to know the truth.",expression,n2
+あっての,,"which can exist only because of","Emphasizes that the existence of one thing is the necessary foundation for another.","お客様あっての商売です。","This business exists only because of our customers.",expression,n2
+いかんで、いかんによって,,"depending on","A formal expression indicating that the outcome is determined by something else.","努力いかんで結果は変わる。","The result will change depending on your effort.",expression,n2
+いかんによらず、いかんにかかわらず,,"regardless of","A formal expression meaning that something is not affected by a certain condition.","理由のいかんによらず、欠席は認めない。","Regardless of the reason, absence is not permitted.",expression,n2
+だの～だの,,"and... and so on (with a complaining nuance)","Used to list examples, often with a negative connotation of complaint.","寂しいだの暇だのと文句ばかり言う。","He does nothing but complain, saying things like he's lonely and he's bored.",particle,n2
+であれ～であれ,,"whether... or","A formal expression used to present alternatives, all of which lead to the same conclusion.","男であれ女であれ、機会は平等であるべきだ。","Whether you are a man or a woman, opportunities should be equal.",expression,n2
+てからというもの,,"ever since","Emphasizes that a significant change occurred after a specific event and has continued.","彼が転勤してからというもの、会社が寂しくなった。","Ever since he was transferred, the office has felt lonely.",expression,n2
+てしょうがない、てしかたがない,,"extremely; can't help but feel","Expresses an uncontrollable feeling or state.","彼女に会えなくて寂しくてしょうがない。","I can't see her and I'm so lonely I can't stand it.",expression,n2
+に越したことはない,にこしたことはない,"it's best to; nothing is better than","Expresses that a certain action or state is the best possible choice.","できるなら、安全に越したことはない。","If possible, it's best to be safe.",expression,n2
+もさることながら,,"not only... but also","Acknowledges the first point, then emphasizes a more important point.","技術もさることながら、アイデアが素晴らしい。","The technique is one thing, but the idea is also wonderful.",expression,n2

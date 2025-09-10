@@ -1,0 +1,37 @@
+@theme {
+    --color-btn-primary: #4299e1;
+    --color-btn-secondary: #4a5568;
+    /* Variables from main.css */
+    --color-card: inherit;
+    --color-word: inherit;
+    --color-text: inherit;
+    --color-border: inherit;
+    --color-page: inherit;
+}
+
+@layer base {
+    :host {
+        display: block;
+        font-family: 'Noto Sans JP', sans-serif;
+    }
+
+    .filter-select {
+        @apply py-1 px-2 rounded-lg border bg-card text-text border-border capitalize cursor-pointer;
+    }
+
+    .btn {
+        @apply px-4 py-2 rounded-lg font-medium cursor-pointer;
+    }
+
+    .btn-primary {
+        @apply bg-btn-primary text-white hover:bg-blue-600;
+    }
+
+    .btn-secondary {
+        @apply bg-gray-300 text-gray-800 hover:bg-gray-400;
+    }
+
+    .bookmarked {
+        @apply text-red-500 hover:text-red-700;
+    }
+}

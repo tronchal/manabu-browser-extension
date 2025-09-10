@@ -1,0 +1,1066 @@
+word,furigana,translation,category,level
+会う,あう,to meet,verb,n5
+青,あお,blue,noun,n5
+青い,あおい,blue,adjective,n5
+赤,あか,red,noun,n5
+赤い,あかい,red,adjective,n5
+明るい,あかるい,bright,adjective,n5
+秋,あき,autumn,noun,n5
+開く,あく,to open,verb,n5
+開ける,あける,to open,verb,n5
+あげる,,to give,verb,n5
+朝,あさ,morning,noun,n5
+朝御飯,あさごはん,breakfast,noun,n5
+あさって,,day after tomorrow,noun,n5
+足,あし,foot; leg,noun,n5
+明日,あした,tomorrow,noun,n5
+あそこ,,over there,pronoun,n5
+遊ぶ,あそぶ,to play,verb,n5
+暖かい,あたたかい,warm,adjective,n5
+頭,あたま,head,noun,n5
+新しい,あたらしい,new,adjective,n5
+あちら,,that way (polite),pronoun,n5
+暑い,あつい,hot (weather),adjective,n5
+熱い,あつい,hot (thing),adjective,n5
+厚い,あつい,thick,adjective,n5
+後,あと,after,noun,n5
+あなた,,you,pronoun,n5
+兄,あに,(my) older brother,noun,n5
+姉,あね,(my) older sister,noun,n5
+あの,,that (over there),pronoun,n5
+アパート,,apartment,noun,n5
+浴びる,あびる,to take a shower,verb,n5
+危ない,あぶない,dangerous,adjective,n5
+甘い,あまい,sweet,adjective,n5
+あまり,,not much,adverb,n5
+雨,あめ,rain,noun,n5
+飴,あめ,candy,noun,n5
+洗う,あらう,to wash,verb,n5
+ある,,to be; to exist (inanimate),verb,n5
+歩く,あるく,to walk,verb,n5
+あれ,,that one (over there),pronoun,n5
+ありがとう,,Thank you,phrase,n5
+いい,,good,adjective,n5
+いいえ,,no,interjection,n5
+言う,いう,to say,verb,n5
+家,いえ,house,noun,n5
+いかが,,how (polite),adverb,n5
+行く,いく,to go,verb,n5
+いくつ,,how many; how old,interrogative,n5
+いくら,,how much,interrogative,n5
+池,いけ,pond,noun,n5
+医者,いしゃ,doctor,noun,n5
+椅子,いす,chair,noun,n5
+忙しい,いそがしい,busy,adjective,n5
+痛い,いたい,painful,adjective,n5
+いただきます,,Thank you for the meal (before eating),phrase,n5
+一,いち,one,number,n5
+一日,いちにち,one day,noun,n5
+一番,いちばん,number one; the best,adverb,n5
+いつ,,when,interrogative,n5
+五日,いつか,five days; the 5th day,noun,n5
+一緒に,いっしょに,together,adverb,n5
+五つ,いつつ,five (things),number,n5
+いつも,,always,adverb,n5
+犬,いぬ,dog,noun,n5
+今,いま,now,noun,n5
+意味,いみ,meaning,noun,n5
+妹,いもうと,(my) younger sister,noun,n5
+嫌,いや,unpleasant,adjective,n5
+入口,いりぐち,entrance,noun,n5
+いる,,to be; to exist (animate),verb,n5
+要る,いる,to need,verb,n5
+入れる,いれる,to put in,verb,n5
+色,いろ,color,noun,n5
+色々,いろいろ,various,adjective,n5
+上,うえ,on; above; up,noun,n5
+後ろ,うしろ,behind; back,noun,n5
+薄い,うすい,thin,adjective,n5
+歌,うた,song,noun,n5
+歌う,うたう,to sing,verb,n5
+生まれる,うまれる,to be born,verb,n5
+海,うみ,sea; ocean,noun,n5
+売る,うる,to sell,verb,n5
+煩い,うるさい,noisy; annoying,adjective,n5
+上着,うわぎ,jacket,noun,n5
+絵,え,picture; drawing,noun,n5
+映画,えいが,movie,noun,n5
+映画館,えいがかん,movie theater,noun,n5
+英語,えいご,English language,noun,n5
+ええ,,yes (informal),interjection,n5
+駅,えき,station,noun,n5
+エレベーター,,elevator,noun,n5
+鉛筆,えんぴつ,pencil,noun,n5
+美味しい,おいしい,delicious,adjective,n5
+多い,おおい,many,adjective,n5
+大きい,おおきい,big,adjective,n5
+大きな,おおきな,big,pronoun,n5
+大勢,おおぜい,many people,noun,n5
+お母さん,おかあさん,(someone else's) mother,noun,n5
+お菓子,おかし,sweets; candy,noun,n5
+お金,おかね,money,noun,n5
+起きる,おきる,to get up; to wake up,verb,n5
+置く,おく,to put; to place,verb,n5
+奥さん,おくさん,(someone else's) wife,noun,n5
+お酒,おさけ,alcohol; sake,noun,n5
+お皿,おさら,plate; dish,noun,n5
+伯父さん,おじさん,uncle,noun,n5
+おじいさん,,grandfather; old man,noun,n5
+教える,おしえる,to teach; to tell,verb,n5
+押す,おす,to push; to press,verb,n5
+遅い,おそい,slow; late,adjective,n5
+お茶,おちゃ,tea,noun,n5
+お手洗い,おてあらい,restroom; toilet,noun,n5
+お父さん,おとうさん,(someone else's) father,noun,n5
+弟,おとうと,(my) younger brother,noun,n5
+男,おとこ,man,noun,n5
+男の子,おとこのこ,boy,noun,n5
+一昨日,おととい,day before yesterday,noun,n5
+一昨年,おととし,year before last,noun,n5
+大人,おとな,adult,noun,n5
+お腹,おなか,stomach,noun,n5
+同じ,おなじ,same,adjective,n5
+お兄さん,おにいさん,(someone else's) older brother,noun,n5
+お姉さん,おねえさん,(someone else's) older sister,noun,n5
+おばあさん,,grandmother; old woman,noun,n5
+伯母さん,おばさん,aunt,noun,n5
+お弁当,おべんとう,boxed lunch,noun,n5
+覚える,おぼえる,to remember,verb,n5
+重い,おもい,heavy,adjective,n5
+面白い,おもしろい,interesting,adjective,n5
+泳ぐ,およぐ,to swim,verb,n5
+降りる,おりる,to get off,verb,n5
+終わる,おわる,to end; to finish,verb,n5
+音楽,おんがく,music,noun,n5
+女,おんな,woman,noun,n5
+女の子,おんなのこ,girl,noun,n5
+外国,がいこく,foreign country,noun,n5
+外国人,がいこくじん,foreigner,noun,n5
+会社,かいしゃ,company,noun,n5
+階段,かいだん,stairs,noun,n5
+買い物,かいもの,shopping,noun,n5
+買う,かう,to buy,verb,n5
+返す,かえす,to return (something),verb,n5
+帰る,かえる,to go home; to return,verb,n5
+顔,かお,face,noun,n5
+かかる,,to take (time or money),verb,n5
+鍵,かぎ,key,noun,n5
+書く,かく,to write,verb,n5
+学生,がくせい,student,noun,n5
+～か月,～かげつ,counter for months,counter,n5
+かける,,to put on; to hang,verb,n5
+傘,かさ,umbrella,noun,n5
+貸す,かす,to lend,verb,n5
+風,かぜ,wind,noun,n5
+風邪,かぜ,a cold,noun,n5
+家族,かぞく,family,noun,n5
+方,かた,person (polite); way of doing,noun,n5
+学校,がっこう,school,noun,n5
+カップ,,cup,noun,n5
+家庭,かてい,household,noun,n5
+角,かど,corner,noun,n5
+花瓶,かびん,vase,noun,n5
+被る,かぶる,to wear (on head),verb,n5
+紙,かみ,paper,noun,n5
+カメラ,,camera,noun,n5
+火曜日,かようび,Tuesday,noun,n5
+辛い,からい,spicy,adjective,n5
+体,からだ,body,noun,n5
+借りる,かりる,to borrow,verb,n5
+軽い,かるい,light (weight),adjective,n5
+カレンダー,,calendar,noun,n5
+川,かわ,river,noun,n5
+可愛い,かわいい,cute,adjective,n5
+漢字,かんじ,Kanji,noun,n5
+木,き,tree; wood,noun,n5
+黄色,きいろ,yellow (noun),noun,n5
+黄色い,きいろい,yellow (adjective),adjective,n5
+消える,きえる,to disappear; to go out,verb,n5
+聞く,きく,to listen; to hear; to ask,verb,n5
+北,きた,north,noun,n5
+ギター,,guitar,noun,n5
+汚い,きたない,dirty,adjective,n5
+喫茶店,きっさてん,coffee shop,noun,n5
+切手,きって,postage stamp,noun,n5
+切符,きっぷ,ticket,noun,n5
+昨日,きのう,yesterday,noun,n5
+九,きゅう,nine,number,n5
+牛肉,ぎゅうにく,beef,noun,n5
+牛乳,ぎゅうにゅう,milk,noun,n5
+今日,きょう,today,noun,n5
+教室,きょうしつ,classroom,noun,n5
+兄弟,きょうだい,siblings,noun,n5
+去年,きょねん,last year,noun,n5
+嫌い,きらい,to dislike,adjective,n5
+切る,きる,to cut,verb,n5
+着る,きる,to wear,verb,n5
+きれい,,beautiful; clean,adjective,n5
+キロメートル,,kilometer,noun,n5
+銀行,ぎんこう,bank,noun,n5
+金曜日,きんようび,Friday,noun,n5
+薬,くすり,medicine,noun,n5
+ください,,please give me,phrase,n5
+果物,くだもの,fruit,noun,n5
+口,くち,mouth,noun,n5
+靴,くつ,shoes,noun,n5
+靴下,くつした,socks,noun,n5
+国,くに,country,noun,n5
+曇り,くもり,cloudy weather,noun,n5
+曇る,くもる,to become cloudy,verb,n5
+暗い,くらい,dark,adjective,n5
+クラス,,class,noun,n5
+グラム,,gram,noun,n5
+来る,くる,to come,verb,n5
+車,くるま,car,noun,n5
+黒,くろ,black,noun,n5
+黒い,くろい,black,adjective,n5
+警官,けいかん,police officer,noun,n5
+今朝,けさ,this morning,noun,n5
+消す,けす,to turn off; to erase,verb,n5
+結構,けっこう,splendid; enough,adjective,n5
+結婚,けっこん,marriage,noun,n5
+月曜日,げつようび,Monday,noun,n5
+玄関,げんかん,entrance hall,noun,n5
+元気,げんき,healthy; lively,adjective,n5
+五,ご,five,number,n5
+～語,～ご,language,counter,n5
+公園,こうえん,park,noun,n5
+交差点,こうさてん,intersection,noun,n5
+紅茶,こうちゃ,black tea,noun,n5
+交番,こうばん,police box,noun,n5
+声,こえ,voice,noun,n5
+コート,,coat,noun,n5
+コーヒー,,coffee,noun,n5
+ここ,,here,pronoun,n5
+午後,ごご,P.M. (afternoon),noun,n5
+九日,ここのか,nine days; the 9th day,noun,n5
+九つ,ここのつ,nine (things),number,n5
+午前,ごぜん,A.M. (morning),noun,n5
+答える,こたえる,to answer,verb,n5
+ごちそうさまでした,,Thank you for the meal (after eating),phrase,n5
+こちら,,this way (polite),pronoun,n5
+こっち,,this way (informal),pronoun,n5
+コップ,,cup; glass,noun,n5
+今年,ことし,this year,noun,n5
+言葉,ことば,word; language,noun,n5
+子供,こども,child,noun,n5
+この,,this,pronoun,n5
+御飯,ごはん,rice; meal,noun,n5
+コピーする,,to copy,verb,n5
+困る,こまる,to be in trouble,verb,n5
+これ,,this one,pronoun,n5
+今月,こんげつ,this month,noun,n5
+今週,こんしゅう,this week,noun,n5
+こんな,,such; like this,pronoun,n5
+今晩,こんばん,tonight,noun,n5
+こんにちは,,Hello; Good afternoon,phrase,n5
+こんばんは,,Good evening,phrase,n5
+さあ,,well...,interjection,n5
+～歳,～さい,～ years old,counter,n5
+財布,さいふ,wallet,noun,n5
+魚,さかな,fish,noun,n5
+先,さき,ahead; before,noun,n5
+咲く,さく,to bloom,verb,n5
+作文,さくぶん,composition; essay,noun,n5
+差す,さす,to hold up (an umbrella),verb,n5
+～冊,～さつ,counter for books,counter,n5
+雑誌,ざっし,magazine,noun,n5
+砂糖,さとう,sugar,noun,n5
+寒い,さむい,cold (weather),adjective,n5
+さ来年,さらいねん,year after next,noun,n5
+三,さん,three,number,n5
+～さん,,Mr.; Mrs.; Ms.,counter,n5
+散歩,さんぽ,walk; stroll,noun,n5
+四,し / よん,four,number,n5
+～時,～じ,o'clock,counter,n5
+塩,しお,salt,noun,n5
+しかし,,however; but,conjunction,n5
+時間,じかん,time; hour,noun,n5
+仕事,しごと,work; job,noun,n5
+辞書,じしょ,dictionary,noun,n5
+静か,しずか,quiet,adjective,n5
+下,した,under; below,noun,n5
+七,しち / なな,seven,number,n5
+質問,しつもん,question,noun,n5
+自転車,じてんしゃ,bicycle,noun,n5
+自動車,じどうしゃ,automobile,noun,n5
+死ぬ,しぬ,to die,verb,n5
+字引,じびき,dictionary,noun,n5
+自分,じぶん,oneself,pronoun,n5
+閉まる,しまる,to be closed,verb,n5
+閉める,しめる,to close,verb,n5
+締める,しめる,to fasten; to tie,verb,n5
+じゃあ,,well then...,conjunction,n5
+写真,しゃしん,photograph,noun,n5
+シャツ,,shirt,noun,n5
+シャワー,,shower,noun,n5
+十,じゅう,ten,number,n5
+～週間,～しゅうかん,～ weeks,counter,n5
+授業,じゅぎょう,class; lesson,noun,n5
+宿題,しゅくだい,homework,noun,n5
+上手,じょうず,skillful; good at,adjective,n5
+丈夫,じょうぶ,strong; durable,adjective,n5
+醤油,しょうゆ,soy sauce,noun,n5
+食堂,しょくどう,dining hall; canteen,noun,n5
+知る,しる,to know,verb,n5
+白,しろ,white,noun,n5
+白い,しろい,white,adjective,n5
+新聞,しんぶん,newspaper,noun,n5
+水曜日,すいようび,Wednesday,noun,n5
+吸う,すう,to smoke; to inhale,verb,n5
+スカート,,skirt,noun,n5
+好き,すき,to like,adjective,n5
+少ない,すくない,a few; a little,adjective,n5
+すぐに,,immediately,adverb,n5
+少し,すこし,a little; a few,adverb,n5
+涼しい,すずしい,cool (weather),adjective,n5
+ストーブ,,heater,noun,n5
+スプーン,,spoon,noun,n5
+スポーツ,,sports,noun,n5
+ズボン,,trousers; pants,noun,n5
+住む,すむ,to live,verb,n5
+スリッパ,,slippers,noun,n5
+する,,to do,verb,n5
+座る,すわる,to sit,verb,n5
+背,せ,height; stature,noun,n5
+生徒,せいと,pupil; student,noun,n5
+セーター,,sweater,noun,n5
+石鹸,せっけん,soap,noun,n5
+背広,せびろ,business suit,noun,n5
+狭い,せまい,narrow,adjective,n5
+ゼロ,,zero,number,n5
+千,せん,thousand,number,n5
+先月,せんげつ,last month,noun,n5
+先週,せんしゅう,last week,noun,n5
+先生,せんせい,teacher,noun,n5
+洗濯,せんたく,laundry,noun,n5
+全部,ぜんぶ,all,adverb,n5
+掃除,そうじ,to clean,verb,n5
+そうして,,and then,conjunction,n5
+そこ,,there,pronoun,n5
+そちら,,that way (polite),pronoun,n5
+そっち,,that way (informal),pronoun,n5
+外,そと,outside,noun,n5
+その,,that,pronoun,n5
+そば,,near; beside,noun,n5
+空,そら,sky,noun,n5
+それ,,that one,pronoun,n5
+それから,,and then; after that,conjunction,n5
+それでは,,in that case; well then,conjunction,n5
+～代,～だい,charge; fee,counter,n5
+大学,だいがく,university,noun,n5
+大使館,たいしかん,embassy,noun,n5
+大丈夫,だいじょうぶ,all right; okay,adjective,n5
+大好き,だいすき,to love,adjective,n5
+大切,たいせつ,important,adjective,n5
+台所,だいどころ,kitchen,noun,n5
+大変,たいへん,very; terrible,adverb,n5
+高い,たかい,high; tall; expensive,adjective,n5
+たくさん,,many; a lot,adverb,n5
+タクシー,,taxi,noun,n5
+出す,だす,to take out; to submit,verb,n5
+立つ,たつ,to stand,verb,n5
+縦,たて,vertical,noun,n5
+建物,たてもの,building,noun,n5
+楽しい,たのしい,fun; enjoyable,adjective,n5
+頼む,たのむ,to ask; to request,verb,n5
+煙草,たばこ,tobacco; cigarette,noun,n5
+たぶん,,probably,adverb,n5
+食べ物,たべもの,food,noun,n5
+食べる,たべる,to eat,verb,n5
+卵,たまご,egg,noun,n5
+誰,だれ,who,interrogative,n5
+誰か,だれか,someone,pronoun,n5
+誕生日,たんじょうび,birthday,noun,n5
+だんだん,,gradually,adverb,n5
+小さい,ちいさい,small,adjective,n5
+小さな,ちいさな,small,pronoun,n5
+近い,ちかい,near,adjective,n5
+違う,ちがう,to be different,verb,n5
+近く,ちかく,near; neighborhood,noun,n5
+地下鉄,ちかてつ,subway,noun,n5
+地図,ちず,map,noun,n5
+茶色,ちゃいろ,brown,noun,n5
+茶碗,ちゃわん,rice bowl,noun,n5
+丁度,ちょうど,exactly,adverb,n5
+ちょっと,,a little,adverb,n5
+一日,ついたち,first day of the month,noun,n5
+使う,つかう,to use,verb,n5
+疲れる,つかれる,to get tired,verb,n5
+次,つぎ,next,noun,n5
+着く,つく,to arrive,verb,n5
+机,つくえ,desk,noun,n5
+作る,つくる,to make,verb,n5
+点ける,つける,to turn on,verb,n5
+勤める,つとめる,to work for,verb,n5
+つまらない,,boring,adjective,n5
+冷たい,つめたい,cold (to the touch),adjective,n5
+強い,つよい,strong,adjective,n5
+手,て,hand,noun,n5
+テープ,,tape,noun,n5
+テープレコーダー,,tape recorder,noun,n5
+テーブル,,table,noun,n5
+出かける,でかける,to go out,verb,n5
+手紙,てがみ,letter,noun,n5
+できる,,to be able to,verb,n5
+出口,でぐち,exit,noun,n5
+テスト,,test,noun,n5
+では,,then; well,conjunction,n5
+デパート,,department store,noun,n5
+でも,,but,conjunction,n5
+出る,でる,to leave; to exit,verb,n5
+テレビ,,television,noun,n5
+天気,てんき,weather,noun,n5
+電気,でんき,electricity; light,noun,n5
+電車,でんしゃ,train,noun,n5
+電話,でんわ,telephone,noun,n5
+戸,と,door (Japanese style),noun,n5
+～度,～ど,degrees (temperature); times,counter,n5
+トイレ,,toilet,noun,n5
+どう,,how,adverb,n5
+どうして,,why,adverb,n5
+どうぞ,,please; here you are,adverb,n5
+動物,どうぶつ,animal,noun,n5
+どうも,,thanks,adverb,n5
+十,とお,ten (things),number,n5
+遠い,とおい,far,adjective,n5
+十日,とおか,ten days; the 10th day,noun,n5
+時々,ときどき,sometimes,adverb,n5
+時計,とけい,clock; watch,noun,n5
+どこ,,where,interrogative,n5
+所,ところ,place,noun,n5
+年,とし,year; age,noun,n5
+図書館,としょかん,library,noun,n5
+どちら,,which (of two),pronoun,n5
+どっち,,which (informal),pronoun,n5
+とても,,very,adverb,n5
+どなた,,who (polite),pronoun,n5
+隣,となり,next door; neighbor,noun,n5
+どの,,which (+noun),pronoun,n5
+飛ぶ,とぶ,to fly,verb,n5
+止まる,とまる,to stop (intransitive),verb,n5
+友達,ともだち,friend,noun,n5
+土曜日,どようび,Saturday,noun,n5
+鳥,とり,bird,noun,n5
+鶏肉,とりにく,chicken meat,noun,n5
+取る,とる,to take; to pass,verb,n5
+撮る,とる,to take a photo or video,verb,n5
+どれ,,which (of three or more),pronoun,n5
+どんな,,what kind of,pronoun,n5
+無い,ない,to not be (inanimate),adjective,n5
+ナイフ,,knife,noun,n5
+中,なか,inside,noun,n5
+長い,ながい,long,adjective,n5
+鳴く,なく,to cry (animal); to sing (bird),verb,n5
+無くす,なくす,to lose something,verb,n5
+なぜ,,why,adverb,n5
+夏,なつ,summer,noun,n5
+夏休み,なつやすみ,summer vacation,noun,n5
+～など,,and so on; etc.,particle,n5
+七つ,ななつ,seven (things),number,n5
+何,なに / なん,what,interrogative,n5
+七日,なのか,seven days; the 7th day,noun,n5
+名前,なまえ,name,noun,n5
+習う,ならう,to learn,verb,n5
+並ぶ,ならぶ,to line up,verb,n5
+並べる,ならべる,to line up something,verb,n5
+なる,,to become,verb,n5
+何～,なん～,what ~,noun,n5
+二,に,two,number,n5
+賑やか,にぎやか,lively; bustling,adjective,n5
+肉,にく,meat,noun,n5
+西,にし,west,noun,n5
+～曜日,～ようび,day of the week,counter,n5
+日曜日,にちようび,Sunday,noun,n5
+荷物,にもつ,luggage; baggage,noun,n5
+ニュース,,news,noun,n5
+庭,にわ,garden,noun,n5
+脱ぐ,ぬぐ,to take off (clothes),verb,n5
+温い,ぬるい,lukewarm,adjective,n5
+ネクタイ,,necktie,noun,n5
+猫,ねこ,cat,noun,n5
+寝る,ねる,to sleep,verb,n5
+～年,～ねん,year,counter,n5
+ノート,,notebook,noun,n5
+登る,のぼる,to climb,verb,n5
+飲み物,のみもの,drink; beverage,noun,n5
+飲む,のむ,to drink,verb,n5
+乗る,のる,to ride; to get on,verb,n5
+歯,は,tooth,noun,n5
+パーティー,,party,noun,n5
+はい,,yes,interjection,n5
+～杯,～はい,counter for cups/glasses,counter,n5
+灰皿,はいざら,ashtray,noun,n5
+入る,はいる,to enter,verb,n5
+葉書,はがき,postcard,noun,n5
+はく,,to wear (on lower body),verb,n5
+箱,はこ,box,noun,n5
+橋,はし,bridge,noun,n5
+箸,はし,chopsticks,noun,n5
+始まる,はじまる,to begin; to start,verb,n5
+初め,はじめ,beginning,noun,n5
+初めて,はじめて,for the first time,adverb,n5
+走る,はしる,to run,verb,n5
+バス,,bus,noun,n5
+バター,,butter,noun,n5
+二十歳,はたち,20 years old,noun,n5
+働く,はたらく,to work,verb,n5
+八,はち,eight,number,n5
+二十日,はつか,twenty days; 20th day,noun,n5
+花,はな,flower,noun,n5
+鼻,はな,nose,noun,n5
+話,はなし,talk; story,noun,n5
+話す,はなす,to speak,verb,n5
+母,はは,(my) mother,noun,n5
+早い,はやい,early,adjective,n5
+速い,はやい,fast,adjective,n5
+春,はる,spring,noun,n5
+貼る,はる,to stick; to paste,verb,n5
+晴れ,はれ,sunny weather,noun,n5
+晴れる,はれる,to become sunny,verb,n5
+半分,はんぶん,half,noun,n5
+ハンカチ,,handkerchief,noun,n5
+晩御飯,ばんごはん,dinner,noun,n5
+パン,,bread,noun,n5
+パンツ,,pants; underwear,noun,n5
+日,ひ,day; sun,noun,n5
+火,ひ,fire,noun,n5
+ピアノ,,piano,noun,n5
+ビール,,beer,noun,n5
+東,ひがし,east,noun,n5
+引く,ひく,to pull; to play (a string instrument),verb,n5
+弾く,ひく,to play (an instrument),verb,n5
+低い,ひくい,low,adjective,n5
+飛行機,ひこうき,airplane,noun,n5
+左,ひだり,left,noun,n5
+人,ひと,person,noun,n5
+一つ,ひとつ,one (thing),number,n5
+一月,ひとつき,one month,noun,n5
+一人,ひとり,one person,noun,n5
+暇,ひま,free time,adjective,n5
+百,ひゃく,hundred,number,n5
+病院,びょういん,hospital,noun,n5
+病気,びょうき,illness; sickness,noun,n5
+昼御飯,ひるごはん,lunch,noun,n5
+広い,ひろい,wide; spacious,adjective,n5
+フィルム,,film,noun,n5
+封筒,ふうとう,envelope,noun,n5
+プール,,pool,noun,n5
+フォーク,,fork,noun,n5
+吹く,ふく,to blow,verb,n5
+服,ふく,clothes,noun,n5
+二つ,ふたつ,two (things),number,n5
+豚肉,ぶたにく,pork,noun,n5
+二人,ふたり,two people,noun,n5
+太い,ふとい,fat; thick,adjective,n5
+冬,ふゆ,winter,noun,n5
+降る,ふる,"to fall (rain, snow)",verb,n5
+古い,ふるい,old,adjective,n5
+風呂,ふろ,bath,noun,n5
+～分,～ふん / ぷん,minute,counter,n5
+文章,ぶんしょう,sentence; text,noun,n5
+ページ,,page,noun,n5
+下手,へた,unskillful,adjective,n5
+ベッド,,bed,noun,n5
+ペット,,pet,noun,n5
+部屋,へや,room,noun,n5
+辺,へん,area; vicinity,noun,n5
+ペン,,pen,noun,n5
+勉強,べんきょう,to study,verb,n5
+便利,べんり,convenient,adjective,n5
+帽子,ぼうし,hat; cap,noun,n5
+ボールペン,,ballpoint pen,noun,n5
+ほか,,other; the rest,noun,n5
+ポケット,,pocket,noun,n5
+欲しい,ほしい,to want,adjective,n5
+ポスト,,postbox; mailbox,noun,n5
+細い,ほそい,thin; slender,adjective,n5
+ボタン,,button,noun,n5
+ホテル,,hotel,noun,n5
+本,ほん,book,noun,n5
+～本,～ほん,"counter for long, cylindrical objects",counter,n5
+本棚,ほんだな,bookshelf,noun,n5
+ほんとうに,,really; truly,adverb,n5
+毎朝,まいあさ,every morning,noun,n5
+毎月,まいげつ,every month,noun,n5
+毎週,まいしゅう,every week,noun,n5
+毎日,まいにち,every day,noun,n5
+毎年,まいねん,every year,noun,n5
+毎晩,まいばん,every night,noun,n5
+前,まえ,before; front,noun,n5
+曲がる,まがる,to turn,verb,n5
+不味い,まずい,unpleasant; bad-tasting,adjective,n5
+また,,again,adverb,n5
+まだ,,not yet; still,adverb,n5
+町,まち,town,noun,n5
+待つ,まつ,to wait,verb,n5
+真っ直ぐ,まっすぐ,straight ahead,adverb,n5
+マッチ,,match,noun,n5
+窓,まど,window,noun,n5
+丸い,まるい,round,adjective,n5
+万,まん,ten thousand,number,n5
+万年筆,まんねんひつ,fountain pen,noun,n5
+磨く,みがく,to brush (teeth); to polish,verb,n5
+右,みぎ,right,noun,n5
+短い,みじかい,short,adjective,n5
+水,みず,water,noun,n5
+店,みせ,store; shop,noun,n5
+見せる,みせる,to show,verb,n5
+道,みち,street; road,noun,n5
+三日,みっか,three days; 3rd day,noun,n5
+三つ,みっつ,three (things),number,n5
+緑,みどり,green,noun,n5
+皆さん,みなさん,everyone,pronoun,n5
+南,みなみ,south,noun,n5
+耳,みみ,ear,noun,n5
+見る,みる,to see; to watch,verb,n5
+みんな,,everyone; all,pronoun,n5
+六日,むいか,six days; 6th day,noun,n5
+向こう,むこう,over there; the other side,noun,n5
+難しい,むずかしい,difficult,adjective,n5
+六つ,むっつ,six (things),number,n5
+村,むら,village,noun,n5
+目,め,eye,noun,n5
+メートル,,meter,noun,n5
+眼鏡,めがね,glasses,noun,n5
+もう,,already,adverb,n5
+もう一度,もういちど,one more time,adverb,n5
+木曜日,もくようび,Thursday,noun,n5
+もしもし,,hello (on the phone),phrase,n5
+持つ,もつ,to hold; to have,verb,n5
+もっと,,more,adverb,n5
+物,もの,thing (tangible),noun,n5
+門,もん,gate,noun,n5
+問題,もんだい,problem; question,noun,n5
+八百屋,やおや,vegetable store,noun,n5
+野菜,やさい,vegetable,noun,n5
+易しい,やさしい,easy,adjective,n5
+安い,やすい,cheap,adjective,n5
+休み,やすみ,holiday; rest,noun,n5
+休む,やすむ,to rest; to take a day off,verb,n5
+八つ,やっつ,eight (things),number,n5
+山,やま,mountain,noun,n5
+やる,,to do (informal); to give (to inferior),verb,n5
+八日,ようか,eight days; 8th day,noun,n5
+洋食,ようしょく,Western food,noun,n5
+洋服,ようふく,Western-style clothes,noun,n5
+横,よこ,side; horizontal,noun,n5
+四日,よっか,four days; 4th day,noun,n5
+四つ,よっつ,four (things),number,n5
+呼ぶ,よぶ,to call,verb,n5
+読む,よむ,to read,verb,n5
+夜,よる,night,noun,n5
+弱い,よわい,weak,adjective,n5
+来月,らいげつ,next month,noun,n5
+来週,らいしゅう,next week,noun,n5
+来年,らいねん,next year,noun,n5
+ラジオ,,radio,noun,n5
+ラジカセ,,radio cassette player,noun,n5
+留学生,りゅうがくせい,international student,noun,n5
+両親,りょうしん,parents,noun,n5
+料理,りょうり,cooking; cuisine,noun,n5
+旅行,りょこう,travel; trip,noun,n5
+零,れい,zero,number,n5
+冷蔵庫,れいぞうこ,refrigerator,noun,n5
+レコード,,record,noun,n5
+レストラン,,restaurant,noun,n5
+練習,れんしゅう,practice,noun,n5
+廊下,ろうか,hallway; corridor,noun,n5
+六,ろく,six,number,n5
+ワイシャツ,,dress shirt,noun,n5
+若い,わかい,young,adjective,n5
+分かる,わかる,to understand,verb,n5
+忘れる,わすれる,to forget,verb,n5
+私,わたし,I; me,pronoun,n5
+私,わたくし,I; me (formal),pronoun,n5
+渡す,わたす,to hand over,verb,n5
+渡る,わたる,to cross over,verb,n5
+悪い,わるい,bad,adjective,n5
+おはようございます,,Good morning (polite),phrase,n5
+おやすみなさい,,Good night,phrase,n5
+さようなら,,Goodbye,phrase,n5
+いってきます,,I'm leaving (said when leaving home),phrase,n5
+いってらっしゃい,,Take care; see you later (said to someone leaving),phrase,n5
+ただいま,,I'm home,phrase,n5
+おかえりなさい,,Welcome home,phrase,n5
+お元気ですか,おげんきですか,How are you?,phrase,n5
+はじめまして,,Nice to meet you,phrase,n5
+どうぞよろしくおねがいします,,Pleased to meet you,phrase,n5
+すみません,,Excuse me; I'm sorry,phrase,n5
+ごめんなさい,,I'm sorry,phrase,n5
+起立,きりつ,Stand up,expression,n5
+着席,ちゃくせき,Sit down,expression,n5
+静かにしてください,しずかにしてください,Please be quiet,expression,n5
+もう一度お願いします,もういちどおねがいします,"Once more, please",expression,n5
+よくできました,,Well done,expression,n5
+休みましょう,やすみましょう,Let's take a break,expression,n5
+終わります,おわります,Let's finish,expression,n5
+お名前は何ですか,おなまえはなんですか,What is your name?,phrase,n5
+おいくつですか,,How old are you?,phrase,n5
+お国はどちらですか,おくにはどちらですか,Where are you from?,phrase,n5
+電話番号は何番ですか,でんわばんごうはなんばんですか,What is your phone number?,phrase,n5
+天気ですね,てんきですね,"Nice weather, isn't it?",phrase,n5
+お先に失礼します,おさきにしつれいします,Excuse me for leaving first,phrase,n5
+お疲れ様でした,おつかれさまでした,Thank you for your hard work,phrase,n5
+頑張ってください,がんばってください,Please do your best,phrase,n5
+気をつけて,きをつけて,Take care,phrase,n5
+お大事に,おだいじに,Get well soon,phrase,n5
+おめでとうございます,,Congratulations,phrase,n5
+誕生日おめでとう,たんじょうびおめでとう,Happy birthday,phrase,n5
+あけましておめでとうございます,,Happy New Year,phrase,n5
+試験,しけん,exam,noun,n5
+りんご,,apple,noun,n5
+みかん,,mandarin orange,noun,n5
+バナナ,,banana,noun,n5
+ご飯,ごはん,rice; meal,noun,n5
+ジュース,,juice,noun,n5
+晩,ばん,evening,noun,n5
+昼,ひる,daytime; noon,noun,n5
+家,うち,my house; my home,noun,n5
+父,ちち,(my) father,noun,n5
+おじ,,(my) uncle,noun,n5
+おば,,(my) aunt,noun,n5
+いとこ,,cousin,noun,n5
+主人,しゅじん,(my) husband,noun,n5
+ご主人,ごしゅじん,(someone else's) husband,noun,n5
+妻,つま,(my) wife,noun,n5
+ゆっくり,,slowly,adverb,n5
+はっきり,,clearly,adverb,n5
+もちろん,,of course,adverb,n5
+Tシャツ,ティーシャツ,T-shirt,noun,n5
+ワンピース,,dress,noun,n5
+ねつ,,fever,noun,n5
+くび,,neck,noun,n5
+ゆび,,finger,noun,n5
+せなか,,back,noun,n5
+はじめに,,in the beginning,adverb,n5
+おわりに,,in the end,adverb,n5
+おれい,,gratitude; thanks,noun,n5
+おかげさまで,,thanks to you,phrase,n5
+ようこそ,,welcome,phrase,n5
+おじゃまします,,excuse me for disturbing you,phrase,n5
+いらっしゃいませ,,welcome (to a store),phrase,n5
+かしこまりました,,certainly; sir/madam,phrase,n5
+しょうしょうおまちください,,please wait a moment,phrase,n5
+えんりょなく,,without reserve; freely,adverb,n5
+ごめんください,,"excuse me, is anyone home?",phrase,n5
+いかがですか,,how is it? would you like some?,phrase,n5
+送る,おくる,to send,verb,n5
+もらう,,to receive,verb,n5
+終わり,おわり,the end,noun,n5
+お祭り,おまつり,festival,noun,n5
+よく,,often; well,adverb,n5
+どうもありがとうございます,,Thank you very much,phrase,n5
+どういたしまして,,You're welcome,phrase,n5
+こちらこそ,,Likewise; The pleasure is mine,phrase,n5
+失礼します,しつれいします,Excuse me (for my rudeness),phrase,n5
+お元気で,おげんきで,Take care; Stay well,phrase,n5
+では、また,,"Well then, see you later",phrase,n5
+お願いします,おねがいします,Please,phrase,n5
+大丈夫です,だいじょうぶです,It's okay; I'm okay,phrase,n5
+わかりません,,I don't understand,phrase,n5
+もう一度言ってください,もういちどいってください,Please say it again,phrase,n5
+ゆっくり話してください,ゆっくりはなしてください,Please speak slowly,phrase,n5
+これは何ですか,これはなんですか,What is this?,phrase,n5
+いくらですか,,How much is it?,phrase,n5
+これをください,,"This one, please",phrase,n5
+トイレはどこですか,,Where is the bathroom?,phrase,n5
+日本,にほん,Japan,noun,n5
+金,かね,money,noun,n5
+土,つち,soil; earth,noun,n5
+月,つき,moon; month,noun,n5
+週,しゅう,week,noun,n5
+大,おおきい,big,adjective,n5
+おはよう,,good morning,phrase,n5
+じゃあね,,see you,phrase,n5
+分かりました,わかりました,I understand,phrase,n5
+円,えん,yen,noun,n5
+簡単,かんたん,easy; simple,adjective,n5
+始める,はじめる,to start,verb,n5
+ドア,,door,noun,n5
+雪,ゆき,snow,noun,n5
+かばん,,bag,noun,n5
+よろしくお願いします,よろしくおねがいします,Please take care of me,phrase,n5
+おかえり,,Welcome back,phrase,n5
+おめでとう,,Congratulations,phrase,n5
+すみませんでした,,I'm sorry (past tense),phrase,n5
+ちょっとまってください,,Please wait a moment,phrase,n5
+受ける,うける,to receive,verb,n5
+上げる,あげる,to give,verb,n5
+直す,なおす,to fix,verb,n5
+怖い,こわい,scary,adjective,n5
+おいしい,,delicious,adjective,n5
+まずい,,bad-tasting,adjective,n5
+親切,しんせつ,kind,adjective,n5
+不便,ふべん,inconvenient,adjective,n5
+紫,むらさき,purple,noun,n5
+遠く,とおく,far away,adverb,n5
+すぐ,,immediately,adverb,n5
+早く,はやく,early; quickly,adverb,n5
+遅く,おそく,late; slowly,adverb,n5
+全然,ぜんぜん,not at all,adverb,n5
+たまに,,occasionally,adverb,n5
+ほとんど,,almost; hardly,adverb,n5
+だれか,,someone,pronoun,n5
+何か,なにか,something,pronoun,n5
+どこか,,somewhere,pronoun,n5
+いつか,,sometime,adverb,n5
+お風呂,おふろ,bath,noun,n5
+休日,きゅうじつ,holiday,noun,n5
+お正月,おしょうがつ,New Year,noun,n5
+朝ご飯,あさごはん,breakfast,noun,n5
+昼ご飯,ひるごはん,lunch,noun,n5
+晩ご飯,ばんごはん,dinner,noun,n5
+味,あじ,taste; flavor,noun,n5
+水道,すいどう,water supply; tap,noun,n5
+ガス,,gas,noun,n5
+洗濯機,せんたくき,washing machine,noun,n5
+エアコン,,air conditioner,noun,n5
+パソコン,,computer,noun,n5
+ビデオ,,video,noun,n5
+消しゴム,けしごむ,eraser,noun,n5
+定規,じょうぎ,ruler,noun,n5
+教科書,きょうかしょ,textbook,noun,n5
+答え,こたえ,answer,noun,n5
+看護師,かんごし,nurse,noun,n5
+会社員,かいしゃいん,company employee,noun,n5
+店員,てんいん,shop clerk,noun,n5
+警察,けいさつ,police,noun,n5
+郵便局,ゆうびんきょく,post office,noun,n5
+市場,いちば,market,noun,n5
+空港,くうこう,airport,noun,n5
+船,ふね,ship; boat,noun,n5
+信号,しんごう,traffic light,noun,n5
+都市,とし,city,noun,n5
+住所,じゅうしょ,address,noun,n5
+電話番号,でんわばんごう,phone number,noun,n5
+年齢,ねんれい,age,noun,n5
+趣味,しゅみ,hobby,noun,n5
+サッカー,,soccer,noun,n5
+野球,やきゅう,baseball,noun,n5
+テニス,,tennis,noun,n5
+博物館,はくぶつかん,museum,noun,n5
+美術館,びじゅつかん,art gallery,noun,n5
+動物園,どうぶつえん,zoo,noun,n5
+祭り,まつり,festival,noun,n5
+花火,はなび,fireworks,noun,n5
+お土産,おみやげ,souvenir,noun,n5
+温泉,おんせん,hot spring,noun,n5
+神社,じんじゃ,Shinto shrine,noun,n5
+寺,てら,temple,noun,n5
+教会,きょうかい,church,noun,n5
+おにぎり,,rice ball,noun,n5
+寿司,すし,sushi,noun,n5
+天ぷら,てんぷら,tempura,noun,n5
+うどん,,udon noodles,noun,n5
+ラーメン,,ramen,noun,n5
+カレー,,curry,noun,n5
+ケーキ,,cake,noun,n5
+アイスクリーム,,ice cream,noun,n5
+いちご,,strawberry,noun,n5
+メロン,,melon,noun,n5
+にんじん,,carrot,noun,n5
+じゃがいも,,potato,noun,n5
+たまねぎ,,onion,noun,n5
+きゅうり,,cucumber,noun,n5
+トマト,,tomato,noun,n5
+熱,ねつ,fever,noun,n5
+髪,かみ,hair,noun,n5
+指,ゆび,finger,noun,n5
+夫,おっと,husband,noun,n5
+赤ちゃん,あかちゃん,baby,noun,n5
+人々,ひとびと,people,noun,n5
+踊る,おどる,to dance,verb,n5
+笑う,わらう,to laugh,verb,n5
+泣く,なく,to cry,verb,n5
+怒る,おこる,to get angry,verb,n5
+喜ぶ,よろこぶ,to be happy,verb,n5
+悲しい,かなしい,sad,adjective,n5
+嬉しい,うれしい,happy,adjective,n5
+驚く,おどろく,to be surprised,verb,n5
+考える,かんがえる,to think,verb,n5
+思う,おもう,to think; to feel,verb,n5
+です,,to be (copula),verb,n5
+ですます,,polite form,expression,n5
+ます,,polite verb ending,expression,n5
+でした,,was (past copula),verb,n5
+ません,,negative polite,expression,n5
+ありがとうございます,,thank you (polite),phrase,n5
+いいえ、結構です,いいえ、けっこうです,"No, thank you",phrase,n5
+了解です,りょうかいです,Understood,phrase,n5
+お疲れ様です,おつかれさまです,good work,phrase,n5
+ごちそうさま,,thank you for the meal,phrase,n5
+お誕生日おめでとう,おたんじょうびおめでとう,happy birthday,phrase,n5
+明けましておめでとう,あけましておめでとう,happy new year,phrase,n5
+また明日,またあした,see you tomorrow,phrase,n5
+元気ですか,げんきですか,how are you?,phrase,n5
+はい、元気です,はい、げんきです,"yes, I'm fine",phrase,n5
+じゃあ、また,,see you later,phrase,n5
+二月,にがつ,February,noun,n5
+三月,さんがつ,March,noun,n5
+四月,しがつ,April,noun,n5
+五月,ごがつ,May,noun,n5
+六月,ろくがつ,June,noun,n5
+七月,しちがつ,July,noun,n5
+八月,はちがつ,August,noun,n5
+九月,くがつ,September,noun,n5
+十月,じゅうがつ,October,noun,n5
+十一月,じゅういちがつ,November,noun,n5
+十二月,じゅうにがつ,December,noun,n5
+十一,じゅういち,eleven,number,n5
+十二,じゅうに,twelve,number,n5
+十三,じゅうさん,thirteen,number,n5
+十四,じゅうよん,fourteen,number,n5
+十五,じゅうご,fifteen,number,n5
+十六,じゅうろく,sixteen,number,n5
+十七,じゅうなな,seventeen,number,n5
+十八,じゅうはち,eighteen,number,n5
+十九,じゅうきゅう,nineteen,number,n5
+二十,にじゅう,twenty,number,n5
+三十,さんじゅう,thirty,number,n5
+四十,よんじゅう,forty,number,n5
+五十,ごじゅう,fifty,number,n5
+六十,ろくじゅう,sixty,number,n5
+七十,ななじゅう,seventy,number,n5
+八十,はちじゅう,eighty,number,n5
+九十,きゅうじゅう,ninety,number,n5
+何時,なんじ,what time,expression,n5
+一分,いっぷん,one minute,noun,n5
+二分,にふん,two minutes,noun,n5
+三分,さんぷん,three minutes,noun,n5
+四分,よんぷん,four minutes,noun,n5
+五分,ごふん,five minutes,noun,n5
+六分,ろっぷん,six minutes,noun,n5
+七分,ななふん,seven minutes,noun,n5
+八分,はっぷん,eight minutes,noun,n5
+九分,きゅうふん,nine minutes,noun,n5
+十分,じゅっぷん,ten minutes,noun,n5
+半,はん,half (as in half past),noun,n5
+台風,たいふう,typhoon,noun,n5
+地震,じしん,earthquake,noun,n5
+馬,うま,horse,noun,n5
+牛,うし,cow,noun,n5
+豚,ぶた,pig,noun,n5
+羊,ひつじ,sheep,noun,n5
+兎,うさぎ,rabbit,noun,n5
+象,ぞう,elephant,noun,n5
+虎,とら,tiger,noun,n5
+熊,くま,bear,noun,n5
+猿,さる,monkey,noun,n5
+鹿,しか,deer,noun,n5
+虫,むし,insect,noun,n5
+蝶,ちょう,butterfly,noun,n5
+蜂,はち,bee,noun,n5
+蜘蛛,くも,spider,noun,n5
+植物,しょくぶつ,plant,noun,n5
+草,くさ,grass,noun,n5
+実,み,fruit (general),noun,n5
+葉,は,leaf,noun,n5
+根,ね,root,noun,n5
+種,たね,seed,noun,n5
+机の上,つくえのうえ,on the desk,phrase,n5
+部屋の中,へやのなか,inside the room,phrase,n5
+学校に行きます,がっこうにいきます,I go to school,phrase,n5
+本を読みます,ほんをよみます,I read a book,phrase,n5
+水を飲みます,みずをのみます,I drink water,phrase,n5
+友達に会います,ともだちにあいます,I meet a friend,phrase,n5
+どこですか,,Where is it?,phrase,n5
+分かりません,わかりません,I don't understand,phrase,n5
+英語で何ですか,えいごでなんですか,What is it in English?,phrase,n5
+礼,れい,bow (classroom),expression,n5
+開いてください,ひらいてください,please open (book),phrase,n5
+閉じてください,とじてください,please close (book),phrase,n5
+読んでください,よんでください,please read,phrase,n5
+書いてください,かいてください,please write,phrase,n5
+聞いてください,きいてください,please listen,phrase,n5
+見てください,みてください,please look,phrase,n5
+質問があります,しつもんがあります,I have a question,phrase,n5
+はい、手を挙げてください,はい、てをあげてください,"Yes, please raise your hand",phrase,n5
+宿題を出してください,しゅくだいをだしてください,Please submit your homework,phrase,n5
+授業を始めます,じゅぎょうをはじめます,Class begins,phrase,n5
+授業を終わります,じゅぎょうをおわります,Class ends,phrase,n5
+注意してください,ちゅういしてください,Please pay attention,phrase,n5
+グループを作ってください,グループをつくってください,Please make groups,phrase,n5
+パートナーと話してください,パートナーとはなしてください,Please talk with your partner,phrase,n5
+で,,at; in; by (particle),particle,n5
+に,,to; at; in (particle),particle,n5
+を,,object marker (particle),particle,n5
+が,,subject marker (particle),particle,n5
+と,,and; with (particle),particle,n5
+の,,possessive; of (particle),particle,n5
+へ,,toward (particle),particle,n5
+から,,from (particle),particle,n5
+まで,,until; up to (particle),particle,n5
+や,,and; or (particle),particle,n5
+ね,,isn't it? (sentence-ending particle),particle,n5
+よ,,you know (sentence-ending particle),particle,n5
+か,,question marker (particle),particle,n5
+も,,also; too (particle),particle,n5
+だけ,,only; just (particle),particle,n5
+しか,,only (used with negative),particle,n5
+くらい,,about; approximately,expression,n5
+ぐらい,,about; approximately,expression,n5
+何番,なんばん,what number,expression,n5
+何人,なんにん,how many people,expression,n5
+三人,さんにん,three people,noun,n5
+四人,よにん,four people,noun,n5
+五人,ごにん,five people,noun,n5
+六人,ろくにん,six people,noun,n5
+七人,しちにん,seven people,noun,n5
+八人,はちにん,eight people,noun,n5
+九人,きゅうにん,nine people,noun,n5
+十人,じゅうにん,ten people,noun,n5
+千円,せんえん,thousand yen,noun,n5
+万円,まんえん,ten thousand yen,noun,n5
+スーパー,,supermarket,noun,n5
+コンビニ,,convenience store,noun,n5
+商品,しょうひん,product,noun,n5
+値段,ねだん,price,noun,n5
+お釣り,おつり,change (money),noun,n5
+袋,ふくろ,bag (for shopping),noun,n5
+試す,ためす,to try,verb,n5
+選ぶ,えらぶ,to choose,verb,n5
+履く,はく,"to wear (shoes, pants)",verb,n5
+料理する,りょうりする,to cook,verb,n5
+焼く,やく,to grill; to bake,verb,n5
+沸かす,わかす,to boil (water),verb,n5
+揚げる,あげる,to fry,verb,n5
+蒸す,むす,to steam,verb,n5
+冷やす,ひやす,to cool; to chill,verb,n5
+温める,あたためる,to warm up,verb,n5
+壊す,こわす,to break,verb,n5
+捨てる,すてる,to throw away,verb,n5
+急ぐ,いそぐ,to hurry,verb,n5
+止める,とめる,to stop,verb,n5
+うるさい,,noisy,adjective,n5
+良い,よい,good,adjective,n5
+静かです,しずかです,it is quiet,phrase,n5
+忙しいです,いそがしいです,I am busy,phrase,n5
+とても好きです,とてもすきです,I like it very much,phrase,n5
+ちょっと待ってください,ちょっとまってください,Please wait a moment,phrase,n5
+どこから来ましたか,どこからきましたか,Where are you from?,phrase,n5
+いくつですか,,How old are you?,phrase,n5
+お仕事は何ですか,おしごとはなんですか,What is your job?,phrase,n5
+趣味は何ですか,しゅみはなんですか,What is your hobby?,phrase,n5
+大丈夫ですか,だいじょうぶですか,Are you okay?,phrase,n5
+はい、大丈夫です,はい、だいじょうぶです,"Yes, I'm okay",phrase,n5
+枚,まい,"counter for flat objects (e.g., paper, tickets)",counter,n5
+台,だい,"counter for machines (e.g., cars, computers)",counter,n5
+個,こ,"counter for small objects (e.g., apples, candies)",counter,n5
+杯,はい,counter for cups/glasses,counter,n5
+歳,さい,counter for age,counter,n5
+冊,さつ,counter for books,counter,n5
+回,かい,"counter for times (e.g., occurrences)",counter,n5
+階,かい,"counter for floors (e.g., of a building)",counter,n5
+泊,はく,counter for nights (staying over),counter,n5
+落ちる,おちる,to fall,verb,n5
+探す,さがす,to look for; to search,verb,n5
+一緒,いっしょ,together,adverb,n5
+今すぐ,いますぐ,right now,adverb,n5
+素晴らしい,すばらしい,wonderful,adjective,n5
+そして,,and then,conjunction,n5
+これから,,henceforth; from now on,expression,n5
+お気をつけて,おきをつけて,Take care,phrase,n5
+お先にどうぞ,おさきにどうぞ,"After you, please",phrase,n5
+どうぞお入りください,どうぞはいってください,Please come in,phrase,n5
+お待たせしました,おまたせしました,Sorry to keep you waiting,phrase,n5

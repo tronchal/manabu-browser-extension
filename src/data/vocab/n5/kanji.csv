@@ -1,0 +1,108 @@
+word,onyomi,kunyomi,translation,category,level
+一,イチ、イツ,ひと、ひと.つ,one,kanji,n5
+二,ニ,ふた、ふた.つ,two,kanji,n5
+三,サン,み、み.つ、みっ.つ,three,kanji,n5
+四,シ,よ、よ.つ、よっ.つ、よん,four,kanji,n5
+五,ゴ,いつ、いつ.つ,five,kanji,n5
+六,ロク,む、む.つ、むっ.つ、むい,six,kanji,n5
+七,シチ,なな、なな.つ、なの,seven,kanji,n5
+八,ハチ,や、や.つ、やっ.つ、よう,eight,kanji,n5
+九,キュウ、ク,ここの、ここの.つ,nine,kanji,n5
+十,ジュウ、ジッ,とお、と,ten,kanji,n5
+百,ヒャク,もも,hundred,kanji,n5
+千,セン,ち,thousand,kanji,n5
+万,マン、バン,よろず,ten thousand,kanji,n5
+父,フ,ちち,father,kanji,n5
+母,ボ,はは,mother,kanji,n5
+友,ユウ,とも,friend,kanji,n5
+女,ジョ、ニョ、ニョウ,おんな、め,woman; female,kanji,n5
+男,ダン、ナン,おとこ,man; male,kanji,n5
+人,ジン、ニン,ひと,person,kanji,n5
+子,シ、ス,こ,child,kanji,n5
+日,ニチ、ジツ,ひ、か,day; sun; Japan,kanji,n5
+月,ゲツ、ガツ,つき,month; moon,kanji,n5
+火,カ,ひ、ほ,fire,kanji,n5
+水,スイ,みず,water,kanji,n5
+木,モク、ボク,き、こ,tree; wood,kanji,n5
+金,キン、コン,かね、かな,gold; money; metal,kanji,n5
+土,ド、ト,つち,soil; earth; ground,kanji,n5
+本,ホン,もと,book; origin; main,kanji,n5
+休,キュウ,やす.む、やす.まる、やす.める,rest; day off; vacation,kanji,n5
+語,ゴ,かた.る、かた.らう,word; speech; language,kanji,n5
+年,ネン,とし,year,kanji,n5
+午,ゴ,,noon,kanji,n5
+前,ゼン,まえ,before; front,kanji,n5
+後,ゴ、コウ,のち、うし.ろ、あと、おく.れる,after; behind; later,kanji,n5
+時,ジ,とき,time; hour,kanji,n5
+間,カン、ケン,あいだ、ま、あい,interval; space; between,kanji,n5
+毎,マイ,ごと,every,kanji,n5
+先,セン,さき、ま.ず,previous; ahead; future,kanji,n5
+今,コン、キン,いま,now,kanji,n5
+何,カ,なに、なん,what,kanji,n5
+上,ジョウ、ショウ,うえ、うわ、かみ、あ.げる、あ.がる、のぼ.る、のぼ.せる、のぼ.す,above; up; on,kanji,n5
+下,カ、ゲ,した、しも、もと、さ.げる、さ.がる、くだ.る、くだ.す、くだ.さる、お.ろす、お.りる,below; down; under,kanji,n5
+左,サ,ひだり,left,kanji,n5
+右,ウ、ユウ,みぎ,right,kanji,n5
+北,ホク,きた,north,kanji,n5
+南,ナン、ナ,みなみ,south,kanji,n5
+東,トウ,ひがし,east,kanji,n5
+西,セイ、サイ,にし,west,kanji,n5
+外,ガイ、ゲ,そと、ほか、はず.す、はず.れる,outside,kanji,n5
+名,メイ、ミョウ,な,name; reputation,kanji,n5
+高,コウ,たか.い、たか、たか.まる、たか.める,high; expensive,kanji,n5
+小,ショウ,ちい.さい、こ、お,small; little,kanji,n5
+中,チュウ,なか、うち、あた.る,middle; in; inside; center,kanji,n5
+大,ダイ、タイ,おお、おお.きい、おお.いに,large; big,kanji,n5
+長,チョウ,なが.い、おさ,long; leader,kanji,n5
+半,ハン,なか.ば,half,kanji,n5
+分,ブン、フン、ブ,わ.ける、わ.かれる、わ.かる、わ.かつ,minute; part; to understand; to divide,kanji,n5
+学,ガク,まな.ぶ,study; learning; science,kanji,n5
+校,コウ,,school,kanji,n5
+生,セイ、ショウ,い.きる、い.かす、い.ける、う.まれる、う.む、お.う、は.える、は.やす、き、なま,life; to be born; raw,kanji,n5
+山,サン,やま,mountain,kanji,n5
+川,セン,かわ,river; stream,kanji,n5
+白,ハク、ビャク,しろ、しら、しろ.い,white,kanji,n5
+天,テン,あま、あめ,heaven; sky,kanji,n5
+雨,ウ,あめ、あま,rain,kanji,n5
+電,デン,,electricity,kanji,n5
+気,キ、ケ,,spirit; mind; air; atmosphere,kanji,n5
+車,シャ,くるま,car; vehicle,kanji,n5
+国,コク,くに,country,kanji,n5
+円,エン,まる.い,circle; yen; round,kanji,n5
+話,ワ,はな.す、はなし,to talk; story; conversation,kanji,n5
+聞,ブン、モン,き.く、き.こえる,to hear; to listen; to ask,kanji,n5
+食,ショク、ジキ,た.べる、く.う、く.らう,to eat; food; meal,kanji,n5
+読,ドク、トク、トウ,よ.む,to read,kanji,n5
+来,ライ,く.る、きた.る、きた.す,to come; next,kanji,n5
+書,ショ,か.く,to write; book; document,kanji,n5
+見,ケン,み.る、み.える、み.せる,to see; to look; to show,kanji,n5
+行,コウ、ギョウ、アン,い.く、ゆ.く、おこな.う,to go; to carry out; line,kanji,n5
+出,シュツ、スイ,で.る、だ.す、い.でる,to exit; to leave; to come out,kanji,n5
+入,ニュウ,い.る、はい.る、い.れる、はい.れる,to enter; to insert,kanji,n5
+会,カイ、エ,あ.う,to meet; meeting; association,kanji,n5
+駅,エキ,,station,kanji,n5
+魚,ギョ,さかな、うお,fish,kanji,n5
+町,チョウ,まち,town; block; street,kanji,n5
+道,ドウ、トウ,みち,road; way; path,kanji,n5
+飲,イン、オン,の.む,to drink,kanji,n5
+買,バイ,か.う,to buy,kanji,n5
+目,モク、ボク,め、ま,eye; item,kanji,n5
+耳,ジ,みみ,ear,kanji,n5
+手,シュ,て,hand,kanji,n5
+足,ソク,あし、た.りる、た.る、た.す,foot; leg; to be sufficient,kanji,n5
+新,シン,あたら.しい、あら.た、にい,new,kanji,n5
+古,コ,ふる.い、ふる,old,kanji,n5
+安,アン,やす.い、やす.まる、やす、やす.らか,cheap; peaceful; safe,kanji,n5
+多,タ,おお.い,many; much,kanji,n5
+少,ショウ,すく.ない、すこ.し,few; little,kanji,n5
+空,クウ,そら、あ.く、あ.き、あ.ける、から、す.く、す.かす、むな.しい,sky; empty; air,kanji,n5
+店,テン,みせ、たな,shop; store,kanji,n5
+社,シャ,やしろ,company; shrine; society,kanji,n5
+好,コウ,この.む、す.く,to like; fond; pleasing,kanji,n5
+牛,ギュウ,うし,cow,kanji,n5
+鳥,チョウ,とり,bird,kanji,n5
+花,カ,はな,flower,kanji,n5
+家,カ、ケ,いえ、や、うち,house; home; family,kanji,n5
+正,セイ、ショウ,ただ.しい、ただ.す、まさ、まさ.に,correct; right; justice,kanji,n5
+音,オン、イン,おと、ね,sound; noise,kanji,n5
+口,コウ、ク,くち,mouth; opening,kanji,n5

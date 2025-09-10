@@ -1,0 +1,64 @@
+<link href="main.css" rel="stylesheet">
+
+<main class="flex flex-col items-center justify-center min-h-screen mx-4">
+    <div class="flex flex-col min-h-150 rounded-xl shadow-lg p-8 max-w-3xl w-full transition-all bg-card">
+        <section class="flex gap-4 flex-wrap justify-center">
+            <select class="filter-select" id="categoryFilter">
+                ${./categories.map((value, key) =>
+                    `<option value="${key}" ${./selectedCategory===key ? "selected" : "" }>
+                        ${value}
+                    </option>`
+                )}$
+            </select>
+
+            <select class="filter-select" id="jlptFilter">
+                ${./JLPTLevels.map((value, key) =>
+                    `<option value="${key}" ${./selectedLevel===key ? "selected" : "" }>
+                        ${value}
+                    </option>`
+                )}$
+            </select>
+        </section>
+
+        <section class="flex-1 content-center pt-16 pb-8">
+            <div class="text-1xl text-center mb-2 text-text ${./word.furigana ? '' : 'hidden'}$">
+                {{word.furigana}}
+            </div>
+            <div class="text-7xl font-bold text-center mb-8 text-word leading-20">
+                {{word.word}}
+            </div>
+            <div class="text-2xl text-center mb-12 text-text ${./word.onyomi || ./word.kunyomi ? '' : 'hidden'}$">
+                <p class="${./word.onyomi ? '' : 'hidden'}$">on: {{word.onyomi}}</p>
+                <p class="${./word.kunyomi ? '' : 'hidden'}$">kun: {{word.kunyomi}}</p>
+            </div>
+            <div class="text-2xl text-center mb-8 text-text">
+                {{word.translation}}
+            </div>
+            <div class="text-1xl text-center mb-8 text-text ${./word.description ? '' : 'hidden'}$">
+                {{word.description}}
+            </div>
+            <div class="text-1xl text-center mb-8 text-text rounded-xl bg-page p-2 ${./word.example ? '' : 'hidden'}$">
+                <p>{{word.example}}</p>
+                <p class="italic">{{word.example_translation}}</p>
+            </div>
+        </section>
+
+        <section class="grid grid-cols-3 justify-items-center items-center">
+            <span class="px-3 py-1 rounded-full text-sm font-medium capitalize bg-blue-100 text-(--color-darker) justify-self-start">
+                ${./categories[./word.category]}$
+            </span>
+            <button class="btn btn-primary transition-colors" id="newWordBtn" title="New word">新単語</button>
+            <span class="px-3 py-1 rounded-full text-sm font-medium bg-green-100 text-(--color-darker) uppercase justify-self-end">
+                ${./JLPTLevels[./word.level]}$
+            </span>
+        </section>
+
+        <!-- <div class="flex justify-center space-x-4 mt-6">
+            <button class="btn btn-primary" id="newWordBtn">New Word</button>
+            <button class="btn btn-secondary ${./isBookmarked ? 'bookmarked' : ''}$" id="bookmarkBtn">
+                ${./isBookmarked ? 'Unbookmark' : 'Bookmark'}$
+            </button>
+        </div> -->
+    </div>
+</main>
+
