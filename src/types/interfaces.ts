@@ -4,10 +4,13 @@ export interface StorageInterface {
 }
 
 export interface StoredData {
-    bookmarkedWords: number[];
+    bookmarks: number[];
     darkMode: boolean;
-    selectedCategory: string;
-    selectedLevel: string;
+    category: number;
+    level: number;
+    furigana: boolean;
+    description: boolean;
+    examples: boolean;
 }
 
 export interface JapaneseWord {

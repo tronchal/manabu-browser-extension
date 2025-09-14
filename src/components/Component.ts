@@ -1,4 +1,4 @@
-import { parseTemplate } from '../utils/template';
+import { parseTemplate, bindEvents } from '../utils/template';
 
 export default class Component extends HTMLElement {
     protected template: Function | undefined;
@@ -9,12 +9,12 @@ export default class Component extends HTMLElement {
     }
 
     async loadTemplate(template: string) {
-        const response: Response = await fetch(template);
+        const response: Response = await fetch(`${template}.html`);
         const html: string = await response.text();
         this.template = parseTemplate(html);
     }
 
-    setupEventListeners() {
+    setupDOMEventListeners() {
     }
 
     async render(data :Object = {}) {
@@ -22,7 +22,21 @@ export default class Component extends HTMLElement {
             return;
         }
         this.shadowRoot.innerHTML = this.template(data, false);
-        // Set up event listeners after rendering
-        this.setupEventListeners();
+        bindEvents((this as unknown as { [key: string]: Function }), this.shadowRoot);
+        // Set up DOM event listeners after rendering
+        this.setupDOMEventListeners();
+    }
+
+    $(selector: string): Element | null | undefined {
+        return this.shadowRoot?.querySelector(selector);
+    }
+
+    addListener(selector: string, event: string, cb: Function) {
+        const el = this.$(selector);
+        if (el) {
+            el.addEventListener(event, (e: Event) => {
+                cb(e);
+            });
+        }
     }
 }

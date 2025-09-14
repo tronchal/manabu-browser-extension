@@ -147,7 +147,7 @@ word,furigana,translation,category,level
 鍵,かぎ,key,noun,n5
 書く,かく,to write,verb,n5
 学生,がくせい,student,noun,n5
-～か月,～かげつ,counter for months,counter,n5
+〜か月,〜かげつ,counter for months,counter,n5
 かける,,to put on; to hang,verb,n5
 傘,かさ,umbrella,noun,n5
 貸す,かす,to lend,verb,n5
@@ -223,7 +223,7 @@ word,furigana,translation,category,level
 玄関,げんかん,entrance hall,noun,n5
 元気,げんき,healthy; lively,adjective,n5
 五,ご,five,number,n5
-～語,～ご,language,counter,n5
+〜語,〜ご,language,counter,n5
 公園,こうえん,park,noun,n5
 交差点,こうさてん,intersection,noun,n5
 紅茶,こうちゃ,black tea,noun,n5
@@ -256,23 +256,23 @@ word,furigana,translation,category,level
 こんにちは,,Hello; Good afternoon,phrase,n5
 こんばんは,,Good evening,phrase,n5
 さあ,,well...,interjection,n5
-～歳,～さい,～ years old,counter,n5
+〜歳,〜さい,〜 years old,counter,n5
 財布,さいふ,wallet,noun,n5
 魚,さかな,fish,noun,n5
 先,さき,ahead; before,noun,n5
 咲く,さく,to bloom,verb,n5
 作文,さくぶん,composition; essay,noun,n5
 差す,さす,to hold up (an umbrella),verb,n5
-～冊,～さつ,counter for books,counter,n5
+〜冊,〜さつ,counter for books,counter,n5
 雑誌,ざっし,magazine,noun,n5
 砂糖,さとう,sugar,noun,n5
 寒い,さむい,cold (weather),adjective,n5
 さ来年,さらいねん,year after next,noun,n5
 三,さん,three,number,n5
-～さん,,Mr.; Mrs.; Ms.,counter,n5
+〜さん,,Mr.; Mrs.; Ms.,counter,n5
 散歩,さんぽ,walk; stroll,noun,n5
 四,し / よん,four,number,n5
-～時,～じ,o'clock,counter,n5
+〜時,〜じ,o'clock,counter,n5
 塩,しお,salt,noun,n5
 しかし,,however; but,conjunction,n5
 時間,じかん,time; hour,noun,n5
@@ -295,7 +295,7 @@ word,furigana,translation,category,level
 シャツ,,shirt,noun,n5
 シャワー,,shower,noun,n5
 十,じゅう,ten,number,n5
-～週間,～しゅうかん,～ weeks,counter,n5
+〜週間,〜しゅうかん,〜 weeks,counter,n5
 授業,じゅぎょう,class; lesson,noun,n5
 宿題,しゅくだい,homework,noun,n5
 上手,じょうず,skillful; good at,adjective,n5
@@ -347,7 +347,7 @@ word,furigana,translation,category,level
 それ,,that one,pronoun,n5
 それから,,and then; after that,conjunction,n5
 それでは,,in that case; well then,conjunction,n5
-～代,～だい,charge; fee,counter,n5
+〜代,〜だい,charge; fee,counter,n5
 大学,だいがく,university,noun,n5
 大使館,たいしかん,embassy,noun,n5
 大丈夫,だいじょうぶ,all right; okay,adjective,n5
@@ -415,7 +415,7 @@ word,furigana,translation,category,level
 電車,でんしゃ,train,noun,n5
 電話,でんわ,telephone,noun,n5
 戸,と,door (Japanese style),noun,n5
-～度,～ど,degrees (temperature); times,counter,n5
+〜度,〜ど,degrees (temperature); times,counter,n5
 トイレ,,toilet,noun,n5
 どう,,how,adverb,n5
 どうして,,why,adverb,n5
@@ -456,7 +456,7 @@ word,furigana,translation,category,level
 なぜ,,why,adverb,n5
 夏,なつ,summer,noun,n5
 夏休み,なつやすみ,summer vacation,noun,n5
-～など,,and so on; etc.,particle,n5
+〜など,,and so on; etc.,particle,n5
 七つ,ななつ,seven (things),number,n5
 何,なに / なん,what,interrogative,n5
 七日,なのか,seven days; the 7th day,noun,n5
@@ -465,12 +465,12 @@ word,furigana,translation,category,level
 並ぶ,ならぶ,to line up,verb,n5
 並べる,ならべる,to line up something,verb,n5
 なる,,to become,verb,n5
-何～,なん～,what ~,noun,n5
+何〜,なん〜,what ~,noun,n5
 二,に,two,number,n5
 賑やか,にぎやか,lively; bustling,adjective,n5
 肉,にく,meat,noun,n5
 西,にし,west,noun,n5
-～曜日,～ようび,day of the week,counter,n5
+〜曜日,〜ようび,day of the week,counter,n5
 日曜日,にちようび,Sunday,noun,n5
 荷物,にもつ,luggage; baggage,noun,n5
 ニュース,,news,noun,n5
@@ -480,7 +480,7 @@ word,furigana,translation,category,level
 ネクタイ,,necktie,noun,n5
 猫,ねこ,cat,noun,n5
 寝る,ねる,to sleep,verb,n5
-～年,～ねん,year,counter,n5
+〜年,〜ねん,year,counter,n5
 ノート,,notebook,noun,n5
 登る,のぼる,to climb,verb,n5
 飲み物,のみもの,drink; beverage,noun,n5
@@ -489,7 +489,7 @@ word,furigana,translation,category,level
 歯,は,tooth,noun,n5
 パーティー,,party,noun,n5
 はい,,yes,interjection,n5
-～杯,～はい,counter for cups/glasses,counter,n5
+〜杯,〜はい,counter for cups/glasses,counter,n5
 灰皿,はいざら,ashtray,noun,n5
 入る,はいる,to enter,verb,n5
 葉書,はがき,postcard,noun,n5
@@ -557,7 +557,7 @@ word,furigana,translation,category,level
 降る,ふる,"to fall (rain, snow)",verb,n5
 古い,ふるい,old,adjective,n5
 風呂,ふろ,bath,noun,n5
-～分,～ふん / ぷん,minute,counter,n5
+〜分,〜ふん / ぷん,minute,counter,n5
 文章,ぶんしょう,sentence; text,noun,n5
 ページ,,page,noun,n5
 下手,へた,unskillful,adjective,n5
@@ -572,13 +572,13 @@ word,furigana,translation,category,level
 ボールペン,,ballpoint pen,noun,n5
 ほか,,other; the rest,noun,n5
 ポケット,,pocket,noun,n5
-欲しい,ほしい,to want,adjective,n5
+欲しい,ほしい,wanting (to have); desiring; wishing for,adjective,n5
 ポスト,,postbox; mailbox,noun,n5
 細い,ほそい,thin; slender,adjective,n5
 ボタン,,button,noun,n5
 ホテル,,hotel,noun,n5
 本,ほん,book,noun,n5
-～本,～ほん,"counter for long, cylindrical objects",counter,n5
+〜本,〜ほん,"counter for long, cylindrical objects",counter,n5
 本棚,ほんだな,bookshelf,noun,n5
 ほんとうに,,really; truly,adverb,n5
 毎朝,まいあさ,every morning,noun,n5

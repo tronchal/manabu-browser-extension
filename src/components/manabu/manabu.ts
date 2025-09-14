@@ -1,6 +1,6 @@
 import { getRandomWord } from '../../data/wordGenerator';
-import { getData, toggleBookmark, isBookmarked, setProp } from '../../utils/storage';
-import { JapaneseWord } from '../../types/interfaces';
+import { getData, subscribe, toggleBookmark, isBookmarked } from '../../utils/storage';
+import { JapaneseWord, StoredData } from '../../types/interfaces';
 import { JLPTLevels, Categories } from '../../types/types';
 import Component from '../Component';
 
@@ -8,21 +8,15 @@ export default class Manabu extends Component {
     private word: JapaneseWord | undefined;
     private isBookmarked: boolean = false;
 
-    constructor() {
-        super();
-    }
-
     async connectedCallback() {
-        await this.loadTemplate('manabu.html');
+        await this.loadTemplate('manabu');
         await this.loadNewWord();
+        this.setupEventListeners();
     }
 
     async loadNewWord() {
         const data = await getData();
-        this.word = await getRandomWord(
-            parseInt(data.selectedCategory, 10),
-            parseInt(data.selectedLevel, 10)
-        );
+        this.word = await getRandomWord(data.category, data.level);
         if (this.word) {
             this.isBookmarked = await isBookmarked(this.word.id);
         }
@@ -36,57 +30,30 @@ export default class Manabu extends Component {
         }
     }
 
-    async selectCategory(category: number) {
-        await setProp('selectedCategory', category);
-        this.loadNewWord();
-    }
-
-    async selectJLPTLevel(level: number) {
-        await setProp('selectedLevel', level);
-        this.loadNewWord();
-    }
-
     async render() {
         const data = await getData();
         super.render({
             ...data,
-            word: this.word,
+            word: {
+                ...this.word,
+                sanitized: this.word?.word.replace(/[〜（）]/g, '')
+            },
             isBookmarked: this.isBookmarked,
             categories: Categories,
             JLPTLevels: JLPTLevels
         });
     }
 
+    subscribeTo(topic: keyof StoredData, callback: Function) {
+        subscribe((data: Partial<StoredData>, cb: Function) => cb(data[topic], callback));
+    }
+
     setupEventListeners() {
-        if (!this.shadowRoot) {
-            return;
-        }
-
-        const newWordBtn = this.shadowRoot.getElementById('newWordBtn');
-        if (newWordBtn) {
-            newWordBtn.addEventListener('click', () => this.loadNewWord());
-        }
-
-        const bookmarkBtn = this.shadowRoot.getElementById('bookmarkBtn');
-        if (bookmarkBtn) {
-            bookmarkBtn.addEventListener('click', () => this.toggleBookmark());
-        }
-
-        const categoryFilter = this.shadowRoot.getElementById('categoryFilter');
-        if (categoryFilter) {
-            categoryFilter.addEventListener('change', (e) => {
-                const target = e.target as HTMLSelectElement;
-                this.selectCategory(parseInt(target.value, 10));
-            });
-        }
-
-        const jlptFilter = this.shadowRoot.getElementById('jlptFilter');
-        if (jlptFilter) {
-            jlptFilter.addEventListener('change', (e) => {
-                const target = e.target as HTMLSelectElement;
-                this.selectJLPTLevel(parseInt(target.value, 10));
-            });
-        }
+        this.subscribeTo('category', () => this.loadNewWord());
+        this.subscribeTo('level', () => this.loadNewWord());
+        this.subscribeTo('furigana', () => this.render());
+        this.subscribeTo('description', () => this.render());
+        this.subscribeTo('examples', () => this.render());
     }
 }
 

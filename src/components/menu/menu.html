@@ -1,0 +1,57 @@
+<link href="main.css" rel="stylesheet">
+
+<div class="backdrop absolute inset-0 bg-card opacity-0 hidden transition-discrete transition-all"
+     :click={close()}></div>
+
+<form id="menu" class="absolute inset-0 bottom-auto bg-menu p-4 pb-10 translate-y-[-100%] transition-transform">
+    <h4 class="text-xl text-text mb-6">Options</h4>
+    <div class="mx-auto w-fit">
+        <div class="flex gap-4 flex-wrap justify-center mb-8">
+            <select class="filter-select" title="Show words of this category"
+                    :change={selectCategory()}>
+                ${./categories.map((value, key) =>
+                    `<option value="${key}" ${ ./category===key ? 'selected' : "" }>
+                        ${value}
+                    </option>`
+                )}$
+            </select>
+
+            <select class="filter-select" title="Show words of this JLPT level"
+                    :change={selectLevel()}>
+                ${./JLPTLevels.map((value, key) =>
+                    `<option value="${key}" ${ ./level===key ? 'selected' : "" }>
+                        ${value}
+                    </option>`
+                )}$
+            </select>
+        </div>
+
+        <fieldset class="mb-4">
+            <label class="toggle">
+                <input type="checkbox" :change={changeSetting('furigana')} ${ ./furigana ? 'checked' : '' }$>
+                Show furigana
+            </label>
+        </fieldset>
+
+        <fieldset class="mb-4">
+            <label class="toggle">
+                <input type="checkbox" :change={changeSetting('description')} ${ ./description ? 'checked' : '' }$>
+                Show description
+            </label>
+        </fieldset>
+
+        <fieldset class="mb-4">
+            <label class="toggle">
+                <input type="checkbox" :change={changeSetting('examples')} ${ ./examples ? 'checked' : '' }$>
+                Show examples
+            </label>
+        </fieldset>
+    </div>
+</form>
+
+<button class="burguer-menu absolute top-2 right-2 p-2 flex flex-col justify-between cursor-pointer text-text"
+        :click={toggle()}>
+    <span></span>
+    <span></span>
+    <span></span>
+</button>

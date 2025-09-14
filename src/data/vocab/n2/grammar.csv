@@ -75,7 +75,7 @@ word,furigana,translation,description,example,example_translation,category,level
 のもとで,,"under the influence of; under the guidance of","Means 'under' someone's control, guidance, influence, or under specific conditions.","優秀な教授の指導のもとで、研究を進める。","I will proceed with my research under the guidance of an excellent professor.",expression,n2
 はずがない,,"cannot be; it's impossible that","Expresses the speaker's strong belief that something is impossible.","知らないはずがない。彼は絶対に見た。","It's impossible that he doesn't know. He definitely saw it.",expression,n2
 はずだ,,"it should be; I expect that","Expresses an expectation based on prior knowledge or evidence.","約束したから、彼は来るはずだ。","Since he promised, I expect he will come.",expression,n2
-ば～ほど,,"the more... the more...","Used with verbs and adjectives to express that as one thing increases, another increases proportionally.","練習すればするほど、上手になる。","The more you practice, the better you become.",expression,n2
+ば〜ほど,,"the more... the more...","Used with verbs and adjectives to express that as one thing increases, another increases proportionally.","練習すればするほど、上手になる。","The more you practice, the better you become.",expression,n2
 べき、べきだ,,"should; ought to","Expresses obligation or what is considered the right thing to do.","学生はもっと勉強すべきだ。","Students should study more.",expression,n2
 ぼくに,,"only; merely; just","Emphasizes the small degree or limited extent of something.","彼は一言ぼくに笑っただけだった。","He merely laughed without saying a word.",adverb,n2
 まい,,"probably not; will not","Expresses the speaker's negative intention or a negative conjecture.","二度とそんなことはするまい。","I will probably not do such a thing again.",particle,n2
@@ -84,7 +84,7 @@ word,furigana,translation,description,example,example_translation,category,level
 みたいだ,,"like; seem; as if","Used to make informal comparisons or express speculation based on appearance.","彼はとても疲れているみたいだ。","He seems very tired.",verb,n2
 向き,むき,"suitable for","A suffix attached to nouns to indicate something is suitable for a specific group.","このゲームは子供向きだ。","This game is suitable for children.",suffix,n2
 向け,むけ,"aimed at; made for","A suffix attached to nouns to indicate something is made for a specific target audience.","これは海外向けに輸出される商品だ。","This is a product made for overseas export.",suffix,n2
-も～ば～も、も～なら～も,,"...and... as well; neither... nor...","Used to list two things, often with a similar positive or negative connotation.","彼はお金もなければ時間もない。","He has neither money nor time.",expression,n2
+も〜ば〜も、も〜なら〜も,,"...and... as well; neither... nor...","Used to list two things, often with a similar positive or negative connotation.","彼はお金もなければ時間もない。","He has neither money nor time.",expression,n2
 もの,,"because (explaining a reason, often with a sense of excuse)","Used at the end of a sentence (often by women or children) to give a reason or explanation.","だって、知らなかったんだもの。","But, it's because I didn't know.",particle,n2
 ものか,,"no way!; I'll never!","A strong rhetorical expression used to emphatically deny something.","あんなまずい店、二度と行くものか。","There's no way I'd go to such a terrible restaurant again!",expression,n2
 ものがある,,"there is something ... about it; I feel that","Used to express a strong feeling or impression about something.","彼の演奏には人を感動させるものがある。","There is something in his performance that moves people.",expression,n2
@@ -92,7 +92,7 @@ word,furigana,translation,description,example,example_translation,category,level
 ものではない,,"should not; must not","Used to state a strong prohibition or that something goes against common sense.","人を騙すようなことはするものではない。","You shouldn't do things like deceiving people.",expression,n2
 ものなら,,"if one could","Used with potential verbs to express a strong desire for something that is difficult to achieve.","できるものなら、世界中を旅行してみたい。","If I could, I would want to travel all over the world.",expression,n2
 ものの,,"although; but","Concedes a point in the first clause, but introduces a contrary outcome in the second.","新しいパソコンを買ったものの、まだ使い方がよくわからない。","Although I bought a new computer, I still don't really know how to use it.",conjunction,n2
-やら～やら,,"and... and... among other things","Used to list examples, often with a nuance of being overwhelmed or that things are in a disorderly state.","宿題やらレポートやらで、忙しい。","I'm busy with things like homework and reports.",particle,n2
+やら〜やら,,"and... and... among other things","Used to list examples, often with a nuance of being overwhelmed or that things are in a disorderly state.","宿題やらレポートやらで、忙しい。","I'm busy with things like homework and reports.",particle,n2
 ようがない、ようもない,,"there is no way to","Expresses that something is impossible to do because there is no method or means.","住所がわからないので、連絡の取りようがない。","Since I don't know the address, there is no way to contact them.",expression,n2
 ように,,"so that; in order to","Indicates a purpose or goal. Also used to make a request or state a hope.","忘れ物をしないようにしてください。","Please be careful so that you don't forget anything.",expression,n2
 わけだ,,"it's no wonder that; that's why","Used to express a natural conclusion based on the circumstances.","寒いわけだ。ストーブが消えている。","No wonder it's cold. The stove is off.",expression,n2
@@ -117,7 +117,7 @@ word,furigana,translation,description,example,example_translation,category,level
 わけがない,,"there's no way that; it's impossible that","Expresses the speaker's strong conviction that something is absolutely impossible.","彼がそんなことをするわけがない。","There's no way he would do such a thing.",expression,n2
 せいか,,"perhaps because of","Used to express an uncertain reason for a situation.","年のせいか、最近疲れやすい。","Perhaps because of my age, I get tired easily these days.",expression,n2
 だけ,,"only; just; as much as","A particle that can limit a scope or, with a verb, imply 'to the extent that'.","できるだけ早く来てください。","Please come as soon as you can.",particle,n2
-とか～とか,,"... and ... among other things","Used to list examples in a casual manner.","休みの日は映画を見るとか、買い物をするとかして過ごす。","On my days off, I spend my time doing things like watching movies and shopping.",particle,n2
+とか〜とか,,"... and ... among other things","Used to list examples in a casual manner.","休みの日は映画を見るとか、買い物をするとかして過ごす。","On my days off, I spend my time doing things like watching movies and shopping.",particle,n2
 という,,"called; that","Used to define, name, or quote something.","山田という人から電話があった。","There was a call from a person named Yamada.",expression,n2
 ても,,"even if","A concessive particle meaning 'even if'.","雨が降っても行きます。","I will go even if it rains.",particle,n2
 こと,,"thing; matter; fact","A nominalizer that turns verbs and clauses into nouns.","大切なことは諦めないことだ。","The important thing is not to give up.",noun,n2
@@ -140,8 +140,8 @@ word,furigana,translation,description,example,example_translation,category,level
 あっての,,"which can exist only because of","Emphasizes that the existence of one thing is the necessary foundation for another.","お客様あっての商売です。","This business exists only because of our customers.",expression,n2
 いかんで、いかんによって,,"depending on","A formal expression indicating that the outcome is determined by something else.","努力いかんで結果は変わる。","The result will change depending on your effort.",expression,n2
 いかんによらず、いかんにかかわらず,,"regardless of","A formal expression meaning that something is not affected by a certain condition.","理由のいかんによらず、欠席は認めない。","Regardless of the reason, absence is not permitted.",expression,n2
-だの～だの,,"and... and so on (with a complaining nuance)","Used to list examples, often with a negative connotation of complaint.","寂しいだの暇だのと文句ばかり言う。","He does nothing but complain, saying things like he's lonely and he's bored.",particle,n2
-であれ～であれ,,"whether... or","A formal expression used to present alternatives, all of which lead to the same conclusion.","男であれ女であれ、機会は平等であるべきだ。","Whether you are a man or a woman, opportunities should be equal.",expression,n2
+だの〜だの,,"and... and so on (with a complaining nuance)","Used to list examples, often with a negative connotation of complaint.","寂しいだの暇だのと文句ばかり言う。","He does nothing but complain, saying things like he's lonely and he's bored.",particle,n2
+であれ〜であれ,,"whether... or","A formal expression used to present alternatives, all of which lead to the same conclusion.","男であれ女であれ、機会は平等であるべきだ。","Whether you are a man or a woman, opportunities should be equal.",expression,n2
 てからというもの,,"ever since","Emphasizes that a significant change occurred after a specific event and has continued.","彼が転勤してからというもの、会社が寂しくなった。","Ever since he was transferred, the office has felt lonely.",expression,n2
 てしょうがない、てしかたがない,,"extremely; can't help but feel","Expresses an uncontrollable feeling or state.","彼女に会えなくて寂しくてしょうがない。","I can't see her and I'm so lonely I can't stand it.",expression,n2
 に越したことはない,にこしたことはない,"it's best to; nothing is better than","Expresses that a certain action or state is the best possible choice.","できるなら、安全に越したことはない。","If possible, it's best to be safe.",expression,n2

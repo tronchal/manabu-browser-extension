@@ -1,5 +1,26 @@
-@layer base {
-    #darkModeToggle::after {
-        content: var(--theme-icon);
+@theme {
+    /* Variables from main.css */
+    --color-word: inherit;
+    --color-text: inherit;
+    --color-border: inherit;
+    --color-page: inherit;
+    --color-card: inherit;
+    --color-btn-primary: inherit;
+    /* Tailwind */
+    --tw-duration: inherit;
+    --tw-ease: inherit;
+}
+
+@layer utilities {
+    .darkmode-toggle {
+        transition: background-color 0.1s linear;
+
+        &::after {
+            content: var(--theme-icon);
+        }
+
+        &:hover {
+            background-color: var(--color-text);
+        }
     }
 }

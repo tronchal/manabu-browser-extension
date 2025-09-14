@@ -1,12 +1,14 @@
 @theme {
-    --color-btn-primary: #4299e1;
-    --color-btn-secondary: #4a5568;
     /* Variables from main.css */
-    --color-card: inherit;
     --color-word: inherit;
     --color-text: inherit;
     --color-border: inherit;
     --color-page: inherit;
+    --color-card: inherit;
+    --color-btn-primary: inherit;
+    /* Tailwind */
+    --tw-duration: inherit;
+    --tw-ease: inherit;
 }
 
 @layer base {
@@ -15,16 +17,12 @@
         font-family: 'Noto Sans JP', sans-serif;
     }
 
-    .filter-select {
-        @apply py-1 px-2 rounded-lg border bg-card text-text border-border capitalize cursor-pointer;
-    }
-
     .btn {
-        @apply px-4 py-2 rounded-lg font-medium cursor-pointer;
+        @apply px-3 py-1 rounded-lg cursor-pointer whitespace-nowrap text-sm;
     }
 
     .btn-primary {
-        @apply bg-btn-primary text-white hover:bg-blue-600;
+        @apply text-btn-primary hover:text-card hover:bg-btn-primary border border-btn-primary;
     }
 
     .btn-secondary {

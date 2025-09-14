@@ -1,6 +1,7 @@
 @import "tailwindcss";
 @import "./components/manabu/manabu.css";
 @import "./components/theme-toggle/theme-toggle.css";
+@import "./components/menu/menu.css";
 
 @custom-variant dark (&:where(.dark, .dark *));
 
@@ -8,6 +9,7 @@
     --color-dark: #2d3748;
     --color-light: #f7fafc;
     --color-darker: #232b39;
+    --color-darkest: #181f2b;
 }
 
 @layer theme {
@@ -18,6 +20,9 @@
         --color-border: color-mix(in oklab, var(--color-light), black 30%);
         --theme-icon: '🌙';
         --color-page: var(--color-light);
+        --color-menu: color-mix(in oklab, var(--color-light), var(--color-dark) 5%);
+        --color-menu-icon: var(--color-text);
+        --color-btn-primary: var(--color-darker);
     }
     .dark {
         --color-card: var(--color-darker);
@@ -26,5 +31,8 @@
         --color-border: color-mix(in oklab, var(--color-dark), white 30%);
         --theme-icon: '☀️';
         --color-page: var(--color-dark);
+        --color-menu: color-mix(in oklab, var(--color-dark), black 30%);
+        --color-btn-primary: var(--color-blue-50);
     }
 }
+
