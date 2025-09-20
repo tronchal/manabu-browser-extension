@@ -73,3 +73,19 @@ The CSV must contains the following columns:
 Gemini.
 
 Given the following CSV file with a list of Japanese JLPT N1 grammar points, generate a CSV file where the rows whose first field "word" is identical or describes the same grammar point are removed, but keep the first row occurrence.
+
+
+# Improve Quality
+Gemini.
+
+You are a Japanese language teacher.
+The attached CSV text contains a list of Japanese JLPT N5 kanji.
+Review and validate that the data in each row is correct. Review the following columns:
+- word: the kanji.
+- onyomi: onyomi readings.
+- kunyomi: kunyomi readings.
+- translation: common translations in English of the kanji.
+
+Apply any correction needed to improve the data.
+Do not break CSV format while applying corrections.
+Generate a new CSV file with the corrections.

@@ -1,25 +1,25 @@
 word,furigana,translation,category,level
 ああ,,ah; yes,interjection,n4
 アフリカ,,Africa,noun,n4
-上がる,あがる,to rise,verb,n4
-挨拶,あいさつ,greeting; to greet,verb,n4
+上がる,あがる,to rise; to go up,verb,n4
+挨拶,あいさつ,greeting; salutation,verb,n4
 アジア,,Asia,noun,n4
 アクセサリー,,accessory,noun,n4
 アメリカ,,America,noun,n4
 アナウンサー,,announcer,noun,n4
 あんな,,such; like that,pronoun,n4
-案内,あんない,guidance; to guide,verb,n4
+案内,あんない,guidance; information,verb,n4
 安心,あんしん,relief; peace of mind,noun,n4
 安全,あんぜん,safety; security,noun,n4
 アルバイト,,part-time job,noun,n4
 アルコール,,alcohol,noun,n4
 謝る,あやまる,to apologize,verb,n4
 倍,ばい,double; times,noun,n4
-番組,ばんぐみ,(TV) program,noun,n4
+番組,ばんぐみ,program (e.g. TV program),noun,n4
 場所,ばしょ,place; location,noun,n4
 ベル,,bell,noun,n4
 ビル,,building,noun,n4
-貿易,ぼうえき,trade,noun,n4
+貿易,ぼうえき,trade (foreign),noun,n4
 部長,ぶちょう,department manager,noun,n4
 ぶどう,,grapes,noun,n4
 文学,ぶんがク,literature,noun,n4
@@ -28,8 +28,8 @@ word,furigana,translation,category,level
 血,ち,blood,noun,n4
 力,ちから,strength; power,noun,n4
 地理,ちり,geography,noun,n4
-中学校,ちゅうがっこう,junior high school,noun,n4
-注意,ちゅうい,caution; attention,noun,n4
+中学校,ちゅうがっこう,junior high school; middle school,noun,n4
+注意,ちゅうい,caution; warning,noun,n4
 注射,ちゅうしゃ,injection,noun,n4
 駐車場,ちゅうしゃじょう,parking lot,noun,n4
 大学生,だいがくせい,university student,noun,n4
@@ -39,9 +39,9 @@ word,furigana,translation,category,level
 電報,でんぽう,telegram,noun,n4
 電灯,でんとう,electric light,noun,n4
 できるだけ,,as much as possible,expression,n4
-泥棒,どろぼう,thief,noun,n4
+泥棒,どろぼう,thief; burglar,noun,n4
 道具,どうぐ,tool; instrument,noun,n4
-枝,えだ,branch,noun,n4
+枝,えだ,branch; bough,noun,n4
 遠慮,えんりょ,reserve; restraint,noun,n4
 エスカレーター,,escalator,noun,n4
 布団,ふとん,futon; Japanese bedding,noun,n4
@@ -50,14 +50,14 @@ word,furigana,translation,category,level
 ガソリン,,gasoline,noun,n4
 ガソリンスタンド,,gas station,noun,n4
 原因,げんいん,cause; origin,noun,n4
-下宿,げしゅく,lodging,noun,n4
+下宿,げしゅく,boarding house,noun,n4
 技術,ぎじゅつ,skill; technology,noun,n4
-ご覧になる,ごらんになる,to see (respectful),verb,n4
-ご存じ,ごぞんじ,knowing (respectful),expression,n4
+ご覧になる,ごらんになる,to see (honorific),verb,n4
+ご存じ,ごぞんじ,knowing (honorific),expression,n4
 具合,ぐあい,condition; health,noun,n4
 拝見,はいけん,seeing; looking at (humble),expression,n4
 歯医者,はいしゃ,dentist,noun,n4
-運ぶ,はこぶ,to carry,verb,n4
+運ぶ,はこぶ,to carry; to transport,verb,n4
 花見,はなみ,cherry blossom viewing,noun,n4
 ハンドバッグ,,handbag,noun,n4
 反対,はんたい,opposite; opposition,noun,n4
@@ -68,8 +68,8 @@ word,furigana,translation,category,level
 返事,へんじ,reply; answer,noun,n4
 酷い,ひどい,terrible; awful,adjective,n4
 冷える,ひえる,to become cold,verb,n4
-髭,ひげ,beard; moustache,noun,n4
-非常に,ひじょうに,extremely,adverb,n4
+髭,ひげ,beard; mustache,noun,n4
+非常に,ひじょうに,very; extremely,adverb,n4
 光,ひかり,light,noun,n4
 光る,ひかる,to shine; to glitter,verb,n4
 引き出し,ひきだし,drawer,noun,n4
@@ -85,33 +85,33 @@ word,furigana,translation,category,level
 法律,ほうりつ,law,noun,n4
 放送,ほうそう,broadcast; to broadcast,verb,n4
 一度,いちど,once; one time,adverb,n4
-以外,いがい,with the exception of,adverb,n4
+以外,いがい,with the exception of; except for,adverb,n4
 医学,いがく,medical science,noun,n4
-いじめる,,to bully,verb,n4
+いじめる,,to bully; to tease,verb,n4
 以上,いじょう,... or more; that's all,expression,n4
 以下,いか,... or less; below,expression,n4
 意見,いけん,opinion,noun,n4
-生きる,いきる,to live,verb,n4
+生きる,いきる,to live; to exist,verb,n4
 以内,いない,within,noun,n4
-田舎,いなか,countryside,noun,n4
+田舎,いなか,countryside; rural area,noun,n4
 祈る,いのる,to pray,verb,n4
 一杯,いっぱい,full; a lot,adverb,n4
 石,いし,stone,noun,n4
 致す,いたす,to do (humble),verb,n4
-糸,いと,thread,noun,n4
+糸,いと,thread; string,noun,n4
 一度も,いちども,not even once,adverb,n4
-邪魔,じゃま,disturbance; to disturb,verb,n4
+邪魔,じゃま,hindrance; obstacle,verb,n4
 事務室,じむしつ,office,noun,n4
 人口,じんこう,population,noun,n4
 人生,じんせい,life,noun,n4
 辞典,じてん,dictionary,noun,n4
 自由,じゆう,freedom,noun,n4
 女性,じょせい,female; woman,noun,n4
-準備,じゅんび,preparation; to prepare,verb,n4
+準備,じゅんび,preparation,verb,n4
 柔道,じゅうどう,judo,noun,n4
 カーテン,,curtain,noun,n4
 海岸,かいがん,coast; beach,noun,n4
-会議,かいぎ,meeting,noun,n4
+会議,かいぎ,meeting; conference,noun,n4
 会議室,かいぎしつ,meeting room,noun,n4
 会話,かいわ,conversation,noun,n4
 帰り,かえり,return,noun,n4
@@ -123,35 +123,35 @@ word,furigana,translation,category,level
 火事,かじ,fire,noun,n4
 係,かかり,person in charge,noun,n4
 噛む,かむ,to bite; to chew,verb,n4
-必ず,かならず,certainly; without fail,adverb,n4
+必ず,かならず,surely; without fail,adverb,n4
 金持ち,かねもち,rich person,noun,n4
-看護婦,かんごふ,female nurse,noun,n4
-関係,かんけい,relationship,noun,n4
+看護婦,かんごふ,nurse,noun,n4
+関係,かんけい,relationship; connection,noun,n4
 彼女,かのじょ,she; girlfriend,pronoun,n4
 形,かたち,shape; form,noun,n4
 片付ける,かたづける,to tidy up,verb,n4
 硬い,かたい,hard; solid,adjective,n4
 勝つ,かつ,to win,verb,n4
 乾く,かわく,to get dry,verb,n4
-代わり,かわり,substitute; instead of,noun,n4
+代わり,かわり,substitute; replacement,noun,n4
 変わる,かわる,to change (intransitive),verb,n4
 通う,かよう,to commute,verb,n4
-毛,け,hair; fur; wool,noun,n4
-怪我,けが,injury; to get injured,verb,n4
-計画,けいかく,plan; to plan,verb,n4
+毛,け,hair; fur,noun,n4
+怪我,けが,injury,verb,n4
+計画,けいかく,plan; project,verb,n4
 経験,けいけん,experience; to experience,verb,n4
-経済,けいざい,economy,noun,n4
+経済,けいざい,economy; economics,noun,n4
 見物,けんぶつ,sightseeing,noun,n4
 喧嘩,けんか,fight; argument,noun,n4
 研究,けんきゅう,research; to research,verb,n4
 研究室,けんきゅうしつ,laboratory,noun,n4
 景色,けしき,scenery,noun,n4
 決して,けっして,never,adverb,n4
-気持ち,きもち,feeling,noun,n4
-着物,きもの,kimono,noun,n4
+気持ち,きもち,feeling; sensation,noun,n4
+着物,きもの,kimono; Japanese clothing,noun,n4
 決まる,きまる,to be decided,verb,n4
 決める,きめる,to decide,verb,n4
-君,きみ,you (informal),pronoun,n4
+君,きみ,"you (informal, to subordinates)",pronoun,n4
 近所,きんじょ,neighborhood,noun,n4
 季節,きせつ,season,noun,n4
 汽車,きしゃ,steam train,noun,n4
@@ -159,20 +159,20 @@ word,furigana,translation,category,level
 きっと,,surely,adverb,n4
 込む,こむ,to be crowded,verb,n4
 この間,このあいだ,the other day,expression,n4
-この頃,このごろ,recently,adverb,n4
-細かい,こまかい,small; detailed,adjective,n4
-米,こめ,uncooked rice,noun,n4
+この頃,このごろ,recently; nowadays,adverb,n4
+細かい,こまかい,small; fine,adjective,n4
+米,こめ,rice (uncooked),noun,n4
 今度,こんど,next time,noun,n4
 今夜,こんや,tonight,noun,n4
 講義,こうぎ,lecture,noun,n4
-工場,こうじょう,factory,noun,n4
+工場,こうじょう,factory; plant,noun,n4
 高校,こうこう,high school,noun,n4
 高校生,こうこうせい,high school student,noun,n4
-校長,こうちょう,principal,noun,n4
+校長,こうちょう,principal; headmaster,noun,n4
 交通,こうつう,traffic; transportation,noun,n4
 国際,こくさい,international,noun,n4
 心,こころ,heart; mind,noun,n4
-故障,こしょう,breakdown; failure; to break down,verb,n4
+故障,こしょう,breakdown; failure,verb,n4
 小鳥,ことり,small bird,noun,n4
 講堂,こうどう,auditorium,noun,n4
 公務員,こうむいん,civil servant; public employee,noun,n4
@@ -185,8 +185,8 @@ word,furigana,translation,category,level
 空気,くうき,air; atmosphere,noun,n4
 客,きゃく,guest; customer,noun,n4
 教育,きょういく,education,noun,n4
-興味,きょうみ,interest,noun,n4
-競争,きょうそう,competition; to compete,verb,n4
+興味,きょうみ,interest (in something),noun,n4
+競争,きょうそう,competition,verb,n4
 急,きゅう,urgent; sudden,adjective,n4
 急行,きゅうこう,express (train),noun,n4
 漫画,まんが,manga; comic,noun,n4
@@ -199,12 +199,12 @@ word,furigana,translation,category,level
 または,,or; otherwise,conjunction,n4
 間違える,まちがえる,to make a mistake,verb,n4
 松,まつ,pine tree,noun,n4
-召し上がる,めしあがる,to eat; to drink (respectful),verb,n4
-珍しい,めずらしい,rare,adjective,n4
+召し上がる,めしあがる,to eat; to drink (honorific),verb,n4
+珍しい,めずらしい,rare; unusual,adjective,n4
 見つかる,みつかる,to be found,verb,n4
 見つける,みつける,to find,verb,n4
-港,みなと,port; harbor,noun,n4
-味噌,みそ,miso (soybean paste),noun,n4
+港,みなと,harbor; port,noun,n4
+味噌,みそ,miso (fermented soybean paste),noun,n4
 湖,みずうみ,lake,noun,n4
 見舞い,みまい,visiting someone who is sick,noun,n4
 土産,みやげ,souvenir,noun,n4
@@ -218,7 +218,7 @@ word,furigana,translation,category,level
 息子,むすこ,son,noun,n4
 娘,むすめ,daughter,noun,n4
 無理,むり,impossible; unreasonable,adjective,n4
-昔,むかし,old days; long ago,noun,n4
+昔,むかし,a long time ago; olden days,noun,n4
 投げる,なげる,to throw,verb,n4
 なかなか,,very,adverb,n4
 無くなる,なくなる,to be lost; to disappear,verb,n4
@@ -227,17 +227,17 @@ word,furigana,translation,category,level
 治る,なおる,to be cured; to heal,verb,n4
 慣れる,なれる,to get used to,verb,n4
 なるほど,,I see,interjection,n4
-熱心,ねっしん,enthusiastic,adjective,n4
+熱心,ねっしん,enthusiasm,adjective,n4
 眠い,ねむい,sleepy,adjective,n4
 眠る,ねむる,to sleep,verb,n4
 苦い,にがい,bitter,adjective,n4
 逃げる,にげる,to escape,verb,n4
 二階建て,にかいだて,two-story building,noun,n4
 人形,にんぎょう,doll,noun,n4
-匂い,におい,smell; scent,noun,n4
+匂い,におい,smell; fragrance,noun,n4
 日記,にっき,diary,noun,n4
-入院,にゅういん,hospitalization; to be hospitalized,verb,n4
-入学,にゅうがく,entrance into school,verb,n4
+入院,にゅういん,hospitalization,verb,n4
+入学,にゅうがく,entrance into a school,verb,n4
 残る,のこる,to remain,verb,n4
 喉,のど,throat,noun,n4
 乗り換える,のりかえる,"to transfer (trains, etc.)",verb,n4
@@ -253,13 +253,13 @@ word,furigana,translation,category,level
 屋上,おくじょう,rooftop,noun,n4
 贈り物,おくりもの,gift; present,noun,n4
 遅れる,おくれる,to be late,verb,n4
-お見舞い,おみまい,visiting someone who is sick,noun,n4
+お見舞い,おみまい,calling on someone who is ill,noun,n4
 おもちゃ,,toy,noun,n4
 お礼,おれい,thanks; gratitude,noun,n4
 下りる,おりる,to get off; to descend,verb,n4
 折る,おる,to break; to fold,verb,n4
 押し入れ,おしいれ,closet,noun,n4
-お宅,おたく,(someone's) house (polite),noun,n4
+お宅,おたく,your house (polite),noun,n4
 音,おと,sound; noise,noun,n4
 落とす,おとす,to drop,verb,n4
 终わり,おわり,the end,noun,n4
@@ -268,15 +268,15 @@ word,furigana,translation,category,level
 プレゼント,,present; gift,noun,n4
 楽,らく,easy; comfortable,adjective,n4
 利用,りよう,use; utilization,noun,n4
-理由,りゆう,reason,noun,n4
+理由,りゆう,reason; pretext,noun,n4
 両方,りょうほう,both,noun,n4
-旅館,りょかん,Japanese inn,noun,n4
-留守,るす,absence; being away from home,noun,n4
+旅館,りょかん,ryokan; Japanese inn,noun,n4
+留守,るす,absence,noun,n4
 歴史,れきし,history,noun,n4
 連絡,れんらく,contact; communication,noun,n4
 レポート,,report,noun,n4
-寂しい,さびしい,lonely; sad,adjective,n4
-下がる,さがる,to go down; to fall,verb,n4
+寂しい,さびしい,lonely,adjective,n4
+下がる,さがる,to hang down; to abate,verb,n4
 下げる,さげる,to lower,verb,n4
 最後,さいご,last; end,noun,n4
 最近,さいきん,recently,noun,n4
@@ -285,8 +285,8 @@ word,furigana,translation,category,level
 盛ん,さかん,popular; prosperous,adjective,n4
 昨夜,さくや,last night,noun,n4
 サンドイッチ,,sandwich,noun,n4
-再来月,さらいげつ,month after next,noun,n4
-再来週,さらいしゅう,week after next,noun,n4
+再来月,さらいげつ,the month after next,noun,n4
+再来週,さらいしゅう,the week after next,noun,n4
 差し上げる,さしあげる,to give (humble),verb,n4
 騒ぐ,さわぐ,to make noise,verb,n4
 触る,さわる,to touch,verb,n4
@@ -294,15 +294,15 @@ word,furigana,translation,category,level
 生活,せいかつ,life; living,noun,n4
 政治,せいじ,politics,noun,n4
 西洋,せいよう,the West; Western countries,noun,n4
-世界,せかい,world,noun,n4
+世界,せかい,the world,noun,n4
 席,せき,seat,noun,n4
 説明,せつめい,explanation,noun,n4
 背中,せなか,back (of the body),noun,n4
 先輩,せんぱい,senior (at work or school),noun,n4
 戦争,せんそう,war,noun,n4
 線,せん,line,noun,n4
-専門,せんもん,specialty; major,noun,n4
-知らせる,しらせる,to inform,verb,n4
+専門,せんもん,major; specialty,noun,n4
+知らせる,しらせる,to notify; to inform,verb,n4
 調べる,しらべる,to investigate; to look up,verb,n4
 市,し,city,noun,n4
 試合,しあい,match; game,noun,n4
@@ -326,18 +326,18 @@ word,furigana,translation,category,level
 将来,しょうらい,future,noun,n4
 出発,しゅっぱつ,departure,noun,n4
 習慣,しゅうかん,custom; habit,noun,n4
-祖母,そぼ,(my) grandmother,noun,n4
+祖母,そぼ,grandmother,noun,n4
 育てる,そだてる,to raise; to bring up,verb,n4
-祖父,そふ,(my) grandfather,noun,n4
+祖父,そふ,grandfather,noun,n4
 ソフト,,soft; software,noun,n4
 そんな,,that kind of; like that,pronoun,n4
 それに,,besides; in addition,conjunction,n4
 それほど,,to that extent; so much,adverb,n4
 そろそろ,,soon; it's about time,adverb,n4
 卒業,そつぎょう,graduation,noun,n4
-相談,そうだん,consultation; to consult,verb,n4
+相談,そうだん,consultation; discussion,verb,n4
 水泳,すいえい,swimming,noun,n4
-すっかり,,completely,adverb,n4
+すっかり,,"completely; thoroughly",adverb,n4
 空く,すく,to become less crowded,verb,n4
 済む,すむ,to finish; to end,verb,n4
 砂,すな,sand,noun,n4
@@ -420,7 +420,7 @@ word,furigana,translation,category,level
 輸出,ゆしゅつ,export; to export,verb,n4
 輸入,ゆにゅう,import; to import,verb,n4
 揺れる,ゆれる,to shake; to sway,verb,n4
-残念,ざんねん,disappointing; regrettable,adjective,n4
+残念,ざんねん,regrettable; disappointing,adjective,n4
 是非,ぜひ,by all means; certainly,adverb,n4
 随分,ずいぶん,very; extremely,adverb,n4
 ステレオ,,stereo,noun,n4
@@ -440,7 +440,7 @@ word,furigana,translation,category,level
 植える,うえる,to plant; to grow,verb,n4
 美味い,うまい,delicious; skillful,adjective,n4
 売れる,うれる,to be sold,verb,n4
-打つ,うつ,to hit,verb,n4
+打つ,うつ,to hit; to strike,verb,n4
 和食,わしょく,Japanese food,noun,n4
 ワイン,,wine,noun,n4
 やはり,,as expected; also,adverb,n4
@@ -455,12 +455,12 @@ word,furigana,translation,category,level
 事務所,じむしょ,office,noun,n4
 食料品,しょくりょうひん,groceries; foodstuff,noun,n4
 正月,しょうがつ,New Year,noun,n4
-滑る,すべる,to slide; to slip,verb,n4
+滑る,すべる,to glide; to slide,verb,n4
 スクリーン,,screen,noun,n4
 スーツ,,suit,noun,n4
 過ぎる,すぎる,to pass; to exceed,verb,n4
-凄い,すごい,terrible; amazing,adjective,n4
-進む,すすむ,to advance,verb,n4
+凄い,すごい,terrible; dreadful,adjective,n4
+進む,すすむ,to advance; to go forward,verb,n4
 ステーキ,,steak,noun,n4
 すると,,then; thereupon,conjunction,n4
 生産,せいさん,production,noun,n4
@@ -468,7 +468,7 @@ word,furigana,translation,category,level
 市役所,しやくしょ,city hall,noun,n4
 品,しな,article; item,noun,n4
 彼,かれ,he; boyfriend,pronoun,n4
-会場,かいじょう,assembly hall; venue,noun,n4
+会場,かいじょう,assembly hall; meeting place,noun,n4
 けれど,,however,conjunction,n4
 聞こえる,きこえる,to be audible,verb,n4
 記念日,きねんび,anniversary,noun,n4

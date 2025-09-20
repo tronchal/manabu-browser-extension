@@ -14,29 +14,15 @@ export default class Component extends HTMLElement {
         this.template = parseTemplate(html);
     }
 
-    setupDOMEventListeners() {
-    }
-
     async render(data :Object = {}) {
         if (!this.shadowRoot || !this.template) {
             return;
         }
         this.shadowRoot.innerHTML = this.template(data, false);
         bindEvents((this as unknown as { [key: string]: Function }), this.shadowRoot);
-        // Set up DOM event listeners after rendering
-        this.setupDOMEventListeners();
     }
 
     $(selector: string): Element | null | undefined {
         return this.shadowRoot?.querySelector(selector);
-    }
-
-    addListener(selector: string, event: string, cb: Function) {
-        const el = this.$(selector);
-        if (el) {
-            el.addEventListener(event, (e: Event) => {
-                cb(e);
-            });
-        }
     }
 }

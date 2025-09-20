@@ -1,125 +1,124 @@
 word,furigana,translation,description,example,example_translation,category,level
-が,,but; however,Used to connect two contrasting sentences.,このレストランは高いですが、おいしいです。,"This restaurant is expensive, but it's delicious.",particle,n4
-〜がする,,to smell/feel/hear,Indicates sensory perception.,いい匂いがします。,It smells good.,verb,n4
-〜かどうか,,whether or not,Indicates uncertainty.,彼が来るかどうか知りません。,I don't know whether or not he'll come.,phrase,n4
-から,,because,Conjunction used to give a reason. (Follows a clause).,疲れましたから、休みます。,"Because I am tired, I will rest.",particle,n4
-〜くする / 〜にする,,to make something (adjective),To make something [adjective].,音を小さくしてください。,Please make the sound smaller (softer).,phrase,n4
-〜くなる / 〜になる,,to become,To become [adjective] or [noun].,背が高くなりました。,I became taller.,phrase,n4
-〜ことがある,,there are times when,Indicates occasional occurrence.,夜に散歩することがあります。,Sometimes I take a walk at night.,phrase,n4
-〜ことができる,,can; to be able to,Formal way to express ability or possibility.,漢字を書くことができます。,I can write kanji.,phrase,n4
-〜ことにする,,decide to,Expresses a decision made by the speaker.,毎日走ることにしました。,I decided to run every day.,phrase,n4
-〜ことになる,,it has been decided,Indicates an external decision.,来月日本へ行くことになりました。,It has been decided that I will go to Japan next month.,phrase,n4
-〜し〜し,,and; what's more (for reasons),Used to list reasons or characteristics.,彼は優しいし、面白いし、好きです。,"He's kind and funny, so I like him.",particle,n4
-〜すぎる,,too much/over-,Indicates excess.,食べすぎました。,I ate too much.,verb,n4
-〜そうです,,it looks/appears,Expresses appearance or hearsay based on observation.,雨が降りそうです。,It looks like it will rain.,phrase,n4
-〜たがる,,wants to (third person),Expresses someone else's desire.,子供は遊びたがっています。,The child wants to play.,verb,n4
-だけ,,only/as much as,Indicates limitation.,好きなだけ食べてください。,Please eat as much as you like.,particle,n4
-〜だけしか〜ない,,only,"Strong limitation, with a negative verb ending.",日本語だけしか話せません。,I can only speak Japanese.,phrase,n4
-〜だけでなく,,not only…but also,Expresses addition.,日本語だけでなく、英語も話せます。,I can speak not only Japanese but also English.,phrase,n4
-〜たことがある,,have done something before,Expresses past experience.,日本に行ったことがあります。,I have been to Japan before.,phrase,n4
-〜ために,,in order to; for the purpose of,Expresses purpose or reason.,日本語を勉強するために、日本へ行きます。,I will go to Japan in order to study Japanese.,phrase,n4
-〜たら,,if/when,Conditional used for hypothetical or completed actions.,雨が降ったら、出かけません。,"If it rains, I won't go out.",particle,n4
-〜たり〜たりする,,do things like... (among other things),Used to list examples of actions.,週末は映画を見たり、本を読んだりします。,"On weekends, I do things like watch movies and read books.",phrase,n4
-〜だろう,,probably,"Plain form of でしょう, used to express conjecture.",彼は来ないだろう。,He probably won't come.,phrase,n4
-〜つもりです,,intend to; plan to,Expresses a firm intention or plan.,大学院へ行くつもりです。,I intend to go to graduate school.,phrase,n4
-〜てあげる,,do for someone (others),To do something for someone else.,母にプレゼントを買ってあげました。,I bought a present for my mom.,phrase,n4
-〜てある,,something has been done,Indicates a state resulting from an intentional action.,窓が開けてあります。,The window has been left open.,verb,n4
-〜ていく,,go on/continue,Indicates continuation into the future.,日本語の勉強を続けていきます。,I will continue studying Japanese.,verb,n4
-〜ている,,be doing/ongoing,Indicates a progressive action or a state of being.,彼は今テレビを見ています。,He is watching TV now.,verb,n4
-〜ておく,,do something in advance,To do something beforehand for later convenience.,友達が来るので、掃除しておきます。,"Since my friend is coming, I'll clean (in advance).",phrase,n4
-〜てくる,,come to/approach,Indicates movement toward the speaker or a change that has been happening.,雨が降ってきました。,It has started to rain.,verb,n4
-〜てくれる,,someone does for me,Someone does something for the speaker (as a favor).,友達が手伝ってくれました。,My friend helped me (did me the favor of helping).,phrase,n4
-〜てしまう,,do something completely; do by accident,Expresses completion of an action or an accidental/unintended action.,本を読んでしまいました。,I ended up reading the whole book. / I accidentally read the book.,phrase,n4
-〜でしょう,,probably/right?,Expresses conjecture or seeks confirmation.,明日は雨が降るでしょう。,It will probably rain tomorrow.,phrase,n4
-〜てはいけない,,must not; is not allowed,Used to prohibit an action.,ここで写真を撮ってはいけません。,You must not take pictures here.,phrase,n4
-〜てみる,,try to,To try doing something to see what it's like.,日本料理を食べてみたいです。,I want to try eating Japanese food.,phrase,n4
-〜ても,,even if,Indicates concession.,雨が降っても、行きます。,I'll go even if it rains.,particle,n4
+〜が,,but; however,A conjunction used to connect two contrasting clauses.,このレストランは高いですが、おいしいです。,"This restaurant is expensive, but it's delicious.",particle,n4
+〜がする,,to smell; to feel; to hear,"Indicates a sensory perception that is noticed by the speaker, often involuntarily.",変な匂いがします。,There's a strange smell.,expression,n4
+〜かどうか,,whether or not,Used to embed a yes/no question into a larger sentence to express uncertainty.,彼が来るかどうか分かりません。,I don't know whether or not he'll come.,phrase,n4
+〜から,,because; since,A conjunction used to state a reason or cause. The reason precedes から.,疲れましたから、休みます。,"Because I am tired, I will rest.",particle,n4
+〜くする、〜にする,,"to make something (adjective/noun)","Changes the state of an object. Use 〜くする for i-adjectives and 〜にする for na-adjectives and nouns.",部屋をきれいにしてください。,Please make the room clean.,phrase,n4
+〜くなる、〜になる,,"to become (adjective/noun)","Indicates a change of state. Use 〜くなる for i-adjectives and 〜になる for na-adjectives and nouns.",日本語が上手になりました。,My Japanese has become good.,phrase,n4
+〜ことがある,,there are times when; sometimes,Indicates that something happens occasionally. (Verb plain form + ことがある).,時々、朝ご飯を食べないことがあります。,Sometimes I don't eat breakfast.,phrase,n4
+〜ことができる,,can; to be able to,A formal way to express ability or possibility. (Verb dictionary form + ことができる).,漢字を読むことができます。,I can read kanji.,phrase,n4
+〜ことにする,,to decide to,Expresses a decision made by the speaker's own will. (Verb dictionary form + ことにする).,明日からダイエットすることにしました。,I decided to start a diet from tomorrow.,phrase,n4
+〜ことになる,,it has been decided that,Indicates a decision made by others or a situation that has been arranged. (Verb dictionary form + ことになる).,来月、大阪へ出張することになりました。,It has been decided that I will go on a business trip to Osaka next month.,phrase,n4
+〜し〜し,,and; what's more (listing reasons),Used to list multiple reasons or characteristics, often to support a conclusion.,このアパートは駅に近いし、家賃も安いし、とてもいいです。,"This apartment is close to the station, and the rent is cheap, so it's very good.",particle,n4
+〜すぎる,,too much; to over-,"Indicates excess. Attaches to the verb stem (e.g., 食べすぎる) or adjective stem (e.g., 高すぎる).",食べすぎました。,I ate too much.,suffix,n4
+〜そうです (Appearance),,"it looks like; seems",Expresses a judgment based on visual evidence. Attaches to the verb stem (e.g., 降りそう) or adjective stem (e.g., 美味しそう).,雨が降りそうです。,It looks like it will rain.,phrase,n4
+〜そうです (Hearsay),,"I heard that; they say",Used to convey information heard from another source. Attaches to the plain form of verbs, nouns, and adjectives.,天気予報によると、明日は晴れるそうです。,According to the weather forecast, I heard it will be sunny tomorrow.,phrase,n4
+〜たがる,,wants to (third person),Used to describe the apparent desire or wish of a third person. (Verb stem + たがる).,息子は新しいゲームをたがっています。,My son wants a new game.,suffix,n4
+〜だけ,,only; just; as much as,Indicates limitation or extent.,好きなだけ食べてください。,Please eat as much as you like.,particle,n4
+〜だけしか〜ない,,only (with emphasis),A strong way to express limitation, always used with a negative verb ending.,日本語だけしか話せません。,I can only speak Japanese.,phrase,n4
+〜だけでなく,,not only… but also,Used to add another piece of information.,彼は日本語だけでなく、英語も話せます。,He can speak not only Japanese but also English.,phrase,n4
+〜たことがある,,have done something before,Expresses past experience. (Verb ta-form + ことがある).,日本に行ったことがあります。,I have been to Japan before.,phrase,n4
+〜ために,,in order to; for the purpose of,Expresses purpose or reason. (Verb dictionary form / Noun の + ために).,日本語を勉強するために、日本へ行きます。,I will go to Japan in order to study Japanese.,phrase,n4
+〜たら,,if; when,A conditional form used for a wide range of situations, including hypotheticals. The action in the たら clause must complete first.,雨が降ったら、出かけません。,"If it rains, I won't go out.",particle,n4
+〜たり〜たりする,,do things like A and B,Used to list example actions without being exhaustive. (Verb ta-form + り).,週末は映画を見たり、本を読んだりします。,"On weekends, I do things like watch movies and read books.",phrase,n4
+〜だろう,,probably,"Plain form of でしょう, used to express conjecture or probability.",彼は来ないだろう。,He probably won't come.,phrase,n4
+〜つもりです,,I intend to; I plan to,Expresses a firm intention or plan. (Verb dictionary form + つもりです).,大学院へ行くつもりです。,I intend to go to graduate school.,phrase,n4
+〜てあげる,,to do for someone (outward),To do a favor for someone else (of equal or lower status).,母にプレゼントを買ってあげました。,I bought a present for my mom.,phrase,n4
+〜てある,,has been done (in preparation),Indicates a state that exists as the result of a deliberate, preparatory action.,窓が開けてあります。,The window has been left open (intentionally).,phrase,n4
+〜ていく,,to go on doing; to continue,Indicates an action that will continue from the present into the future.,日本語の勉強を続けていきます。,I will continue studying Japanese.,phrase,n4
+〜ている,,be doing; in a state of,Indicates a progressive action or a continuous state.,彼は今テレビを見ています。,He is watching TV now.,phrase,n4
+〜ておく,,to do in advance,To do something beforehand in preparation for the future.,友達が来るので、掃除しておきます。,"Since my friend is coming, I'll clean up in advance.",phrase,n4
+〜てくる,,to come to; to start to,Indicates an action that began in the past and continues to the present, or movement towards the speaker.,雨が降ってきました。,It has started to rain.,phrase,n4
+〜てくれる,,to do for me (inward),Indicates that someone does a favor for the speaker or someone in their in-group.,友達が手伝ってくれました。,My friend helped me.,phrase,n4
+〜てしまう,,to do completely; to do accidentally,Expresses the completion of an action, or that an action was done accidentally or with regret.,宿題を忘れてしまいました。,I completely forgot my homework (with regret).,phrase,n4
+〜でしょう,,probably; right?,Polite form used to express conjecture or to seek confirmation.,明日は雨が降るでしょう。,It will probably rain tomorrow.,phrase,n4
+〜てはいけない,,must not; not allowed,Used to prohibit an action.,ここで写真を撮ってはいけません。,You must not take pictures here.,phrase,n4
+〜てみる,,to try to do,To try doing something to see what it's like.,日本料理を食べてみたいです。,I want to try eating Japanese food.,phrase,n4
+〜ても,,even if,Indicates a concession or a hypothetical contrary condition.,雨が降っても、行きます。,I will go even if it rains.,particle,n4
 〜てもいい,,is allowed to; may,Used to give or ask for permission.,電話を使ってもいいですか。,May I use the phone?,phrase,n4
-〜てもかまわない,,don't mind if,Expresses allowance or permission.,窓を開けてもかまいません。,I don't mind if you open the window.,phrase,n4
-〜てもらう,,receive the favor of someone doing,To get someone to do something for you.,先生に説明してもらいました。,I had the teacher explain it to me (I received the favor of their explanation).,phrase,n4
-〜ても始まらない,〜てもはじまらない,it's no use even if,Expresses futility.,後悔しても始まりません。,It's no use regretting.,phrase,n4
-〜てよかった,,I'm glad that...,Expresses relief or happiness about a past action.,傘を持ってきてよかったです。,I'm glad I brought an umbrella.,phrase,n4
-〜て欲しい,〜てほしい,want (someone to do),Expresses desire for another's action.,手伝ってほしいです。,I want you to help me.,phrase,n4
-と,,if/when,Conditional used for natural or certain results.,春になると、花が咲きます。,"When spring comes, flowers bloom.",particle,n4
-〜とき,,when,Used to indicate a time when something happens.,子供のとき、ここに住んでいました。,"When I was a child, I lived here.",noun,n4
-〜ところです,,about to/in the middle/just finished,Expresses the stage of an action.,今から食べるところです。,I'm just about to eat.,phrase,n4
-〜と思う,〜とおもう,I think that...,Used to express one's opinion or thoughts.,彼は来ないと思います。,I think he won't come.,phrase,n4
-〜ながら,,while doing,To do two actions simultaneously.,音楽を聞きながら、勉強します。,I study while listening to music.,particle,n4
-〜なくてはいけない,,must/need to,Expresses obligation.,勉強しなくてはいけません。,I must study.,phrase,n4
-〜なくてはならない,,must (formal),Formal obligation.,明日までに終わらなくてはなりません。,It must be finished by tomorrow.,phrase,n4
-〜なくてもいい,,don't have to,Expresses a lack of obligation.,明日は学校に行かなくてもいいです。,You don't have to go to school tomorrow.,phrase,n4
-〜なければいけない,,have to,Common obligation.,薬を飲まなければいけません。,I have to take medicine.,phrase,n4
-〜なければならない,,have to; must,Expresses obligation or necessity.,もっと勉強しなければなりません。,I have to study more.,phrase,n4
-なら,,if it's the case,Expresses a conditional based on the listener's statement.,あなたが行くなら、私も一緒に行きます。,"If you are going, I will go with you too.",particle,n4
-〜にくい,,difficult to,Attached to a verb stem to indicate that something is hard to do.,この靴は歩きにくいです。,These shoes are hard to walk in.,suffix,n4
-〜にする,,will decide on,Used to express a decision or choice.,コーヒーにします。,I'll have the coffee.,phrase,n4
-〜になる,,become,Indicates change.,先生になります。,I will become a teacher.,verb,n4
-ので,,since; because,Conjunction used to give a reason. Softer and more polite than から.,安いので、買いました。,"Since it was cheap, I bought it.",particle,n4
-のに,,although; in spite of,Used to express a contrary-to-expectation result.,雨が降っているのに、出かけます。,"Even though it's raining, I will go out.",particle,n4
-〜ば,,if,"Conditional form, often used for general truths or hypothetical situations.",安ければ、買います。,"If it's cheap, I'll buy it.",particle,n4
-〜ば〜ほど,,the more…the more,Indicates correlation.,練習すればするほど、上手になります。,"The more you practice, the better you get.",phrase,n4
-〜ばかり,,nothing but/only,Indicates that something is the only thing or is done frequently.,甘い物ばかり食べています。,I eat nothing but sweets.,particle,n4
-〜ばかりです,,continue to/keep on,"Expresses a continuing trend, often negative.",物価が上がるばかりです。,Prices just keep rising.,phrase,n4
-〜ばかりに,,simply because,Indicates an unfortunate cause for a negative result.,病気だったばかりに、試験を受けられませんでした。,"Simply because I was sick, I couldn't take the exam.",phrase,n4
-〜ほうがいい,,had better; it's better to,Used to give advice.,薬を飲んだほうがいいですよ。,You had better take some medicine.,phrase,n4
-〜みたい,,like/seems,Informal way to express resemblance or conjecture.,彼は学生みたいです。,He seems like a student.,phrase,n4
-や〜など,,things like A and B,Used to list examples without being exhaustive.,机の上に本やノートなどがあります。,There are things like books and notebooks on the desk.,particle,n4
-〜やすい,,easy to,Attached to a verb stem to indicate that something is easy to do.,このペンは書きやすいです。,This pen is easy to write with.,suffix,n4
-〜よう / 〜ましょう,,volitional form; let's do ~,Used to express intention or suggestion to do something.,食べよう。/ 食べましょう。,Let's eat.,verb,n4
-〜ようがない,,there's no way to,Indicates impossibility because of a lack of means.,そんなことは知りようがありません。,There's no way I could know that.,phrase,n4
-〜ようです,,it seems like,Expresses resemblance/likelihood based on observation.,彼は疲れているようです。,He seems tired.,phrase,n4
-〜ようとする,,try to,Expresses an attempt to do something.,寝ようとしましたが、眠れませんでした。,I tried to sleep but couldn't.,phrase,n4
-〜ようと思う,〜ようとおもう,I think I'll...; planning to...,Expresses one's intention or plan.,来年、日本へ留学しようと思います。,I'm thinking of studying abroad in Japan next year.,phrase,n4
-〜ようにする,,make an effort to,Indicates a conscious effort to do something regularly.,毎日運動するようにしています。,I make an effort to exercise every day.,phrase,n4
-〜ようになっている,,it is arranged that,Indicates a system or function that is in place.,このドアは自動で閉まるようになっています。,This door is designed to close automatically.,phrase,n4
-〜ようになる,,come to; reach the point where,Expresses a change to a new state or ability.,日本語が話せるようになりました。,I've reached the point where I can speak Japanese.,phrase,n4
-〜らしい,,it seems; I hear; typical of,Used for hearsay or to express something is typical of a certain category.,彼は先生らしいです。,He seems like a teacher.,copula,n4
-〜以上,いじょう,more than/since,Indicates a comparison or a reason for an obligation.,約束した以上、守らなければなりません。,"Since you promised, you must keep it.",suffix,n4
-〜以下,いか,not more than; below; under,Expresses a limit and everything below it.,10歳以下の子供は無料です。,Children 10 years old and under are free of charge.,suffix,n4
-〜以外,いがい,except for; other than,Indicates something is excluded from a group or condition.,彼以外は全員来ました。,Everyone except for him came.,suffix,n4
-〜始める,〜はじめる,to begin to,Indicates the start of an action.,彼は走り始めました。,He started to run.,verb,n4
-〜方,〜かた,way of doing,Indicates the method or way of doing something.,日本語の勉強の仕方が分かりません。,I don't know how to study Japanese.,noun,n4
-〜欲しい,〜ほしい,want (something),Indicates desire for an object.,新しい車が欲しいです。,I want a new car.,adjective,n4
-〜的（な）,〜てき（な）,-ical; -like,Turns a noun into a na-adjective.,科学的な証明,a scientific proof,suffix,n4
-〜終わる,〜おわる,to finish,Indicates the completion of an action.,宿題をやり終わりました。,I finished doing my homework.,verb,n4
-間に,あいだに,while/during,Indicates a time frame in which an action occurs.,勉強している間に、雨が降りました。,It rained while I was studying.,particle,n4
-〜（の）ような,,like; such as,Used to give an example or to say that something is like something else.,彼女は天使のような人です。,She is a person like an angel.,phrase,n4
+〜てもかまわない,,I don't mind if,A way to grant permission, implying it will not be a bother.,窓を開けてもかまいません。,I don't mind if you open the window.,phrase,n4
+〜てもらう,,to get someone to do something,To receive a favor from someone else.,先生に説明してもらいました。,I had the teacher explain it to me.,phrase,n4
+〜ても始まらない,〜てもはじまらない,it's no use even if,Expresses that an action is futile or pointless.,後悔しても始まりません。,There's no use regretting it.,phrase,n4
+〜てよかった,,I'm glad that...,Expresses relief or happiness about something that happened.,傘を持ってきてよかったです。,I'm glad I brought an umbrella.,phrase,n4
+〜て欲しい,〜てほしい,I want (someone) to do,Expresses the speaker's desire for someone else to perform an action.,手伝ってほしいです。,I want you to help me.,phrase,n4
+〜と,,if; when (natural consequence),A conditional used for natural, inevitable, or habitual results.,春になると、花が咲きます。,"When spring comes, flowers bloom.",particle,n4
+〜とき,,when; at the time of,Indicates the time when something happens.,子供のとき、ここに住んでいました。,"When I was a child, I lived here.",noun,n4
+〜ところです,,about to; in the middle of; just did,Expresses the immediate stage of an action (before, during, or after).,今から食べるところです。,I'm just about to eat now.,phrase,n4
+〜と思う,〜とおもう,I think that...,Used to express the speaker's opinion or thoughts.,彼は来ないと思います。,I think he won't come.,phrase,n4
+〜ながら,,while doing,Indicates that two actions are performed simultaneously by the same person. (Verb stem + ながら).,音楽を聞きながら、勉強します。,I study while listening to music.,particle,n4
+〜なくてはいけない,,must; have to,Expresses obligation or necessity. Interchangeable with なければいけない / ならない.,勉強しなくてはいけません。,I must study.,phrase,n4
+〜なくてはならない,,must; have to (formal),A slightly more formal way to express obligation or necessity.,明日までに終わらなくてはなりません。,It must be finished by tomorrow.,phrase,n4
+〜なくてもいい,,don't have to,Expresses a lack of obligation or necessity.,明日は学校に行かなくてもいいです。,You don't have to go to school tomorrow.,phrase,n4
+〜なければいけない,,have to; must,Expresses obligation or necessity.,薬を飲まなければいけません。,I have to take my medicine.,phrase,n4
+〜なければならない,,have to; must,Expresses strong obligation or necessity.,もっと勉強しなければなりません。,I have to study more.,phrase,n4
+〜なら,,if (offering a suggestion),A conditional used to give a suggestion or limitation based on what the other person said.,あなたが行くなら、私も一緒に行きます。,"If you are going (since we are on that topic), I will go with you too.",particle,n4
+〜にくい,,difficult to,Attached to a verb stem to indicate that an action is difficult to perform.,この靴は歩きにくいです。,These shoes are hard to walk in.,suffix,n4
+〜にする,,to decide on,Used to express a choice made at the time of speaking.,コーヒーにします。,I'll have the coffee.,phrase,n4
+〜になる,,to become,Indicates a natural change or transformation.,先生になります。,I will become a teacher.,phrase,n4
+〜ので,,since; because (stating a reason),A conjunction used to state a reason or cause. Softer and more polite than から.,安いので、買いました。,"Since it was cheap, I bought it.",particle,n4
+のに,,although; in spite of,Used to connect two clauses, where the second is an unexpected or contrary result.,雨が降っているのに、出かけます。,"Even though it's raining, I will go out.",particle,n4
+〜ば,,if (conditional),A conditional form, often used for general truths or hypothetical situations.,安ければ、買います。,"If it's cheap, I'll buy it.",particle,n4
+〜ば〜ほど,,the more… the more,Indicates that as one thing increases, another thing increases proportionally.,練習すればするほど、上手になります。,"The more you practice, the better you get.",phrase,n4
+〜ばかり,,nothing but; only,Indicates that someone does only one thing, or that only one type of thing exists. Often has a negative nuance.,甘い物ばかり食べています。,I eat nothing but sweets.,particle,n4
+〜ばかりです,,to keep on; to continue to,Expresses a continuing trend, often a negative one.,物価が上がるばかりです。,Prices just keep rising.,phrase,n4
+〜ばかりに,,simply because (negative result),Indicates that a single cause led to an unfortunate result.,病気だったばかりに、試験を受けられませんでした。,"Simply because I was sick, I couldn't take the exam.",phrase,n4
+〜ほうがいい,,had better; it is better to,Used to give advice. (Verb ta-form for positive advice, Verb nai-form for negative advice).,薬を飲んだほうがいいですよ。,You had better take some medicine.,phrase,n4
+〜みたい,,like; as if; seems,An informal way to express resemblance or make a guess.,彼は学生みたいです。,He seems like a student.,phrase,n4
+や〜など,,things like A and B,Used to list non-exhaustive examples.,机の上に本やノートなどがあります。,There are things like books and notebooks on the desk.,particle,n4
+〜やすい,,easy to,Attached to a verb stem to indicate that an action is easy to perform.,このペンは書きやすいです。,This pen is easy to write with.,suffix,n4
+〜よう、〜ましょう,,let's; shall we (volitional),Used to express intention (volitional form) or make a suggestion. よう is the plain form, ましょう is the polite form.,食べよう。/ 食べましょう。,Let's eat.,expression,n4
+〜ようがない,,there's no way to,Indicates that there is no means or way to perform an action. (Verb stem + ようがない).,そんなことは知りようがありません。,There's no way I could know that.,phrase,n4
+〜ようです,,it seems that,Expresses a conjecture based on sensory evidence or information. More formal than みたい.,彼は疲れているようです。,He seems tired.,phrase,n4
+〜ようとする,,to try to; to be about to,Expresses an attempt to do something.,寝ようとしましたが、眠れませんでした。,I tried to sleep but couldn't.,phrase,n4
+〜ようと思う,〜ようとおもう,I think I'll...; am planning to,Expresses an intention or plan formed by the speaker. (Volitional form + と思う).,来年、日本へ留学しようと思います。,I'm thinking of studying abroad in Japan next year.,phrase,n4
+〜ようにする,,to make an effort to,Indicates a conscious effort to make something a habit.,毎日運動するようにしています。,I make an effort to exercise every day.,phrase,n4
+〜ようになっている,,it is designed/arranged so that,Indicates a function or system that is in place, often automatically.,このドアは自動で閉まるようになっています。,This door is designed to close automatically.,phrase,n4
+〜ようになる,,to come to be able to; to reach the point where,Expresses a change in ability or state over time.,日本語が話せるようになりました。,I've reached the point where I can speak Japanese.,phrase,n4
+〜らしい,,it seems; I hear; typical of,Expresses a judgment based on hearsay or evidence. Can also mean something is typical of a category.,彼は先生らしいです。,I hear he is a teacher. / He acts like a teacher.,suffix,n4
+〜以上,いじょう,since; now that; more than,Indicates a strong reason or condition for an obligation. (Plain form + 以上).,約束した以上、守らなければなりません。,"Now that you've promised, you must keep it.",expression,n4
+〜以下,いか,less than or equal to; below,Expresses a limit and everything at or below it.,10歳以下の子供は無料です。,Children 10 years old and under are free of charge.,suffix,n4
+〜以外,いがい,except for; other than,Indicates exclusion from a group or condition.,彼以外は全員来ました。,Everyone except for him came.,suffix,n4
+〜始める,〜はじめる,to begin to,Indicates the start of an action. (Verb stem + 始める).,彼は走り始めました。,He started to run.,verb,n4
+〜方,〜かた,way of doing; how to,Indicates the method of doing something. (Verb stem + 方).,この漢字の書き方を教えてください。,Please teach me how to write this kanji.,suffix,n4
+〜欲しい,〜ほしい,to want (something),Indicates desire for a tangible or intangible object.,新しい車が欲しいです。,I want a new car.,adjective,n4
+〜的（な）,〜てき（な）,-like; -al; -ic,A suffix that turns a noun into a na-adjective.,科学的な証明,a scientific proof,suffix,n4
+〜終わる,〜おわる,to finish doing,Indicates the completion of an action. (Verb stem + 終わる).,宿題をやり終わりました。,I finished doing my homework.,verb,n4
+間に,あいだに,while; during (an event happens),Indicates that a specific event occurs within the time frame of another ongoing action.,勉強している間に、雨が降りました。,It rained while I was studying.,particle,n4
+〜（の）ような,,like; such as,Used to compare something to a noun, like an adjective.,彼女は天使のような人です。,She is a person like an angel.,phrase,n4
 〜（の）ように,,like; as if,Used to describe an action that is done in a similar way to something else.,鳥のように飛べたらいいのに。,I wish I could fly like a bird.,phrase,n4
-〜かもしれません,,might; may,Expresses a possibility.,明日は雨が降るかもしれません。,It might rain tomorrow.,copula,n4
-しか〜ない,,only; nothing but (with a negative verb),Emphasizes that there is only a small amount of something or that someone can only do a specific thing.,百円しかありません。,I only have 100 yen.,particle,n4
-〜てから,,after doing,Indicates that one action takes place after another.,宿題をしてから、テレビを見ます。,I will watch TV after doing my homework.,particle,n4
-〜なさい,,(command form for parents/teachers),"A command form used by superiors to inferiors (e.g., parents to children).",早く寝なさい。,Go to bed early.,verb,n4
-〜はずです,,it is supposed to be; it is expected that,Expresses a strong conviction that something is true or will happen.,彼は今日、来るはずです。,He is supposed to come today.,phrase,n4
-〜んです,,it is that; the reason is,Used to provide an explanation or ask for one.,どうして遅れたんですか。,Why is it that you were late?,particle,n4
-〜出す,〜だす,to start doing something (suddenly),Indicates the sudden start of an action.,赤ちゃんが急に泣き出しました。,The baby suddenly started to cry.,verb,n4
-〜前に,〜まえに,before doing,Indicates that one action takes place before another.,寝る前に、本を読みます。,I read a book before sleeping.,phrase,n4
-〜後で,〜あとで,after doing,Indicates that one action takes place after another.,ご飯を食べた後で、散歩します。,I will take a walk after eating.,phrase,n4
-〜続ける,〜つづける,to continue doing something,Indicates the continuation of an action.,彼は走り続けました。,He continued to run.,verb,n4
-いたします,,to do (humble form of する),Humble form of 'to do'.,私がご案内いたします。,I will guide you.,verb,n4
-いらっしゃる,,to be; to come; to go (respectful version),"Respectful form of 'to be,' 'to come,' or 'to go'",先生はいらっしゃいますか。,Is the teacher here?,verb,n4
-かい,,(turns a sentence into a yes/no question),"A casual, typically male, sentence-ending particle for yes/no questions.",行くかい。,Are you going?,particle,n4
-から作る,からつくる,made from; made with,"Used to indicate the raw material something is made from, where the original material is not obvious.",木から紙を作ります。,Paper is made from wood.,expression,n4
-がる / がっている,,to show signs of; to appear; to feel,Used to describe the apparent feelings or desires of a third person.,彼は犬を怖がっています。,He is scared of dogs.,copula,n4
-が必要,がひつよう,need; necessary,Used to indicate that something is necessary.,お金が必要です。,I need money.,expression,n4
-きっと,,surely; undoubtedly,Used to express a high degree of certainty.,彼はきっと来ます。,He will surely come.,adverb,n4
-くする,,to make something ,Used to make an i-adjective into an adverbial form to modify a verb.,部屋をきれいにくする。,To make the room clean.,expression,n4
-ございます,,to exist (the polite form of ある),Polite form of 'to be' or 'to exist.',ここにございます。,It is here.,copula,n4
-こと,,(verb nominalizer),Used to turn a verb phrase into a noun.,食べることが好きです。,I like eating.,suffix,n4
-じゃないか,,right? isn't it?,A casual way to seek confirmation or express a strong opinion.,いいじゃないか。,Isn't it good?,expression,n4
-だけで,,just by; just by doing,Used to indicate that something is achieved just by doing a certain action.,英語を勉強するだけで、上達します。,You can improve just by studying English.,expression,n4
-で (場所),で（ばしょ）,(location of action particle),Marks the location where an action takes place.,図書館で勉強します。,I study at the library.,particle,n4
-で (手段),で（しゅだん）,(means/tool particle),Marks the means or tool used to do something.,箸で食べます。,I eat with chopsticks.,particle,n4
-でございます,,to be (honorific),Honorific form of 'to be' (です).,こちらでございます。,This is it.,copula,n4
+〜かもしれません,,might; may,Expresses a possibility. More polite than かもしれない.,明日は雨が降るかもしれません。,It might rain tomorrow.,phrase,n4
+しか〜ない,,only; nothing but,Emphasizes a small quantity or a specific action, always used with a negative verb.,百円しかありません。,I only have 100 yen.,particle,n4
+〜てから,,after doing,Indicates a sequence of actions; B happens after A is completed.,宿題をしてから、テレビを見ます。,I will watch TV after doing my homework.,particle,n4
+〜なさい,,do (command form),A command form used by superiors to inferiors (e.g., parents to children). Softer than the imperative form. (Verb stem + なさい).,早く寝なさい。,Go to bed early.,suffix,n4
+〜んです,,it is that (for explanation),Used to provide an explanation, add emphasis, or ask for clarification. The plain form is のだ.,どうして遅れたんですか。,Why is it that you were late?,phrase,n4
+〜出す,〜だす,to begin suddenly,Indicates the sudden start of an action. (Verb stem + 出す).,赤ちゃんが急に泣き出しました。,The baby suddenly started to cry.,verb,n4
+〜前に,〜まえに,before doing,Indicates that one action takes place before another. (Verb dictionary form / Noun の + 前に).,寝る前に、本を読みます。,I read a book before sleeping.,phrase,n4
+〜後で,〜あとで,after doing,Indicates that one action takes place after another. (Verb ta-form / Noun の + 後で).,ご飯を食べた後で、散歩します。,I will take a walk after eating.,phrase,n4
+〜続ける,〜つづける,to continue doing,Indicates the continuation of an action. (Verb stem + 続ける).,彼は走り続けました。,He continued to run.,verb,n4
+いたします,,to do (humble),The humble form of します, used when talking about your own actions to someone of higher status.,私がご案内いたします。,I will guide you.,verb,n4
+いらっしゃる,,to be; to come; to go (respectful),Respectful form (sonkeigo) of いる, 来る, and 行く.,先生はいらっしゃいますか。,Is the teacher here?,verb,n4
+かい,,(casual question particle),"A casual, typically male, sentence-ending particle for yes/no questions.",行くかい。,Are you going?,particle,n4
+から作る,からつくる,made from,"Indicates the raw material something is made from, where the original material is not obvious.",木から紙を作ります。,Paper is made from wood.,expression,n4
+がる、 がっている,,to show signs of; to feel (third person),Used to describe the apparent feelings or desires of a third person.,彼は犬を怖がっています。,He is scared of dogs.,suffix,n4
+が必要,がひつよう,is necessary,Indicates that something is necessary.,お金が必要です。,Money is necessary.,expression,n4
+きっと,,surely; undoubtedly,An adverb used to express a high degree of certainty.,彼はきっと来ます。,He will surely come.,adverb,n4
+ございます,,to be; to exist (polite),The polite form of あります.,ここにございます。,It is here.,verb,n4
+こと,,(verb nominalizer),A suffix that turns a verb or verb phrase into a noun.,食べることが好きです。,I like eating.,suffix,n4
+じゃないか,,right?; isn't it?,A casual, masculine way to seek confirmation or express a strong opinion.,いいじゃないか。,Isn't it good?,expression,n4
+だけで,,just by doing,Indicates that an outcome is achieved simply by performing a certain action.,英語を勉強するだけで、上達します。,You can improve just by studying English.,expression,n4
+で (場所),で（ばしょ）,at; in (location of action),Marks the location where an action takes place.,図書館で勉強します。,I study at the library.,particle,n4
+で (手段),で（しゅだん）,with; by (means of),Marks the means, tool, or method used to perform an action.,箸で食べます。,I eat with chopsticks.,particle,n4
+でございます,,to be (very polite),A very polite and formal form of です.,こちらでございます。,This is it.,expression,n4
 ではないか,,right?; isn't it? (formal),A formal way to seek confirmation or agreement.,きれいではないか。,Isn't it pretty?,expression,n4
-でも,,... or something; how about,Used to suggest something casually or as an example.,コーヒーでも飲みましょうか。,Shall we drink some coffee or something?,particle,n4
-に (時間),に（じかん）,(time marker particle),Marks a specific point in time.,7時に起きます。,I wake up at 7 o'clock.,particle,n4
-に (目的地),に（もくてきち）,(goal of movement particle),"Marks the destination of movement (with verbs like 行く, 来る, 帰る).",日本に行きます。,I will go to Japan.,particle,n4
-はずがない,,cannot be (impossible),Used to express that something is impossible.,そんなはずがありません。,That can't be true.,expression,n4
-はずです,,it must be; it should be (expectation),Used to express a strong expectation or supposition.,彼は来るはずです。,He should come.,expression,n4
-まだ〜ていない,,not yet,Expresses that something has not happened yet.,まだ昼ご飯を食べていません。,I haven't eaten lunch yet.,phrase,n4
-もし〜たら,,if (it is the case that),A conditional form for hypothetical situations.,もしお金があったら、旅行します。,"If I had money, I would travel.",phrase,n4
-場合は,ばあいは,in the event of; in the case that,Used to indicate a specific case or situation.,病気の場合は、連絡してください。,"In case of sickness, please contact me.",expression,n4
-必要がある,ひつようがある,need to; it is necessary to,Used to express necessity.,勉強する必要があります。,I need to study.,expression,n4
-急に,きゅうに,suddenly,Used to indicate a sudden action or change.,急に雨が降りました。,It suddenly started to rain.,adverb,n4
-間,あいだ,while; during; between,Used to indicate the period during which an action takes place or a state exists.,彼が寝ている間、テレビを見ていました。,I was watching TV while he was sleeping.,noun,n4
-頃,ころ,around; about; when,Used to indicate an approximate time.,3時頃に行きます。,I will go around 3 o'clock.,noun,n4
+でも,,... or something,Used to make a casual suggestion.,コーヒーでも飲みましょうか。,Shall we have coffee or something?,particle,n4
+に (時間),に（じかん）,at; on (time marker),Marks a specific point in time (e.g., 7時, 月曜日).,7時に起きます。,I wake up at 7 o'clock.,particle,n4
+に (目的地),に（もくてきち）,to (destination),Marks the destination or goal of movement verbs.,日本に行きます。,I will go to Japan.,particle,n4
+はずです,,it is expected that; should be,Expresses a strong conviction or logical assumption that something is true or will happen.,彼は今日、来るはずです。,He is supposed to come today.,phrase,n4
+はずがない,,cannot be; impossible that,Used to express strong disbelief or that something is impossible.,そんなはずがありません。,That can't possibly be true.,expression,n4
+まだ〜ていない,,have not yet,Expresses that an expected action has not happened yet.,まだ昼ご飯を食べていません。,I haven't eaten lunch yet.,phrase,n4
+もし〜たら,,if (hypothetical),Used to add emphasis to a hypothetical conditional situation.,もしお金があったら、旅行します。,"If I had money, I would travel.",phrase,n4
+場合は,ばあいは,in the case of; in the event that,Used to indicate a specific case or situation.,病気の場合は、連絡してください。,"In case of sickness, please contact me.",expression,n4
+必要がある,ひつようがある,it is necessary to,Used to express necessity. More formal than なければいけない.,勉強する必要があります。,It is necessary to study.,expression,n4
+急に,きゅうに,suddenly,An adverb indicating a sudden action or change.,急に雨が降りました。,It suddenly started to rain.,adverb,n4
+間,あいだ,while; during (ongoing state),Indicates a period during which a state or action continues.,彼が寝ている間、私はテレビを見ていました。,I was watching TV while he was sleeping.,noun,n4
+頃,ころ,around; about (time),Used to indicate an approximate point in time.,3時頃に行きます。,I will go around 3 o'clock.,suffix,n4

@@ -1,6 +1,6 @@
 const regex: RegExp = /\{\{([^}]*)}}/g;
 const evalRegex: RegExp = /\$\{(.*?)(?!}$)\}\$/g;
-const eventParamRegex: RegExp = /:(\w+)=\{\s*([^}]+)\s*}/g;
+const eventParamRegex: RegExp = /:(\w+)="\s*([^"]+)\s*"/g;
 const namespace = '_';
 
 export const parseTemplate = (expr: string) :Function => {
@@ -14,12 +14,12 @@ export const parseTemplate = (expr: string) :Function => {
                 const sanitized :string = p1.replaceAll('./', 'env.');
                 return (new Function('env', `return ${sanitized}`))(data);
             })
+            // Parse event and normalize them to use with bindEvents()
             .replace(eventParamRegex, (s: string, p1: string, p2: string) => {
                 return s
                     .replace(':', namespace)
                     .replace('(', ',')
-                    .replace(')', '')
-                    .replace(/[\{\}]/g, '"');
+                    .replace(')', '');
             });
 
         return parsed.replace(regex, (s: string, p1: string) => {
@@ -49,20 +49,28 @@ export const bindEvents = (obj: { [key: string]: Function }, node: Element|Docum
             xpath,
             n,
             null,
-            XPathResult.ANY_TYPE,
+            XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
             null
         );
-        let attr = <Attr>result.iterateNext();
-        while (attr) {
+        for (let i = 0; i < result.snapshotLength; i++) {
+            const attr = <Attr>result.snapshotItem(i);
             const el = attr.ownerElement;
             const event = attr.name.substring(1);
             let [func, ...params] = attr.value.replace(/,$/, '').split(',');
-            // Remove extra quotes
-            params = params.map((param) => param.replace(/^'|'$/g, ''));
+            params = params
+                // Remove extra quotes
+                .map((param) => param.replace(/^'|'$/g, ''))
+                // Convert params from string to its intended type
+                .map((param) => {
+                    try {
+                        return JSON.parse(param);
+                    } catch(err) {
+                        return param;
+                    }
+                });
             // Bind event to object method passing event + optional arguments
-            el?.addEventListener(event, (e) => obj[func]?.apply(obj, [e, params]));
+            el?.addEventListener(event, (e) => obj[func]?.apply(obj, [e, ...params]));
             // el?.removeAttribute(attr.name);
-            attr = <Attr>result.iterateNext();
         }
     })
 };

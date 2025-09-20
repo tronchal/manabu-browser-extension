@@ -12,16 +12,16 @@ word,furigana,translation,description,example,example_translation,category,level
 〜ています,,"is doing... / is...ing",Added to the て-form of a verb to express an ongoing action or current state.,雨が降っています。,Rain is falling.,verb,n5
 があります,,"There is/are (for inanimate things)",Used to indicate the existence of non-living things; plants; or events.,机の上に本があります。,There is a book on the desk.,verb,n5
 がいます,,"There is/are (for animate things)",Used to indicate the existence of living things (people; animals).,公園に猫がいます。,There is a cat in the park.,verb,n5
-は,,(Topic Marker Particle),A particle used to mark the topic of a sentence. It is pronounced 'wa'.,これは本です。,"As for this, it is a book. / This is a book.",particle,n5
-が,,(Subject Marker Particle),"A particle used to mark the subject of a sentence, often for new information or with potential verbs.",桜がきれいです。,The cherry blossoms are beautiful.,particle,n5
-を,,(Direct Object Marker Particle),A particle placed after a noun to indicate that it is the direct object of the verb.,水を飲みます。,I drink water.,particle,n5
-に,,(Target/Location/Time Particle),"Indicates direction (to a place), location of existence, a point in time, or an indirect object.",学校に行きます。,I go to school.,particle,n5
-で,,(Means/Location of Action Particle),Indicates the means by which an action is done or the location where an action takes place.,箸で食べます。,I eat with chopsticks.,particle,n5
-へ,,(Direction Particle),A particle indicating direction towards a place. It is pronounced 'e'.,日本へ行きます。,I will go to Japan.,particle,n5
+は,,Topic Marker Particle,A particle used to mark the topic of a sentence. It is pronounced 'wa'.,これは本です。,"As for this, it is a book. / This is a book.",particle,n5
+が,,Subject Marker Particle,"A particle used to mark the subject of a sentence, often for new information or with potential verbs.",桜がきれいです。,The cherry blossoms are beautiful.,particle,n5
+を,,Direct Object Marker Particle,A particle placed after a noun to indicate that it is the direct object of the verb.,水を飲みます。,I drink water.,particle,n5
+に,,Target/Location/Time Particle,"Indicates direction (to a place), location of existence, a point in time, or an indirect object.",学校に行きます。,I go to school.,particle,n5
+で,,Means/Location of Action Particle,Indicates the means by which an action is done or the location where an action takes place.,箸で食べます。,I eat with chopsticks.,particle,n5
+へ,,Direction Particle,A particle indicating direction towards a place. It is pronounced 'e'.,日本へ行きます。,I will go to Japan.,particle,n5
 と,,"and (with)","A particle used to connect nouns exhaustively, meaning 'and'. Also means 'with' for doing an action with someone.",友達と映画を見ます。,I will watch a movie with a friend.,particle,n5
-の,,(Possession Particle),"A particle that connects two nouns, showing possession or attribution.",これは私のカバンです。,This is my bag.,particle,n5
+の,,Possession Particle,"A particle that connects two nouns, showing possession or attribution.",これは私のカバンです。,This is my bag.,particle,n5
 も,,"also; too","A particle that means 'also' or 'too'. It replaces は, が, or を.",私も行きます。,I will also go.,particle,n5
-か,,(Question Marker Particle),A particle placed at the end of a sentence to turn it into a question.,これは何ですか。,What is this?,particle,n5
+か,,Question Marker Particle,A particle placed at the end of a sentence to turn it into a question.,これは何ですか。,What is this?,particle,n5
 〜ね,,"isn't it? right?",A sentence-ending particle used to seek agreement or confirmation.,いい天気ですね。,"It's nice weather, isn't it?",particle,n5
 〜よ,,"you know; I tell you",A sentence-ending particle used to emphasize information you are sharing with the listener.,あれは駅ですよ。,"That is the station, you know.",particle,n5
 から,,from,A particle indicating a starting point in time or space.,仕事は9時からです。,Work is from 9 o'clock.,particle,n5

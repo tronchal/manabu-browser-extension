@@ -52,7 +52,9 @@
            class="btn btn-primary transition-colors" title="See examples in kanshudo.com">
             ${./examples && ./word.example && '+' || ''}$Examples
         </a>
-        <!-- <button class="btn btn-primary transition-colors" :click={loadNewWord()} title="New word">New word</button> -->
+        <span target="_blank" :click="speakText({{word.word}})"
+           class="btn btn-primary transition-colors" title="Speak word">話す</span>
+        <!-- <button class="btn btn-primary transition-colors" :click="loadNewWord()" title="New word">New word</button> -->
     </div>
 
     <span class="px-3 py-1 rounded-full text-sm font-medium bg-green-100 text-(--color-darker) uppercase justify-self-end"

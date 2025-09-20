@@ -55,6 +55,17 @@ export default class Manabu extends Component {
         this.subscribeTo('description', () => this.render());
         this.subscribeTo('examples', () => this.render());
     }
+
+    // https://eeejay.github.io/webspeechdemos/
+    speakText(event: Event, text: string) {
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'ja-JP';
+            speechSynthesis.speak(utterance);
+        } else {
+            console.warn('Speech synthesis not supported');
+        }
+    }
 }
 
 customElements.define('manabu-word', Manabu);

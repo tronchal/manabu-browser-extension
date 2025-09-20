@@ -1,0 +1,7 @@
+# Ignore everything in the following directories
+- dist
+- node_modules
+- specs
+
+# Ignore the following files
+- package-lock.json

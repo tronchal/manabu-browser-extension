@@ -8,7 +8,7 @@ word,furigana,translation,category,level
 秋,あき,autumn,noun,n5
 開く,あく,to open,verb,n5
 開ける,あける,to open,verb,n5
-あげる,,to give,verb,n5
+あげる,,to give; to raise,verb,n5
 朝,あさ,morning,noun,n5
 朝御飯,あさごはん,breakfast,noun,n5
 あさって,,day after tomorrow,noun,n5
@@ -94,7 +94,7 @@ word,furigana,translation,category,level
 美味しい,おいしい,delicious,adjective,n5
 多い,おおい,many,adjective,n5
 大きい,おおきい,big,adjective,n5
-大きな,おおきな,big,pronoun,n5
+大きな,おおきな,big,adjective,n5
 大勢,おおぜい,many people,noun,n5
 お母さん,おかあさん,(someone else's) mother,noun,n5
 お菓子,おかし,sweets; candy,noun,n5
@@ -335,7 +335,7 @@ word,furigana,translation,category,level
 先生,せんせい,teacher,noun,n5
 洗濯,せんたく,laundry,noun,n5
 全部,ぜんぶ,all,adverb,n5
-掃除,そうじ,to clean,verb,n5
+掃除する,そうじする,to clean,verb,n5
 そうして,,and then,conjunction,n5
 そこ,,there,pronoun,n5
 そちら,,that way (polite),pronoun,n5
@@ -374,7 +374,7 @@ word,furigana,translation,category,level
 誕生日,たんじょうび,birthday,noun,n5
 だんだん,,gradually,adverb,n5
 小さい,ちいさい,small,adjective,n5
-小さな,ちいさな,small,pronoun,n5
+小さな,ちいさな,small,adjective,n5
 近い,ちかい,near,adjective,n5
 違う,ちがう,to be different,verb,n5
 近く,ちかく,near; neighborhood,noun,n5
@@ -493,7 +493,7 @@ word,furigana,translation,category,level
 灰皿,はいざら,ashtray,noun,n5
 入る,はいる,to enter,verb,n5
 葉書,はがき,postcard,noun,n5
-はく,,to wear (on lower body),verb,n5
+履く,はく,to wear (on lower body),verb,n5
 箱,はこ,box,noun,n5
 橋,はし,bridge,noun,n5
 箸,はし,chopsticks,noun,n5
@@ -528,8 +528,8 @@ word,furigana,translation,category,level
 ピアノ,,piano,noun,n5
 ビール,,beer,noun,n5
 東,ひがし,east,noun,n5
-引く,ひく,to pull; to play (a string instrument),verb,n5
-弾く,ひく,to play (an instrument),verb,n5
+引く,ひく,to pull,verb,n5
+弾く,ひく,to play (string/keyboard instrument),verb,n5
 低い,ひくい,low,adjective,n5
 飛行機,ひこうき,airplane,noun,n5
 左,ひだり,left,noun,n5
@@ -566,7 +566,7 @@ word,furigana,translation,category,level
 部屋,へや,room,noun,n5
 辺,へん,area; vicinity,noun,n5
 ペン,,pen,noun,n5
-勉強,べんきょう,to study,verb,n5
+勉強する,べんきょうする,to study,verb,n5
 便利,べんり,convenient,adjective,n5
 帽子,ぼうし,hat; cap,noun,n5
 ボールペン,,ballpoint pen,noun,n5
@@ -770,7 +770,6 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 土,つち,soil; earth,noun,n5
 月,つき,moon; month,noun,n5
 週,しゅう,week,noun,n5
-大,おおきい,big,adjective,n5
 おはよう,,good morning,phrase,n5
 じゃあね,,see you,phrase,n5
 分かりました,わかりました,I understand,phrase,n5
@@ -780,17 +779,14 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 ドア,,door,noun,n5
 雪,ゆき,snow,noun,n5
 かばん,,bag,noun,n5
-よろしくお願いします,よろしくおねがいします,Please take care of me,phrase,n5
+よろしくお願いします,よろしくおねがいします,Pleased to meet you / I look forward to working with you,phrase,n5
 おかえり,,Welcome back,phrase,n5
 おめでとう,,Congratulations,phrase,n5
 すみませんでした,,I'm sorry (past tense),phrase,n5
 ちょっとまってください,,Please wait a moment,phrase,n5
-受ける,うける,to receive,verb,n5
-上げる,あげる,to give,verb,n5
+受ける,うける,to receive; to take (an exam),verb,n5
 直す,なおす,to fix,verb,n5
 怖い,こわい,scary,adjective,n5
-おいしい,,delicious,adjective,n5
-まずい,,bad-tasting,adjective,n5
 親切,しんせつ,kind,adjective,n5
 不便,ふべん,inconvenient,adjective,n5
 紫,むらさき,purple,noun,n5
@@ -801,7 +797,6 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 全然,ぜんぜん,not at all,adverb,n5
 たまに,,occasionally,adverb,n5
 ほとんど,,almost; hardly,adverb,n5
-だれか,,someone,pronoun,n5
 何か,なにか,something,pronoun,n5
 どこか,,somewhere,pronoun,n5
 いつか,,sometime,adverb,n5
@@ -888,7 +883,7 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 ありがとうございます,,thank you (polite),phrase,n5
 いいえ、結構です,いいえ、けっこうです,"No, thank you",phrase,n5
 了解です,りょうかいです,Understood,phrase,n5
-お疲れ様です,おつかれさまです,good work,phrase,n5
+お疲れ様です,おつかれさまです,Thank you for your hard work,phrase,n5
 ごちそうさま,,thank you for the meal,phrase,n5
 お誕生日おめでとう,おたんじょうびおめでとう,happy birthday,phrase,n5
 明けましておめでとう,あけましておめでとう,happy new year,phrase,n5
@@ -1020,7 +1015,6 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 袋,ふくろ,bag (for shopping),noun,n5
 試す,ためす,to try,verb,n5
 選ぶ,えらぶ,to choose,verb,n5
-履く,はく,"to wear (shoes, pants)",verb,n5
 料理する,りょうりする,to cook,verb,n5
 焼く,やく,to grill; to bake,verb,n5
 沸かす,わかす,to boil (water),verb,n5
@@ -1032,14 +1026,12 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 捨てる,すてる,to throw away,verb,n5
 急ぐ,いそぐ,to hurry,verb,n5
 止める,とめる,to stop,verb,n5
-うるさい,,noisy,adjective,n5
 良い,よい,good,adjective,n5
 静かです,しずかです,it is quiet,phrase,n5
 忙しいです,いそがしいです,I am busy,phrase,n5
 とても好きです,とてもすきです,I like it very much,phrase,n5
 ちょっと待ってください,ちょっとまってください,Please wait a moment,phrase,n5
 どこから来ましたか,どこからきましたか,Where are you from?,phrase,n5
-いくつですか,,How old are you?,phrase,n5
 お仕事は何ですか,おしごとはなんですか,What is your job?,phrase,n5
 趣味は何ですか,しゅみはなんですか,What is your hobby?,phrase,n5
 大丈夫ですか,だいじょうぶですか,Are you okay?,phrase,n5
@@ -1047,15 +1039,13 @@ Tシャツ,ティーシャツ,T-shirt,noun,n5
 枚,まい,"counter for flat objects (e.g., paper, tickets)",counter,n5
 台,だい,"counter for machines (e.g., cars, computers)",counter,n5
 個,こ,"counter for small objects (e.g., apples, candies)",counter,n5
-杯,はい,counter for cups/glasses,counter,n5
 歳,さい,counter for age,counter,n5
 冊,さつ,counter for books,counter,n5
 回,かい,"counter for times (e.g., occurrences)",counter,n5
 階,かい,"counter for floors (e.g., of a building)",counter,n5
-泊,はく,counter for nights (staying over),counter,n5
+泊,はく,"counter for nights (staying over)",counter,n5
 落ちる,おちる,to fall,verb,n5
 探す,さがす,to look for; to search,verb,n5
-一緒,いっしょ,together,adverb,n5
 今すぐ,いますぐ,right now,adverb,n5
 素晴らしい,すばらしい,wonderful,adjective,n5
 そして,,and then,conjunction,n5
