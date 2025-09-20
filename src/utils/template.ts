@@ -1,5 +1,6 @@
 const regex: RegExp = /\{\{([^}]*)}}/g;
-const evalRegex: RegExp = /\$\{(.*?)(?!}$)\}\$/g;
+// [\s\S] ➡ match all characters including new lines
+const evalRegex: RegExp = /\$\{([\s\S]+?)(?!}$)\}\$/g;
 const eventParamRegex: RegExp = /:(\w+)="\s*([^"]+)\s*"/g;
 const namespace = '_';
 
