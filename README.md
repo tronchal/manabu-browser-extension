@@ -7,9 +7,10 @@ Learn Japanese words every time you open a new tab in your browser.
 - Browser extension that changes the new tab page.
 - Displays a random Japanese word with furigana and English translation on every new tab.
 - Dark/light mode toggle with persistent settings.
-- Bookmark favorite words for later review.
+- ~~Bookmark favorite words for later review.~~
 - Filter words by category (noun, verb, adjective, etc.).
 - Filter words by [JLPT](https://www.jlpt.jp/e/) level (N1 to N5).
+- Read out Japanese words by using the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
 - Built with TypeScript and Web Components.
 
 ## Installation

@@ -4,10 +4,10 @@
   "type": "module",
   "description": "A browser extension that displays random Japanese words on new tabs",
   "scripts": {
-    "build:css": "tailwindcss -i src/main.css -o dist/main.css",
+    "build:css": "node build/build-css.js",
     "build:js": "node build/build.js",
     "build:db": "node build/generate-db.js",
-    "build": "npm run clean && concurrently 'npm run build:db' 'npm run build:css -- -m' 'npm run build:js'",
+    "build": "npm run clean && concurrently \"npm run build:db\" \"npm run build:css -- -m\" \"npm run build:js\"",
     "dev": "npm run build:css && node build/build.js --serve",
     "clean": "node -e \"require('fs-extra').emptyDirSync('dist')\""
   },
@@ -20,12 +20,13 @@
   "license": "MIT",
   "devDependencies": {
     "@sqlite.org/sqlite-wasm": "3.50.4-build1",
-    "@tailwindcss/cli": "4.1.13",
     "@tailwindcss/postcss": "4.1.13",
+    "chokidar": "4.0.3",
     "concurrently": "9.2.1",
     "csv-parser": "3.2.0",
     "esbuild": "0.25.10",
     "fs-extra": "11.3.2",
+    "postcss": "8.5.6",
     "tailwindcss": "4.1.13",
     "ws": "8.18.3"
   }

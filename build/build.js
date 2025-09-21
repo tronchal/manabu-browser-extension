@@ -1,6 +1,6 @@
 import { build } from 'esbuild';
 import { serve } from './serve.js';
-import { distDir, buildConfig } from './config.js';
+import { srcDir, distDir, assetsDir, buildConfig } from './config.js';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -13,11 +13,12 @@ if (!fs.existsSync(distDir)) {
 }
 
 // Copy assets
-fs.globSync('src/**/*.html')
+fs.globSync(path.join(srcDir, '**', '*.html'))
     .forEach((file) => {
         fs.copyFileSync(file, path.join(distDir, path.basename(file)));
     });
 fs.copyFileSync('node_modules/@sqlite.org/sqlite-wasm/sqlite-wasm/jswasm/sqlite3.wasm', path.join(distDir, 'sqlite3.wasm'));
+fs.cpSync(path.join(srcDir, assetsDir), path.join(distDir, assetsDir), { recursive: true });
 
 if (doServe) {
     serve();

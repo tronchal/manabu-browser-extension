@@ -1,12 +1,15 @@
+@import "tailwindcss";
+
 @theme {
-    /* Variables from main.css */
+    /* Variables from global scope */
     --color-menu: inherit;
     --color-text: inherit;
     --color-card: inherit;
+    --color-border: inherit;
 }
 
 @layer base {
-    .filter-select {
+    .select {
         @apply py-1 px-2 rounded-lg border bg-card text-text border-border capitalize cursor-pointer;
 
         &:hover {
@@ -45,7 +48,7 @@
     }
 
     .toggle {
-        @apply text-text cursor-pointer select-none;
+        @apply cursor-pointer select-none;
 
         --toggle-pos-x: 0;
         --toggle-color: var(--color-border);

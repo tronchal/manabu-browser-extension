@@ -1,14 +1,13 @@
+@import "tailwindcss";
+
 @theme {
-    /* Variables from main.css */
+    /* Variables from global scope */
     --color-word: inherit;
     --color-text: inherit;
     --color-border: inherit;
     --color-page: inherit;
     --color-card: inherit;
     --color-btn-primary: inherit;
-    /* Tailwind */
-    --tw-duration: inherit;
-    --tw-ease: inherit;
 }
 
 @layer utilities {

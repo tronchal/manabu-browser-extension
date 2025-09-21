@@ -2,6 +2,7 @@ import { getRandomWord } from '../../data/wordGenerator';
 import { getData, subscribe, toggleBookmark, isBookmarked } from '../../utils/storage';
 import { JapaneseWord, StoredData } from '../../types/interfaces';
 import { JLPTLevels, Categories } from '../../types/types';
+import { speakText } from '../../utils/voice';
 import Component from '../Component';
 
 export default class Manabu extends Component {
@@ -56,15 +57,9 @@ export default class Manabu extends Component {
         this.subscribeTo('examples', () => this.render());
     }
 
-    // https://eeejay.github.io/webspeechdemos/
-    speakText(event: Event, text: string) {
-        if ('speechSynthesis' in window) {
-            const utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = 'ja-JP';
-            speechSynthesis.speak(utterance);
-        } else {
-            console.warn('Speech synthesis not supported');
-        }
+    async speak(e: Event, text: string) {
+        const data = await getData();
+        speakText(text, data.voice);
     }
 }
 

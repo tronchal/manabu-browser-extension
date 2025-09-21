@@ -9,6 +9,7 @@ const defaults: StoredData = {
     furigana: true,
     description: true,
     examples: true,
+    voice: 0,
 };
 const STORAGE_KEY = 'manabuExtension';
 const storage: StorageInterface = storageFactory(STORAGE_KEY);

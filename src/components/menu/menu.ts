@@ -1,5 +1,6 @@
 import { getData, setProp } from '../../utils/storage';
 import { JLPTLevels, Categories } from '../../types/types';
+import { getVoices } from '../../utils/voice';
 import Component from '../Component';
 
 export default class Menu extends Component {
@@ -12,10 +13,18 @@ export default class Menu extends Component {
 
     async render() {
         const data = await getData();
+        const voices = await getVoices('ja-JP');
         super.render({
             ...data,
             categories: Categories,
-            JLPTLevels: JLPTLevels
+            jlptLevels: JLPTLevels,
+            voices: voices.map((voice) => {
+                return {
+                    localService: voice.localService,
+                    // For MS voices
+                    name: voice.name.replace(' - Japanese (Japan)', '')
+                }
+            })
         });
     }
 
@@ -35,6 +44,11 @@ export default class Menu extends Component {
     selectLevel(e: Event) {
         const target = e.target as HTMLSelectElement;
         setProp('level', parseInt(target.value, 10));
+    }
+
+    selectVoice(e: Event) {
+        const target = e.target as HTMLSelectElement;
+        setProp('voice', parseInt(target.value, 10));
     }
 
     changeSetting(e: Event, name: string) {

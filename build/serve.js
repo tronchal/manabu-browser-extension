@@ -1,10 +1,11 @@
 import { context } from 'esbuild';
 import { WebSocketServer } from 'ws';
 import { execSync } from 'node:child_process';
-import { WS_PORT, srcDir, distDir, entryHTML, buildConfig } from './config.js';
+import { WS_PORT, srcDir, distDir, assetsDir, entryHTML, buildConfig } from './config.js';
 import { injectHotReload } from './inject-hotreload.js';
 import fs from 'node:fs';
 import path from 'node:path';
+import chokidar from 'chokidar';
 
 // Inject hot reload client script to index.html
 function injectHotReloadToIndex() {
@@ -37,7 +38,7 @@ export async function serve() {
     console.log('Started dev server at http://localhost:8000');
 
     // Watch for file changes in the destination folder
-    fs.watch(distDir, { recursive: true }, (eventType, file) => {
+    chokidar.watch(distDir, {ignoreInitial: true}).on('all', (e, file) => {
         if (file) {
             console.log(`[Hot Reload] File changed: ${file}`);
             // Notify all clients to reload
@@ -49,18 +50,21 @@ export async function serve() {
         }
     });
     // Watch for source changes
-    fs.watch(srcDir, { recursive: true }, (eventType, file) => {
+    chokidar.watch('.', {ignoreInitial: true, cwd: srcDir}).on('all', (e, file) => {
+        const fileSrc = path.join(srcDir, file);
+        console.log(e, fileSrc);  // eslint-disable-line no-console
         if (file?.endsWith('.css')) {
-            console.log(`Processing file ${file}`);
             execSync(pkg.scripts['build:css']);
         // Watch for changes in the main HTML
         } else if (file === entryHTML) {
             injectHotReloadToIndex();
         // Copy assets
         } else if (file?.endsWith('.html')) {
-            fs.copyFileSync(path.join(srcDir, file), path.join(distDir, path.basename(file)));
+            fs.copyFileSync(fileSrc, path.join(distDir, path.basename(file)));
             // Trigger CSS if a Tailwind class has been modified
             execSync(pkg.scripts['build:css']);
+        } else if (file?.includes(`${assetsDir}${path.sep}`)) {
+            fs.copyFileSync(fileSrc, path.join(distDir, file));
         }
     });
 }

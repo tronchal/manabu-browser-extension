@@ -4,6 +4,7 @@ export const WS_PORT = 3000;
 export const srcDir = 'src';
 export const distDir = 'dist';
 export const entryHTML = 'index.html';
+export const assetsDir = 'assets';
 export const buildConfig = {
     entryPoints: [join(srcDir, 'main.ts')],
     outdir: distDir,
@@ -11,5 +12,5 @@ export const buildConfig = {
     sourcemap: true,
     minify: false,
     format: 'esm',
-    target: 'es2022',
+    target: 'es2022'
 };

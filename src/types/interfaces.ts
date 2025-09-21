@@ -11,6 +11,7 @@ export interface StoredData {
     furigana: boolean;
     description: boolean;
     examples: boolean;
+    voice: number;
 }
 
 export interface JapaneseWord {
