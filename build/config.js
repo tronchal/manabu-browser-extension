@@ -5,6 +5,7 @@ export const srcDir = 'src';
 export const distDir = 'dist';
 export const entryHTML = 'index.html';
 export const assetsDir = 'assets';
+export const componentsDir = 'components';
 export const buildConfig = {
     entryPoints: [join(srcDir, 'main.ts')],
     outdir: distDir,

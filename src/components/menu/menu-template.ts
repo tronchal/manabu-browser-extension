@@ -1,3 +1,5 @@
+export default function(data: { [key: string]: any }) {
+    return `
 <link href="components/menu/menu.css" rel="stylesheet">
 
 <div class="backdrop absolute inset-0 bg-card opacity-0 hidden transition-discrete transition-all"
@@ -9,54 +11,54 @@
         <div class="flex gap-4 flex-wrap justify-center mb-8">
             <select class="select" title="Show words of this category"
                     :change="selectCategory()">
-                ${./categories.map((value, key) =>
-                    `<option value="${key}" ${ ./category===key ? 'selected' : "" }>
+                ${data.categories.map((value, key) =>
+                    `<option value="${key}" ${ data.category === key ? 'selected' : "" }>
                         ${value}
                     </option>`
-                )}$
+                )}
             </select>
 
             <select class="select" title="Show words of this JLPT level"
                     :change="selectLevel()">
-                ${./jlptLevels.map((value, key) =>
-                    `<option value="${key}" ${ ./level===key ? 'selected' : "" }>
+                ${data.jlptLevels.map((value, key) =>
+                    `<option value="${key}" ${ data.level === key ? 'selected' : "" }>
                         ${value}
                     </option>`
-                )}$
+                )}
             </select>
         </div>
 
         <fieldset class="mb-4">
             <label class="toggle">
-                <input type="checkbox" :change="changeSetting('furigana')" ${ ./furigana ? 'checked' : '' }$>
+                <input type="checkbox" :change="changeSetting('furigana')" ${ data.furigana ? 'checked' : '' }>
                 Show furigana
             </label>
         </fieldset>
 
         <fieldset class="mb-4">
             <label class="toggle">
-                <input type="checkbox" :change="changeSetting('description')" ${ ./description ? 'checked' : '' }$>
+                <input type="checkbox" :change="changeSetting('description')" ${ data.description ? 'checked' : '' }>
                 Show description
             </label>
         </fieldset>
 
         <fieldset class="mb-4">
             <label class="toggle">
-                <input type="checkbox" :change="changeSetting('examples')" ${ ./examples ? 'checked' : '' }$>
+                <input type="checkbox" :change="changeSetting('examples')" ${ data.examples ? 'checked' : '' }>
                 Show examples
             </label>
         </fieldset>
     </div>
 
-    ${./voices.length && `
+    ${data.voices.length && `
         <h4 class="text-lg mb-4">Voice Settings</h4>
         <div class="mx-auto w-fit">
             <fieldset class="mb-4">
                 Voice:
                 <select class="select mb-2" title="Available voices in your device"
                         :change="selectVoice()">
-                    ${./voices.map((value, key) =>
-                        `<option value="${key}" ${ ./voice===key ? 'selected' : "" }>
+                    ${data.voices.map((value, key) =>
+                        `<option value="${key}" ${ data.voice === key ? 'selected' : "" }>
                             ${value.name} ${(!value.localService && '*' || '')}
                         </option>`
                     )}
@@ -64,7 +66,7 @@
                 <p class="text-sm italic">* Connects to online service</p>
             </fieldset>
         </div>
-    ` || ''}$
+    ` || ''}
 </form>
 
 <button class="burguer-menu absolute top-2 right-2 p-2 flex flex-col justify-between cursor-pointer"
@@ -73,3 +75,5 @@
     <span></span>
     <span></span>
 </button>
+`;
+}

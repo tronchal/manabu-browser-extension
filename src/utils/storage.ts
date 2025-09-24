@@ -1,5 +1,6 @@
-import { storageFactory } from "./storageFactory";
-import { StorageInterface, StoredData } from "../types/interfaces";
+import { storageFactory } from './storageFactory';
+import { StorageInterface, StoredData } from '../types/interfaces';
+import { STORAGE_KEY } from '../types/conf';
 
 const defaults: StoredData = {
     darkMode: false,
@@ -11,7 +12,7 @@ const defaults: StoredData = {
     examples: true,
     voice: 0,
 };
-const STORAGE_KEY = 'manabuExtension';
+
 const storage: StorageInterface = storageFactory(STORAGE_KEY);
 let cachedData: Partial<StoredData | undefined>;
 const listeners: ((data: Partial<StoredData>, cb: Function) => void)[] = [];

@@ -7,7 +7,7 @@ import sqlite3InitModule from '@sqlite.org/sqlite-wasm';
 import csv from 'csv-parser';
 
 async function start() {
-    console.log('Running SQLite3 version', sqlite3.version.libVersion);
+    console.log('[DB] Running SQLite3 version', sqlite3.version.libVersion);
 
     const vocabDir = join(srcDir, 'data', 'vocab');
     let dirs = readdirSync(vocabDir);
@@ -16,19 +16,19 @@ async function start() {
     for (const dir of dirs) {
         const fullPath = join(vocabDir, dir);
         if (statSync(fullPath).isDirectory()) {
-            console.log('\nProcessing CSV files in', fullPath);
+            console.log('\n[DB] Processing CSV files in', fullPath);
             const files = fs.globSync(join(fullPath, '*.csv'));
             const levelData = [];
             for (let i = 0; i < files.length; i++) {
                 const filename = files[i];
-                console.log('\nCreating database from', filename);
+                console.log('\n[DB] Creating database from', filename);
                 const rows = await readCSV(filename);
                 const records = await createDatabase(rows, filename.replace(/\.\w+$/, '.sqlite3'), id);
                 id += records.length + 100;  // Add enough room for new entries between databases
                 levelData.push(...records);
             }
             // Merge all databases of the same level
-            console.log(`\nCreating ${dir.toUpperCase()} database`);
+            console.log(`\n[DB] Creating ${dir.toUpperCase()} database`);
             await createDatabase(levelData, join(distDir, 'data', 'vocab', `${dir}.sqlite3`));
         }
     }
@@ -106,8 +106,8 @@ async function createDatabase(data, filename, id) {
             writeFileSync(distFile, Buffer.from(byteArray));
 
             db.close();
-            console.log(`  Inserted ${numRecords[0]} records in the database out of ${count} entries from the CSV data`);
-            console.log(`  Database created in ${distFile}`);
+            console.log(`[DB]  Inserted ${numRecords[0]} records in the database out of ${count} entries from the CSV data`);
+            console.log(`[DB]  Database created in ${distFile}`);
             resolve(records);
         }
     });

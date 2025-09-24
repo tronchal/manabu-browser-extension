@@ -1,28 +1,33 @@
 import { getData, setProp } from '../../utils/storage';
 import { JLPTLevels, Categories } from '../../types/types';
 import { getVoices } from '../../utils/voice';
+import { DEFAULT_LANG } from '../../types/conf';
 import Component from '../Component';
+import template from './menu-template';
 
 export default class Menu extends Component {
     openClassName = 'menu-opened';
 
-    async connectedCallback() {
-        await this.loadTemplate('menu');
+    connectedCallback() {
+        this.loadTemplateFunc(template);
         this.render();
     }
 
     async render() {
         const data = await getData();
-        const voices = await getVoices('ja-JP');
-        super.render({
+        const voices = await getVoices(DEFAULT_LANG);
+        super.renderFunc({
             ...data,
             categories: Categories,
             jlptLevels: JLPTLevels,
             voices: voices.map((voice) => {
                 return {
                     localService: voice.localService,
-                    // For MS voices
-                    name: voice.name.replace(' - Japanese (Japan)', '')
+                    name: voice.name
+                        // For MS voices
+                        .replace(' - Japanese (Japan)', '')
+                        // For Apple voices
+                        .replace(' (Japanese (Japan))', '')
                 }
             })
         });

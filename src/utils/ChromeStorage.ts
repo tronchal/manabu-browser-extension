@@ -9,7 +9,7 @@ export class ChromeStorage implements StorageInterface {
 
     get(): Promise<any> {
         return new Promise((resolve) => {
-            chrome.storage.local.get([this.key], (result) => {
+            chrome.storage.local.get(this.key, (result) => {
                 const data = result[this.key] || {};
                 resolve(data);
             });

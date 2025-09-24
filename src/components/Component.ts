@@ -14,11 +14,23 @@ export default class Component extends HTMLElement {
         this.template = parseTemplate(html);
     }
 
+    async loadTemplateFunc(template: Function) {
+        this.template = template;
+    }
+
     async render(data :Object = {}) {
         if (!this.shadowRoot || !this.template) {
             return;
         }
         this.shadowRoot.innerHTML = this.template(data, false);
+        bindEvents((this as unknown as { [key: string]: Function }), this.shadowRoot);
+    }
+
+    async renderFunc(data :Object = {}) {
+        if (!this.shadowRoot || !this.template) {
+            return;
+        }
+        this.shadowRoot.innerHTML = parseTemplate(this.template(data))(data, false);
         bindEvents((this as unknown as { [key: string]: Function }), this.shadowRoot);
     }
 

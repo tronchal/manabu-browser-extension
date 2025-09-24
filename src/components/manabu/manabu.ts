@@ -2,15 +2,17 @@ import { getRandomWord } from '../../data/wordGenerator';
 import { getData, subscribe, toggleBookmark, isBookmarked } from '../../utils/storage';
 import { JapaneseWord, StoredData } from '../../types/interfaces';
 import { JLPTLevels, Categories } from '../../types/types';
-import { speakText } from '../../utils/voice';
+import { getVoices, speakText } from '../../utils/voice';
+import { DEFAULT_LANG } from '../../types/conf';
 import Component from '../Component';
+import template from './manabu-template';
 
 export default class Manabu extends Component {
     private word: JapaneseWord | undefined;
     private isBookmarked: boolean = false;
 
     async connectedCallback() {
-        await this.loadTemplate('manabu');
+        this.loadTemplateFunc(template);
         await this.loadNewWord();
         this.setupEventListeners();
     }
@@ -33,7 +35,8 @@ export default class Manabu extends Component {
 
     async render() {
         const data = await getData();
-        super.render({
+        const voices = await getVoices(DEFAULT_LANG);
+        super.renderFunc({
             ...data,
             word: {
                 ...this.word,
@@ -41,7 +44,8 @@ export default class Manabu extends Component {
             },
             isBookmarked: this.isBookmarked,
             categories: Categories,
-            JLPTLevels: JLPTLevels
+            JLPTLevels: JLPTLevels,
+            hasVoices: !!voices.length
         });
     }
 

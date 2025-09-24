@@ -1,6 +1,12 @@
-import tailwindcss from '@tailwindcss/postcss'
+import tailwindcss from '@tailwindcss/postcss';
+import cssnano from 'cssnano';
 
 /** @type {import('postcss-load-config').Config} */
 export default {
-    plugins: [tailwindcss]
-}
+    plugins: [
+        tailwindcss,
+        cssnano({
+            preset: 'default'
+        })
+    ]
+};

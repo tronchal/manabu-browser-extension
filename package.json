@@ -7,8 +7,11 @@
     "build:css": "node build/build-css.js",
     "build:js": "node build/build.js",
     "build:db": "node build/generate-db.js",
-    "build": "npm run clean && concurrently \"npm run build:db\" \"npm run build:css -- -m\" \"npm run build:js\"",
-    "dev": "npm run build:css && node build/build.js --serve",
+    "build:assets": "node build/build-assets.js",
+    "build": "npm run clean && concurrently \"npm run build:db\" \"npm run build:css\" \"npm run build:js\" \"npm run build:assets\"",
+    "build:prod": "cross-env NODE_ENV=production npm run build",
+    "dev": "npm run build:css && npm run build:assets && npm run build:js -- --serve",
+    "dev:chrome": "npm run dev -- --extension",
     "clean": "node -e \"require('fs-extra').emptyDirSync('dist')\""
   },
   "keywords": [
@@ -21,8 +24,10 @@
   "devDependencies": {
     "@sqlite.org/sqlite-wasm": "3.50.4-build1",
     "@tailwindcss/postcss": "4.1.13",
+    "cssnano": "7.1.1",
     "chokidar": "4.0.3",
     "concurrently": "9.2.1",
+    "cross-env": "10.0.0",
     "csv-parser": "3.2.0",
     "esbuild": "0.25.10",
     "fs-extra": "11.3.2",

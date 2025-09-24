@@ -11,8 +11,8 @@ declare global {
             local: {
                 get(
                     keys: string | string[] | { [key: string]: any },
-                    callback: (result: { [key: string]: any }) => void
-                ): void;
+                    callback?: (result: { [key: string]: any }) => void
+                ): Promise | void;
                 set(
                     items: { [key: string]: any },
                     callback?: () => void
