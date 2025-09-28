@@ -2,16 +2,23 @@ import { parseTemplate, bindEvents } from '../utils/template';
 
 export default class Component extends HTMLElement {
     protected template: Function | undefined;
+    protected hasStyleTemplate: Boolean = false;
 
     constructor() {
         super();
         this.attachShadow({ mode: 'open' });
     }
 
-    async loadTemplate(template: string) {
-        const response: Response = await fetch(`${template}.html`);
-        const html: string = await response.text();
-        this.template = parseTemplate(html);
+    connectedCallback() {
+        if (this.shadowRoot) {
+            const styleTemplate = this.querySelector('template');
+            if (styleTemplate) {
+                const sheet = new CSSStyleSheet();
+                sheet.replaceSync(styleTemplate.content.textContent);
+                this.shadowRoot.adoptedStyleSheets = [sheet];
+                this.hasStyleTemplate = true;
+            }
+        }
     }
 
     async loadTemplateFunc(template: Function) {
@@ -22,15 +29,12 @@ export default class Component extends HTMLElement {
         if (!this.shadowRoot || !this.template) {
             return;
         }
-        this.shadowRoot.innerHTML = this.template(data, false);
-        bindEvents((this as unknown as { [key: string]: Function }), this.shadowRoot);
-    }
-
-    async renderFunc(data :Object = {}) {
-        if (!this.shadowRoot || !this.template) {
-            return;
+        let template = parseTemplate(this.template(data))(data, false);
+        // Do not laod external CSS if using inline styles
+        if (this.hasStyleTemplate) {
+            template = template.replace(/<link[^>]+>/, '');
         }
-        this.shadowRoot.innerHTML = parseTemplate(this.template(data))(data, false);
+        this.shadowRoot.innerHTML = template;
         bindEvents((this as unknown as { [key: string]: Function }), this.shadowRoot);
     }
 

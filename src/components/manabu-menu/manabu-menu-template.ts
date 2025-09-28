@@ -1,6 +1,6 @@
 export default function(data: { [key: string]: any }) {
     return `
-<link href="components/menu/menu.css" rel="stylesheet">
+<link href="components/manabu-menu/manabu-menu.css" rel="stylesheet">
 
 <div class="backdrop absolute inset-0 bg-card opacity-0 hidden transition-discrete transition-all"
      :click="close()"></div>

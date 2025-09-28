@@ -1,4 +1,4 @@
-import { srcDir, distDir, assetsDir, componentsDir } from './config.js';
+import { srcDir, distDir, assetsDir } from './config.js';
 import fs from 'node:fs';
 import path from 'node:path';
 import fsextra from 'fs-extra';

@@ -1,6 +1,6 @@
 import { storageFactory } from './storageFactory';
-import { StorageInterface, StoredData } from '../types/interfaces';
-import { STORAGE_KEY } from '../types/conf';
+import { StorageInterface, StoredData } from '../../types/interfaces';
+import { STORAGE_KEY } from '../../types/conf';
 
 const defaults: StoredData = {
     darkMode: false,

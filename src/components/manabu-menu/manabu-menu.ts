@@ -1,14 +1,15 @@
-import { getData, setProp } from '../../utils/storage';
+import { getData, setProp } from '../../utils/storage/storage';
 import { JLPTLevels, Categories } from '../../types/types';
 import { getVoices } from '../../utils/voice';
 import { DEFAULT_LANG } from '../../types/conf';
 import Component from '../Component';
-import template from './menu-template';
+import template from './manabu-menu-template';
 
 export default class Menu extends Component {
     openClassName = 'menu-opened';
 
     connectedCallback() {
+        super.connectedCallback();
         this.loadTemplateFunc(template);
         this.render();
     }
@@ -16,7 +17,7 @@ export default class Menu extends Component {
     async render() {
         const data = await getData();
         const voices = await getVoices(DEFAULT_LANG);
-        super.renderFunc({
+        super.render({
             ...data,
             categories: Categories,
             jlptLevels: JLPTLevels,

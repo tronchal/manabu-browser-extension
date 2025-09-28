@@ -1,11 +1,12 @@
-import { setProp } from '../../utils/storage';
+import { setProp } from '../../utils/storage/storage';
 import Component from '../Component';
 import template from './theme-toggle-template';
 
 export default class ThemeToggle extends Component {
     connectedCallback() {
+        super.connectedCallback();
         this.loadTemplateFunc(template);
-        this.renderFunc();
+        this.render();
     }
 
     async toggleDarkMode() {

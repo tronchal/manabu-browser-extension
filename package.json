@@ -7,12 +7,12 @@
     "build:css": "node build/build-css.js",
     "build:js": "node build/build.js",
     "build:db": "node build/generate-db.js",
-    "build:assets": "node build/build-assets.js",
-    "build": "npm run clean && concurrently \"npm run build:db\" \"npm run build:css\" \"npm run build:js\" \"npm run build:assets\"",
+    "build": "npm run clean && npm run copy:assets && concurrently \"npm run build:db\" \"npm run build:css\" \"npm run build:js\"",
     "build:prod": "cross-env NODE_ENV=production npm run build",
-    "dev": "npm run build:css && npm run build:assets && npm run build:js -- --serve",
-    "dev:chrome": "npm run dev -- --extension",
-    "clean": "node -e \"require('fs-extra').emptyDirSync('dist')\""
+    "clean": "node -e \"require('fs-extra').emptyDirSync('dist')\"",
+    "copy:assets": "node build/copy-assets.js",
+    "dev": "npm run copy:assets && npm run build:css && npm run build:js -- --serve",
+    "dev:chrome": "npm run dev -- --extension"
   },
   "keywords": [
     "chrome-extension",

@@ -1,6 +1,6 @@
 export default function(data: { [key: string]: any }) {
     return `
-<link href="components/manabu/manabu.css" rel="stylesheet">
+<link href="components/manabu-word/manabu-word.css" rel="stylesheet">
 
 <section class="flex-1 content-center pt-12 pb-8 text-center">
     ${data.furigana && data.word.furigana && `
@@ -33,7 +33,7 @@ export default function(data: { [key: string]: any }) {
     ` || ''}
 
     ${data.examples && data.word.example && `
-        <div class="text-1xl text-center mb-8 rounded-xl bg-page p-2">
+        <div class="text-center mb-8 rounded-xl bg-page p-2">
             <p>{{word.example}}</p>
             <p class="italic">{{word.example_translation}}</p>
         </div>

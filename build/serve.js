@@ -57,7 +57,7 @@ export async function serve(devExtension) {
         const fileSrc = path.join(srcDir, file);
         console.log(e, fileSrc);  // eslint-disable-line no-console
         if (file?.endsWith('.css')) {
-            execSync(pkg.scripts['build:css']);
+            execSync(`${pkg.scripts['build:css']} ${fileSrc}`);
         // Watch for changes in the main HTML
         } else if (file === entryHTML && !devExtension) {
             injectHotReloadToIndex();

@@ -1,17 +1,18 @@
 import { getRandomWord } from '../../data/wordGenerator';
-import { getData, subscribe, toggleBookmark, isBookmarked } from '../../utils/storage';
+import { getData, subscribe, toggleBookmark, isBookmarked } from '../../utils/storage/storage';
 import { JapaneseWord, StoredData } from '../../types/interfaces';
 import { JLPTLevels, Categories } from '../../types/types';
 import { getVoices, speakText } from '../../utils/voice';
 import { DEFAULT_LANG } from '../../types/conf';
 import Component from '../Component';
-import template from './manabu-template';
+import template from './manabu-word-template';
 
-export default class Manabu extends Component {
+export default class ManabuWord extends Component {
     private word: JapaneseWord | undefined;
     private isBookmarked: boolean = false;
 
     async connectedCallback() {
+        super.connectedCallback();
         this.loadTemplateFunc(template);
         await this.loadNewWord();
         this.setupEventListeners();
@@ -36,7 +37,7 @@ export default class Manabu extends Component {
     async render() {
         const data = await getData();
         const voices = await getVoices(DEFAULT_LANG);
-        super.renderFunc({
+        super.render({
             ...data,
             word: {
                 ...this.word,
@@ -67,4 +68,4 @@ export default class Manabu extends Component {
     }
 }
 
-customElements.define('manabu-word', Manabu);
+customElements.define('manabu-word', ManabuWord);

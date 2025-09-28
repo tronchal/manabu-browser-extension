@@ -1,4 +1,4 @@
-import { StorageInterface } from '../types/interfaces';
+import { StorageInterface } from '../../types/interfaces';
 
 export class LocalStorage implements StorageInterface {
     private key: string;

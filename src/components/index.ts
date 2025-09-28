@@ -1,3 +1,3 @@
-import './manabu/manabu';
+import './manabu-word/manabu-word';
 import './theme-toggle/theme-toggle';
-import './menu/menu';
+import './manabu-menu/manabu-menu';
