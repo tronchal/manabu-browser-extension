@@ -56,10 +56,10 @@
 @layer base {
     body {
         @apply text-text;
-        /* Overrides injected style */
-        font-size: 100% !important;
         background-image: var(--bg-pattern);
         background-size: 63px;
+        /* Overrides injected style */
+        font-size: 100% !important;
     }
 }
 
