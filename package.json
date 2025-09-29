@@ -1,6 +1,6 @@
 {
   "name": "manabu-browser-extension",
-  "version": "1.0.0",
+  "version": "0.8.0",
   "type": "module",
   "description": "A browser extension that displays random Japanese words on new tabs",
   "scripts": {
@@ -24,10 +24,10 @@
   "devDependencies": {
     "@sqlite.org/sqlite-wasm": "3.50.4-build1",
     "@tailwindcss/postcss": "4.1.13",
-    "cssnano": "7.1.1",
     "chokidar": "4.0.3",
     "concurrently": "9.2.1",
     "cross-env": "10.0.0",
+    "cssnano": "7.1.1",
     "csv-parser": "3.2.0",
     "esbuild": "0.25.10",
     "fs-extra": "11.3.2",

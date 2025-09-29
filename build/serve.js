@@ -59,15 +59,20 @@ export async function serve(devExtension) {
         if (file?.endsWith('.css')) {
             execSync(`${pkg.scripts['build:css']} ${fileSrc}`);
         // Watch for changes in the main HTML
-        } else if (file === entryHTML && !devExtension) {
-            injectHotReloadToIndex();
+        } else if (file === entryHTML) {
+            execSync(`${pkg.scripts['build:css']} ${path.join(srcDir, 'main.css')}`);
+            if (!devExtension) {
+                injectHotReloadToIndex();
+            }
         // Copy assets
         } else if (file?.endsWith('.html')) {
             fs.copyFileSync(fileSrc, fileSrc.replace(srcDir + path.sep, distDir + path.sep));
             // Trigger CSS if a Tailwind class has been modified
             execSync(pkg.scripts['build:css']);
         } else if (file?.includes(`${assetsDir}${path.sep}`)) {
-            fs.copyFileSync(fileSrc, path.join(distDir, file));
+            if (fs.existsSync(fileSrc)) {
+                fs.copyFileSync(fileSrc, path.join(distDir, file));
+            }
         }
     });
 }

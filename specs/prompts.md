@@ -79,12 +79,14 @@ Given the following CSV file with a list of Japanese JLPT N1 grammar points, gen
 Gemini.
 
 You are a Japanese language teacher.
-The attached CSV text contains a list of Japanese JLPT N5 kanji.
+In the following message I will write CSV text that contains a list of Japanese JLPT N1 kanjis.
 Review and validate that the data in each row is correct. Review the following columns:
 - word: the kanji.
-- onyomi: onyomi readings.
-- kunyomi: kunyomi readings.
-- translation: common translations in English of the kanji.
+- onyomi: onyomi readings separated by the character 、.
+- kunyomi: kunyomi readings separated by the character 、.
+- translation: common translations in English of the kanji, separated by semicolon and a whitespace.
+- category：kanji
+- level: n1
 
 Apply any correction needed to improve the data.
 Do not break CSV format while applying corrections.

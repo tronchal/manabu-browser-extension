@@ -4,7 +4,7 @@ word,furigana,translation,category,level
 合図,あいず,sign; signal,noun,n3
 愛する,あいする,to love,verb,n3
 相手,あいて,companion; partner; opponent,noun,n3
-あいにく,,"unfortunately; sorry, but...",adverb,n3
+あいにく,,unfortunately; sorry; but...,adverb,n3
 明かり,あかり,light; illumination; glow,noun,n3
 空き,あき,opening; space; vacancy,noun,n3
 明らか,あきらか,obvious; clear; plain,adjective,n3
@@ -53,19 +53,19 @@ word,furigana,translation,category,level
 意識,いしき,consciousness; awareness,noun,n3
 医師,いし,doctor; physician,noun,n3
 維持,いじ,maintenance; preservation,noun,n3
-苛める,いじめる,to bully; to torment,verb,n3
-異常,いじょう,strangeness; abnormality,adjective,n3
+いじめる,,to bully; to torment,verb,n3
+異常,いじょう,strangeness; abnormality; disorder,adjective,n3
 泉,いずみ,spring; fountain,noun,n3
 以前,いぜん,ago; since; before,adverb,n3
 板,いた,board; plank,noun,n3
-偉大,いだい,greatness; magnificence,adjective,n3
-抱く,いだく,to embrace; to hold in one's arms,verb,n3
+偉大,いだい,great; grand; magnificent,adjective,n3
+抱く,いだく,to harbor (a feeling); to entertain (a doubt); to embrace (an idea),verb,n3
 いたずら,,mischief; prank,noun,n3
 頂く,いただく,to receive; to get (humble),verb,n3
 痛み,いたみ,pain; ache; sore,noun,n3
 至る,いたる,to arrive at; to reach,verb,n3
 位置,いち,place; situation; position,noun,n3
-一時,いちじ,one o'clock; for a time; temporarily,noun,n3
+一時,いちじ,for a time; a period of time; temporarily,noun,n3
 一度に,いちどに,all at once,adverb,n3
 一流,いちりゅう,first-class; top grade,noun,n3
 一家,いっか,a house; a home; a family,noun,n3
@@ -73,7 +73,7 @@ word,furigana,translation,category,level
 一瞬,いっしゅん,a moment; an instant,noun,n3
 一生,いっしょう,whole life; a lifetime,noun,n3
 一層,いっそう,much more; still more; all the more,adverb,n3
-一体,いったい,what on earth; really; in the first place,adverb,n3
+一体,いったい,what on earth; really; (in the) first place,adverb,n3
 一致,いっち,agreement; union; match,noun,n3
 いつでも,,anytime; always; at all times,adverb,n3
 一般,いっぱん,general; common; ordinary,noun,n3
@@ -90,8 +90,8 @@ word,furigana,translation,category,level
 今に,いまに,before long; even now,adverb,n3
 今にも,いまにも,at any moment; at any minute,adverb,n3
 以来,いらい,since; henceforth,noun,n3
-依頼,いらい,request; commission,noun,n3
-いらいら,,getting nervous; irritation,adverb,n3
+依頼,いらい,request; commission; entrusting,noun,n3
+いらいら,,to be irritated; feeling frustrated,adverb,n3
 いらっしゃい,,welcome,expression,n3
 医療,いりょう,medical care; medical treatment,noun,n3
 岩,いわ,rock; crag,noun,n3
@@ -105,10 +105,10 @@ word,furigana,translation,category,level
 インタビュー,,interview,noun,n3
 引用,いんよう,quotation; citation,noun,n3
 ウイスキー,,whisky,noun,n3
-ウェーター,,waiter,noun,n3
-ウェートレス,,waitress,noun,n3
+ウェイター,,waiter,noun,n3
+ウェイトレス,,waitress,noun,n3
 植木,うえき,garden shrubs; potted plant,noun,n3
-浮ぶ,うかぶ,to float; to come to mind,verb,n3
+浮かぶ,うかぶ,to float; to come to mind,verb,n3
 浮かべる,うかべる,to float; to express,verb,n3
 受け取る,うけとる,to receive; to get; to accept,verb,n3
 動かす,うごかす,to move; to shift,verb,n3
@@ -118,20 +118,20 @@ word,furigana,translation,category,level
 宇宙,うちゅう,universe; cosmos; space,noun,n3
 撃つ,うつ,to shoot; to attack,verb,n3
 移す,うつす,to remove; to transfer; to infect,verb,n3
-訴える,うったえる,to sue (a person); to complain of,verb,n3
+訴える,うったえる,to sue (a person); to complain of; to appeal to,verb,n3
 うっかり,,carelessly; thoughtlessly,adverb,n3
 うまい,,skillful; delicious,adjective,n3
 生まれ,うまれ,birth; birthplace,noun,n3
 梅,うめ,plum; Japanese apricot,noun,n3
-裏切る,うらぎる,to betray; to turn traitor to,verb,n3
+裏切る,うらぎる,to betray,verb,n3
 噂,うわさ,rumor; gossip,noun,n3
 永遠,えいえん,eternity; perpetuity,noun,n3
 影響,えいきょう,influence; effect,noun,n3
-営業,えいぎょう,business; trade; operations,noun,n3
+営業,えいぎょう,business; trade; sales,noun,n3
 衛生,えいせい,hygiene; sanitation,noun,n3
 栄養,えいよう,nutrition; nourishment,noun,n3
 笑顔,えがお,smiling face,noun,n3
-描く,えがく,to draw; to paint; to sketch,verb,n3
+描く,えがく,to draw; to paint; to depict,verb,n3
 餌,えさ,feed; bait,noun,n3
 エネルギー,,energy,noun,n3
 得る,える,to get; to acquire; to obtain,verb,n3
@@ -145,55 +145,55 @@ word,furigana,translation,category,level
 王,おう,king; monarch,noun,n3
 追い掛ける,おいかける,to chase; to run after,verb,n3
 追い越す,おいこす,to pass (a car); to overtake,verb,n3
-応援,おうえん,aid; assistance; support,noun,n3
+応援,おうえん,cheering; support; aid,noun,n3
 王様,おうさま,king,noun,n3
 王子,おうじ,prince,noun,n3
 応じる,おうじる,to respond; to satisfy; to accept,verb,n3
 王女,おうじょ,princess,noun,n3
-応対,おうたい,receiving; dealing with,noun,n3
+応対,おうたい,receiving; dealing with (visitors; customers),noun,n3
 往復,おうふく,round trip,noun,n3
 欧米,おうべい,Europe and America; the West,noun,n3
 お陰,おかげ,owing to; thanks to,noun,n3
-おかず,,side dish; accompaniment for rice,noun,n3
-拝む,おがむ,to worship; to beg; to pray,verb,n3
+おかず,,side dish,noun,n3
+拝む,おがむ,to worship; to pray to; to beg,verb,n3
 お代わり,おかわり,second helping; another cup,noun,n3
-補う,おぎなう,to supplement; to make up for,verb,n3
+補う,おぎなう,to supplement; to make up for; to compensate for,verb,n3
 屋外,おくがい,outdoors,noun,n3
 起こる,おこる,to occur; to happen,verb,n3
 幼い,おさない,very young; childish,adjective,n3
-収める,おさめる,to put away; to obtain,verb,n3
+収める,おさめる,to dedicate; to make an offering; to pay (fees),verb,n3
 おしゃべり,,chattering; talkative,noun,n3
 汚染,おせん,pollution; contamination,noun,n3
 おそらく,,perhaps; probably,adverb,n3
 恐れる,おそれる,to fear; to be afraid of,verb,n3
-恐ろしい,おそろしい,terrible; dreadful,adjective,n3
+恐ろしい,おそろしい,terrible; dreadful; terrifying,adjective,n3
 お互い,おたがい,each other; one another,noun,n3
 穏やか,おだやか,calm; gentle; quiet,adjective,n3
 男の人,おとこのひと,man,noun,n3
 劣る,おとる,to be inferior to; to be less good at,verb,n3
 脅かす,おどかす,to threaten; to menace,verb,n3
-驚かす,おどろかす,to surprise; to frighten,verb,n3
+驚かす,おどろかす,to surprise; to astonish,verb,n3
 鬼,おに,ogre; demon,noun,n3
 思い出す,おもいだす,to recall; to remember,verb,n3
 思い付く,おもいつく,to think of; to hit upon,verb,n3
-主な,おもな,main; principal; important,adjective,n3
+主な,おもな,main; principal; chief,adjective,n3
 思わず,おもわず,unintentionally; spontaneously,adverb,n3
 お休み,おやすみ,holiday; vacation; rest,noun,n3
 おやつ,,snack; refreshment,noun,n3
 およそ,,about; roughly; approximately,adverb,n3
-及ぼす,およぼす,to exert; to cause; to exercise,verb,n3
+及ぼす,およぼす,to exert; to cause; to have an effect on,verb,n3
 泳ぎ,およぎ,swimming,noun,n3
-下ろす,おろす,to take down; to launch; to drop,verb,n3
-降ろす,おろす,to take down; to unload,verb,n3
+下ろす,おろす,to take down; to lower; to withdraw (money),verb,n3
+降ろす,おろす,to take down; to unload; to let (a person) off,verb,n3
 恩,おん,favor; obligation; debt of gratitude,noun,n3
-温暖,おんだん,warmth; mildness,adjective,n3
+温暖,おんだん,warm; mild,adjective,n3
 温度,おんど,temperature,noun,n3
 蚊,か,mosquito,noun,n3
 課,か,lesson; section; department,counter,n3
 貝,かい,shell; shellfish,noun,n3
-会,かい,meeting; assembly; party,noun,n3
+会,かい,meeting; assembly; association,noun,n3
 海外,かいがい,overseas; abroad,noun,n3
-会計,かいけい,account; finance; accountant,noun,n3
+会計,かいけい,accounting; finance; bill,noun,n3
 解決,かいけつ,settlement; solution; resolution,noun,n3
 会合,かいごう,meeting; assembly,noun,n3
 外交,がいこう,diplomacy,noun,n3
@@ -208,16 +208,16 @@ word,furigana,translation,category,level
 換える,かえる,to exchange; to interchange,verb,n3
 香り,かおり,aroma; fragrance; scent,noun,n3
 画家,がか,painter; artist,noun,n3
-抱える,かかえる,"to hold in one's arms; to have (problems, debts, etc.)",verb,n3
+抱える,かかえる,to hold or carry under or in the arms; to have (problems; debts; etc.),verb,n3
 価格,かかく,price; value; cost,noun,n3
 化学,かがく,chemistry,noun,n3
 輝く,かがやく,to shine; to glitter; to sparkle,verb,n3
-掛かる,かかる,"to take (a resource, e.g. time or money)",verb,n3
-罹る,かかる,to suffer from,verb,n3
+掛かる,かかる,to take (a resource; e.g. time or money); to hang,verb,n3
+罹る,かかる,to suffer from; to contract (a disease),verb,n3
 嗅ぐ,かぐ,to smell; to sniff,verb,n3
 家具,かぐ,furniture,noun,n3
 学,がく,learning; study; science,noun,n3
-額,がく,forehead; amount,noun,n3
+額,ひたい,forehead; brow,noun,n3
 覚悟,かくご,resolution; resignation; readiness,noun,n3
 確実,かくじつ,certainty; reliability; soundness,adjective,n3
 学者,がくしゃ,scholar,noun,n3
@@ -229,17 +229,17 @@ word,furigana,translation,category,level
 隠れる,かくれる,to hide; to be hidden,verb,n3
 影,かげ,shadow; silhouette; reflection,noun,n3
 陰,かげ,shade; shadow,noun,n3
-欠ける,かける,to be lacking; to be missing,verb,n3
-加減,かげん,addition and subtraction; degree,noun,n3
+欠ける,かける,to be lacking; to be missing; to chip,verb,n3
+加減,かげん,degree; extent; adjustment,noun,n3
 過去,かこ,the past; bygone days,noun,n3
 籠,かご,basket; cage,noun,n3
 囲む,かこむ,to surround; to encircle,verb,n3
 火災,かさい,conflagration; fire,noun,n3
-重ねる,かさねる,to pile up; to repeat,verb,n3
+重ねる,かさねる,to pile up; to stack; to repeat,verb,n3
 飾り,かざり,decoration; ornament,noun,n3
 火山,かざん,volcano,noun,n3
 貸し,かし,loan; lending,noun,n3
-菓子,かし,sweets; candy,noun,n3
+菓子,かし,sweets; confectionery,noun,n3
 家事,かじ,housework; domestic chores,noun,n3
 賢い,かしこい,wise; clever; smart,adjective,n3
 歌手,かしゅ,singer,noun,n3
@@ -248,40 +248,40 @@ word,furigana,translation,category,level
 数える,かぞえる,to count,verb,n3
 型,かた,model; type; pattern,noun,n3
 肩,かた,shoulder,noun,n3
-方々,かたがた,persons; this and that; here and there,noun,n3
-塊,かたまり,lump; mass; clod,noun,n3
-固まる,かたまる,to harden; to solidify,verb,n3
+方々,かたがた,persons; ladies and gentlemen,noun,n3
+塊,かたまり,lump; mass; cluster,noun,n3
+固まる,かたまる,to harden; to solidify; to gather together,verb,n3
 片道,かたみち,one-way (trip),noun,n3
-傾く,かたむく,to incline towards; to slant,verb,n3
-偏る,かたよる,to be one-sided; to be prejudiced,verb,n3
+傾く,かたむく,to incline toward; to slant; to lean,verb,n3
+偏る,かたよる,to be one-sided; to be prejudiced; to be biased,verb,n3
 学科,がっか,study subject; course of study,noun,n3
 学会,がっかい,scientific society; academic meeting,noun,n3
 楽器,がっき,musical instrument,noun,n3
-学級,がっきゅう,grade in school,noun,n3
-がっかり,,be disappointed; be discouraged,adverb,n3
+学級,がっきゅう,(school) class,noun,n3
+がっかり,,disappointed; dejected,adverb,n3
 活気,かっき,energy; liveliness,noun,n3
 格好,かっこう,shape; form; appearance,noun,n3
 活動,かつどう,action; activity,noun,n3
-活用,かつよう,practical use; application,noun,n3
-悲しむ,かなしむ,to be sad; to mourn for,verb,n3
+活用,かつよう,practical use; application; conjugation,noun,n3
+悲しむ,かなしむ,to be sad; to mourn for; to regret,verb,n3
 必ずしも,かならずしも,not always; not necessarily,adverb,n3
 かなり,,considerably; fairly; quite,adverb,n3
-加熱,かねつ,heating; application of heat,noun,n3
+加熱,かねつ,heating,noun,n3
 鐘,かね,bell; chime,noun,n3
 可能,かのう,possible; practicable,adjective,n3
 株,かぶ,stock; share,noun,n3
-構う,かまう,to mind; to care about,verb,n3
+構う,かまう,to mind; to care about; to look after,verb,n3
 我慢,がまん,patience; endurance; self-control,noun,n3
-神,かみ,god,noun,n3
-雷,かみなり,thunder,noun,n3
+神,かみ,god; deity,noun,n3
+雷,かみなり,thunder; lightning,noun,n3
 髪の毛,かみのけ,hair (on the head),noun,n3
-科目,かもく,school subject; curriculum,noun,n3
+科目,かもく,(school) subject; curriculum,noun,n3
 かもめ,,seagull,noun,n3
-刈る,かる,to cut (hair); to mow (grass),verb,n3
-彼ら,かれら,they,pronoun,n3
-乾燥,かんそう,dryness; aridity,noun,n3
+刈る,かる,to cut (hair); to mow (grass); to reap,verb,n3
+彼ら,かれら,they (usually masculine or mixed gender),pronoun,n3
+乾燥,かんそう,dryness; desiccation,noun,n3
 渇く,かわく,to be thirsty,verb,n3
-為替,かわせ,money order; exchange,noun,n3
+為替,かわせ,money order; (foreign) exchange,noun,n3
 瓦,かわら,roof tile,noun,n3
 勘,かん,perception; intuition; the sixth sense,noun,n3
 缶,かん,can; tin,noun,n3
@@ -295,57 +295,57 @@ word,furigana,translation,category,level
 感じ,かんじ,feeling; sense; impression,noun,n3
 感謝,かんしゃ,thanks; gratitude,noun,n3
 患者,かんじゃ,a patient,noun,n3
-勘定,かんじょう,calculation; counting; bill,noun,n3
+勘定,かんじょう,calculation; bill; check,noun,n3
 感情,かんじょう,emotion; feeling; sentiment,noun,n3
 感じる,かんじる,to feel; to sense,verb,n3
-感心,かんしん,admiration; being impressed,noun,n3
+感心,かんしん,admiration,noun,n3
 関心,かんしん,concern; interest,noun,n3
 完成,かんせい,complete; completion,noun,n3
 完全,かんぜん,perfect; complete,adjective,n3
 感動,かんどう,being deeply moved; excitement,noun,n3
-監督,かんとく,supervision; control; director,noun,n3
-管理,かんり,control; management (e.g. of a business),noun,n3
+監督,かんとく,director; (sports) manager; coach,noun,n3
+管理,かんり,control; management,noun,n3
 完了,かんりょう,completion; conclusion,noun,n3
 関連,かんれん,relation; connection; relevance,noun,n3
-議員,ぎいん,"member of the Diet, congress or parliament",noun,n3
+議員,ぎいん,member of the Diet; congress or parliament,noun,n3
 記憶,きおく,memory; recollection,noun,n3
-気温,きおん,temperature,noun,n3
+気温,きおん,(air) temperature,noun,n3
 機械,きかい,machine; mechanism,noun,n3
 議会,ぎかい,Diet; congress; parliament,noun,n3
 期間,きかん,period; term,noun,n3
-機関,きかん,organ; mechanism; facility,noun,n3
-企業,きぎょう,enterprise; undertaking,noun,n3
-効く,きく,to be effective; to show effect,verb,n3
-機嫌,きげん,humour; temper; mood,noun,n3
+機関,きかん,organ; mechanism; facility; engine,noun,n3
+企業,きぎょう,enterprise; corporation,noun,n3
+効く,きく,to be effective; to work,verb,n3
+機嫌,きげん,humor; temper; mood,noun,n3
 気候,きこう,climate,noun,n3
 記事,きじ,article; news story,noun,n3
 生地,きじ,cloth; fabric,noun,n3
 技師,ぎし,engineer; technician,noun,n3
 記者,きしゃ,reporter,noun,n3
-傷,きず,wound; injury; scar,noun,n3
+傷,きず,wound; injury; flaw; scar,noun,n3
 期待,きたい,expectation; anticipation; hope,noun,n3
 帰宅,きたく,returning home,noun,n3
 貴重,きちょう,precious; valuable,adjective,n3
 議長,ぎちょう,chairman; speaker,noun,n3
 きちんと,,precisely; accurately; neatly,adverb,n3
-きつい,,tight; close; intense,adjective,n3
-気付く,きづく,to notice; to recognize,verb,n3
-気に入る,きにいる,to be pleased with; to suit,verb,n3
-記念,きねん,commemoration; celebration,noun,n3
+きつい,,tight; tough; intense,adjective,n3
+気付く,きづく,to notice; to recognize; to realize,verb,n3
+気に入る,きにいる,to be pleased with; to suit; to like,verb,n3
+記念,きねん,commemoration,noun,n3
 機能,きのう,function; feature,noun,n3
-気の毒,きのどく,pitiful; unfortunate,adjective,n3
+気の毒,きのどく,pitiful; unfortunate; sorry,adjective,n3
 寄付,きふ,donation; contribution,noun,n3
 希望,きぼう,hope; wish; aspiration,noun,n3
 決まり,きまり,rule; settlement,noun,n3
-気味,きみ,sensation; feeling; tendency,suffix,n3
+気味,ぎみ,-like; -looking; tending to,suffix,n3
 奇妙,きみょう,strange; queer; curious,adjective,n3
 義務,ぎむ,duty; obligation; responsibility,noun,n3
 疑問,ぎもん,question; problem; doubt,noun,n3
 逆,ぎゃく,reverse; opposite,noun,n3
-旧,きゅう,ex-; former,noun,n3
+旧,きゅう,ex-; former,prefix,n3
 級,きゅう,class; grade; rank,counter,n3
 球,きゅう,globe; sphere; ball,noun,n3
-休暇,きゅうか,holiday; day off; furlough,noun,n3
+休暇,きゅうか,holiday; day off; vacation,noun,n3
 休憩,きゅうけい,rest; break; recess,noun,n3
 急激,きゅうげき,sudden; rapid; sharp,adjective,n3
 吸収,きゅうしゅう,absorption; suction,noun,n3
@@ -359,14 +359,14 @@ word,furigana,translation,category,level
 供給,きょうきゅう,supply; provision,noun,n3
 教師,きょうし,teacher (classroom),noun,n3
 教授,きょうじゅ,professor,noun,n3
-強調,きょうちょう,emphasis; stress; stressed point,noun,n3
-共通,きょうつう,commonness; community,noun,n3
-共同,きょうどう,cooperation; collaboration,noun,n3
+強調,きょうちょう,emphasis; stress,noun,n3
+共通,きょうつう,common; shared,noun,n3
+共同,きょうどう,cooperation; collaboration; joint,noun,n3
 恐怖,きょうふ,fear; dread; terror,noun,n3
 協力,きょうりょく,cooperation; collaboration,noun,n3
 強力,きょうりょく,powerful; strong,adjective,n3
 許可,きょか,permission; approval,noun,n3
-局,きょく,bureau; department,noun,n3
+局,きょく,bureau; department; (broadcasting) station,noun,n3
 巨大,きょだい,huge; gigantic; enormous,adjective,n3
 嫌う,きらう,to hate; to dislike,verb,n3
 霧,きり,fog; mist,noun,n3
@@ -380,8 +380,8 @@ word,furigana,translation,category,level
 近代,きんだい,present day; modern times,noun,n3
 緊張,きんちょう,tension; mental strain; nervousness,noun,n3
 筋肉,きんにく,muscle; sinew,noun,n3
-金融,きんゆう,finance; credit transacting,noun,n3
-句,く,sentence; phrase; passage,noun,n3
+金融,きんゆう,finance; credit,noun,n3
+句,く,phrase; verse; haiku,noun,n3
 食う,くう,to eat (vulgar),verb,n3
 偶然,ぐうぜん,by chance; unexpectedly,adjective,n3
 臭い,くさい,stinking; smelly,adjective,n3
@@ -394,97 +394,97 @@ word,furigana,translation,category,level
 ぐっすり,,sound asleep; fast asleep,adverb,n3
 区別,くべつ,distinction; differentiation,noun,n3
 組,くみ,class; group; set,noun,n3
-組む,くむ,to put together; to construct,verb,n3
+組む,くむ,to put together; to cross (e.g. arms); to team up,verb,n3
 曇,くもり,cloudiness; cloudy weather,noun,n3
-悔しい,くやしい,frustrating; regrettable,adjective,n3
+悔しい,くやしい,frustrating; regrettable; vexing,adjective,n3
 暮らし,くらし,living; livelihood; life circumstances,noun,n3
 暮らす,くらす,to live; to get along,verb,n3
-クラシック,,classic,noun,n3
-クリーニング,,cleaning; dry cleaning; laundry service,noun,n3
-繰り返す,くりかえす,to repeat; to do something over again,verb,n3
+クラシック,,classical music,noun,n3
+クリーニング,,cleaning; dry cleaning,noun,n3
+繰り返す,くりかえす,to repeat,verb,n3
 苦しむ,くるしむ,to suffer; to groan; to be worried,verb,n3
-苦しい,くるしい,painful; difficult,adjective,n3
+苦しい,くるしい,painful; difficult; tough,adjective,n3
 暮れ,くれ,year end; sunset,noun,n3
 苦労,くろう,troubles; hardships,noun,n3
-加える,くわえる,to append; to sum up; to add,verb,n3
-詳しい,くわしい,detailed; full; accurate,adjective,n3
-加わる,くわわる,to join in; to accede to; to increase,verb,n3
+加える,くわえる,to add; to include,verb,n3
+詳しい,くわしい,detailed,adjective,n3
+加わる,くわわる,to join in; to be added to; to increase,verb,n3
 訓,くん,native Japanese reading of a Chinese character,noun,n3
 軍,ぐん,army; force; troops,noun,n3
 軍隊,ぐんたい,army; troops,noun,n3
 訓練,くんれん,practice; training,noun,n3
 敬意,けいい,respect; honor,noun,n3
 経営,けいえい,management; administration,noun,n3
-景気,けいき,condition; state; business (climate),noun,n3
+景気,けいき,business climate; the economy; state of affairs,noun,n3
 傾向,けいこう,trend; tendency,noun,n3
 警告,けいこく,warning; advice,noun,n3
 計算,けいさん,calculation; reckoning,noun,n3
 掲示,けいじ,notice; bulletin,noun,n3
-刑事,けいじ,a police detective,noun,n3
-芸術,げいじゅつ,fine art; the arts,noun,n3
-契約,けいやく,contract; compact; agreement,noun,n3
-経由,けいゆ,go by the way of; via,noun,n3
+刑事,けいじ,(police) detective,noun,n3
+芸術,げいじゅつ,art; the arts,noun,n3
+契約,けいやく,contract; agreement,noun,n3
+経由,けいゆ,via; by way of,noun,n3
 劇,げき,drama; play,noun,n3
-劇場,げきじょう,theatre; playhouse,noun,n3
-化粧,けしょう,make-up (cosmetic),noun,n3
-けち,,stinginess; miserliness,adjective,n3
+劇場,げきじょう,theater; playhouse,noun,n3
+化粧,けしょう,make-up; cosmetics,noun,n3
+けち,,stingy; miserly,adjective,n3
 結果,けっか,result; consequence,noun,n3
-欠陥,けっかん,defect; fault; deficiency,noun,n3
+欠陥,けっかん,defect; fault; flaw,noun,n3
 結局,けっきょく,after all; in the end,adverb,n3
 決心,けっしん,determination; resolution,noun,n3
 欠席,けっせき,absence; non-attendance,noun,n3
 決定,けってい,decision; determination,noun,n3
-欠点,けってん,faults; defect; weakness,noun,n3
+欠点,けってん,fault; defect; weakness,noun,n3
 結論,けつろん,conclusion,noun,n3
 煙,けむり,smoke; fumes,noun,n3
-券,けん,ticket; coupon; bond,counter,n3
+券,けん,ticket; coupon,counter,n3
 県,けん,prefecture,noun,n3
 軒,けん,counter for houses,counter,n3
 見解,けんかい,opinion; point of view,noun,n3
 限界,げんかい,limit; bound,noun,n3
-現金,げんきん,cash; ready money,noun,n3
+現金,げんきん,cash,noun,n3
 言語,げんご,language,noun,n3
 健康,けんこう,health,noun,n3
-検査,けんさ,"inspection (e.g. customs, factory); examination",noun,n3
-現在,げんざい,present; up to now; nowadays,noun,n3
+検査,けんさ,inspection; examination,noun,n3
+現在,げんざい,the present; present time,noun,n3
 現実,げんじつ,reality,noun,n3
 現象,げんしょう,phenomenon,noun,n3
 現状,げんじょう,present condition; existing state,noun,n3
 建設,けんせつ,construction; establishment,noun,n3
-現代,げんだい,nowadays; modern times,noun,n3
-建築,けんちく,construction; architecture,noun,n3
+現代,げんだい,modern times; nowadays,noun,n3
+建築,けんちく,architecture; construction,noun,n3
 検討,けんとう,consideration; examination; investigation,noun,n3
-見当,けんとう,be found; aim; estimate,noun,n3
+見当,けんとう,aim; guess; estimate,noun,n3
 憲法,けんぽう,constitution,noun,n3
 権利,けんり,right; privilege,noun,n3
-恋,こい,love; tender passion,noun,n3
-濃い,こい,"thick (as of color, liquid); dense",adjective,n3
-恋人,こいびと,lover; sweetheart,noun,n3
+恋,こい,love; romance,noun,n3
+濃い,こい,thick (liquid); dense; strong (flavor); dark (color),adjective,n3
+恋人,こいびと,lover; boyfriend; girlfriend,noun,n3
 幸運,こううん,good luck; fortune,noun,n3
 講演,こうえん,lecture; address,noun,n3
-効果,こうか,effect; effectiveness; efficacy,noun,n3
+効果,こうか,effect; effectiveness,noun,n3
 硬貨,こうか,coin,noun,n3
-高価,こうか,high price,adjective,n3
-豪華,ごうか,wonderful; gorgeous; splendor,adjective,n3
-合格,ごうかく,success; passing (e.g. exam),noun,n3
-交換,こうかん,exchange; interchange; reciprocity,noun,n3
+高価,こうか,expensive; high-priced,adjective,n3
+豪華,ごうか,gorgeous; luxurious; splendid,adjective,n3
+合格,ごうかく,passing (an exam); success,noun,n3
+交換,こうかん,exchange; interchange,noun,n3
 航空,こうくう,aviation; flying,noun,n3
 光景,こうけい,scene; spectacle,noun,n3
 合計,ごうけい,sum total; total amount,noun,n3
 攻撃,こうげき,attack; strike; offensive,noun,n3
-貢献,こうけん,contribution; services,noun,n3
+貢献,こうけん,contribution; service,noun,n3
 広告,こうこく,advertisement,noun,n3
-交際,こうさい,association; company; friendship,noun,n3
+交際,こうさい,socializing; dating; association,noun,n3
 後者,こうしゃ,the latter,noun,n3
 構成,こうせい,organization; composition,noun,n3
-高速,こうそく,high speed; high gear,noun,n3
-行動,こうどう,action; conduct; behaviour,noun,n3
-校庭,こうてい,campus,noun,n3
-肯定,こうてい,positive; affirmation,noun,n3
+高速,こうそく,high speed; expressway,noun,n3
+行動,こうどう,action; conduct; behavior,noun,n3
+校庭,こうてい,schoolyard; campus,noun,n3
+肯定,こうてい,affirmation; positive,noun,n3
 高度,こうど,altitude; height; advanced,noun,n3
-幸福,こうふく,happiness; blessedness,noun,n3
-公平,こうへい,fairness; impartial; justice,adjective,n3
-候補,こうほ,candidacy,noun,n3
+幸福,こうふく,happiness; well-being,noun,n3
+公平,こうへい,fairness; impartiality,adjective,n3
+候補,こうほ,candidate; candidacy,noun,n3
 考慮,こうりょ,consideration; taking into account,noun,n3
 超える,こえる,to exceed; to cross over,verb,n3
 越える,こえる,to cross over; to pass,verb,n3
@@ -493,25 +493,25 @@ word,furigana,translation,category,level
 誤解,ごかい,misunderstanding,noun,n3
 語学,ごがく,language study,noun,n3
 呼吸,こきゅう,breath; respiration,noun,n3
-故郷,こきょう,home town; birthplace,noun,n3
-国語,こくご,national language,noun,n3
+故郷,こきょう,hometown; birthplace,noun,n3
+国語,こくご,national language (usually Japanese),noun,n3
 黒板,こくばん,blackboard,noun,n3
-克服,こくふく,subjugation; conquest,noun,n3
-国民,こくみん,national; people; citizen,noun,n3
-穀物,こくもつ,grain; cereal; corn,noun,n3
-国立,こくりつ,national,noun,n3
-腰,こし,hip; waist,noun,n3
+克服,こくふく,overcoming; conquering,noun,n3
+国民,こくみん,the people of a country; citizen,noun,n3
+穀物,こくもつ,grain; cereal,noun,n3
+国立,こくりつ,national (institution),noun,n3
+腰,こし,hip; waist; lower back,noun,n3
 個人,こじん,individual; private person,noun,n3
-越す,こす,to go over (e.g. with verbs of saying); to cross,verb,n3
+越す,こす,to cross over; to pass (time); to move (house),verb,n3
 国家,こっか,state; country; nation,noun,n3
-国会,こっかい,National Diet; parliament; congress,noun,n3
-国境,こっきょう,national or state border,noun,n3
+国会,こっかい,National Diet; parliament,noun,n3
+国境,こっきょう,national border,noun,n3
 骨折,こっせつ,bone fracture,noun,n3
 小包,こづつみ,parcel; package,noun,n3
 事,こと,thing; matter; fact,noun,n3
 異なる,ことなる,to differ; to vary,verb,n3
 諺,ことわざ,proverb; maxim,noun,n3
-断る,ことわる,to refuse; to decline; to dismiss,verb,n3
+断る,ことわる,to refuse; to decline; to ask for permission,verb,n3
 粉,こな,flour; powder,noun,n3
 この他,このほか,besides; in addition,adverb,n3
 好み,このみ,liking; taste; choice,noun,n3
@@ -519,28 +519,28 @@ word,furigana,translation,category,level
 コピー,,copy; photocopy,noun,n3
 零す,こぼす,to spill,verb,n3
 溢れる,こぼれる,to overflow; to spill,verb,n3
-塵,ごみ,rubbish; trash; garbage,noun,n3
-ゴム,,gum; rubber,noun,n3
+ごみ,,rubbish; trash; garbage,noun,n3
+ゴム,,rubber; gum,noun,n3
 小麦,こむぎ,wheat,noun,n3
-込める,こめる,to include; to put into,verb,n3
+込める,こめる,to include; to put into; to fill with (emotion),verb,n3
 御免,ごめん,your pardon; declining; dismissal,expression,n3
 小指,こゆび,little finger,noun,n3
 堪える,こらえる,to bear; to stand; to endure,verb,n3
 殺す,ころす,to kill,verb,n3
-転がす,ころがす,to roll; to drive,verb,n3
-転がる,ころがる,to roll; to tumble,verb,n3
+転がす,ころがす,to roll (something),verb,n3
+転がる,ころがる,to roll (by itself),verb,n3
 転ぶ,ころぶ,to fall down; to fall over,verb,n3
-今回,こんかい,now; this time; lately,noun,n3
+今回,こんかい,now; this time,noun,n3
 今後,こんご,from now on; hereafter,noun,n3
-混雑,こんざつ,congestion; confusion,noun,n3
+混雑,こんざつ,congestion; crowding,noun,n3
 こんなに,,so; like this; in this way,adverb,n3
 困難,こんなん,difficulty; distress,adjective,n3
 婚約,こんやく,engagement; betrothal,noun,n3
 混乱,こんらん,disorder; chaos; confusion,noun,n3
 差,さ,difference; variation,noun,n3
-再,さい,re-; again; repeated,prefix,n3
-際,さい,on the occasion of; circumstances,noun,n3
-最高,さいこう,highest; supreme; the most,adjective,n3
+再,さい,re-; again,prefix,n3
+際,さい,on the occasion of; when,noun,n3
+最高,さいこう,highest; supreme; the best,adjective,n3
 財産,ざいさん,property; fortune; assets,noun,n3
 最終,さいしゅう,last; final; closing,noun,n3
 最中,さいちゅう,in the middle of,noun,n3
@@ -548,35 +548,35 @@ word,furigana,translation,category,level
 才能,さいのう,talent; ability,noun,n3
 裁判,さいばん,trial; judgement,noun,n3
 材料,ざいりょう,ingredients; material,noun,n3
-幸い,さいわい,happiness; blessedness,adjective,n3
-サイン,,autograph; signature,noun,n3
+幸い,さいわい,happiness; good fortune,adjective,n3
+サイン,,signature; autograph,noun,n3
 境,さかい,border; boundary,noun,n3
-逆らう,さからう,to go against; to oppose,verb,n3
-盛り,さかり,the peak; the prime,noun,n3
+逆らう,さからう,to go against; to oppose; to disobey,verb,n3
+盛り,さかり,the peak; the prime; in full bloom,noun,n3
 作業,さぎょう,work; operation; manufacturing,noun,n3
-作品,さくひん,work; opus; performance,noun,n3
-作物,さくもつ,produce (e.g. agricultural); crops,noun,n3
+作品,さくひん,a piece of work (e.g. art; literature),noun,n3
+作物,さくもつ,produce (agricultural); crops,noun,n3
 桜,さくら,cherry blossom; cherry tree,noun,n3
 酒,さけ,sake; alcohol,noun,n3
-叫ぶ,さけぶ,to shout; to cry,verb,n3
+叫ぶ,さけぶ,to shout; to cry out,verb,n3
 避ける,さける,to avoid,verb,n3
-支える,ささえる,to support; to prop,verb,n3
+支える,ささえる,to support; to hold up,verb,n3
 指す,さす,to point; to indicate,verb,n3
 刺す,さす,to sting; to bite (bug); to stab,verb,n3
-さすが,,as one would expect,adverb,n3
+さすが,,as one would expect; indeed,adverb,n3
 作家,さっか,author; writer,noun,n3
-作曲,さっきょく,composition; setting (of music),noun,n3
+作曲,さっきょく,(musical) composition,noun,n3
 ざっと,,roughly; approximately,adverb,n3
-さっぱり,,feeling refreshed; feeling relieved,adverb,n3
+さっぱり,,feeling refreshed; completely; not at all (with neg.),adverb,n3
 砂漠,さばく,desert,noun,n3
 差別,さべつ,discrimination; distinction,noun,n3
 作法,さほう,manners; etiquette,noun,n3
 様々,さまざま,varied; various,adjective,n3
-覚ます,さます,to awaken,verb,n3
-覚める,さめる,to wake; to wake up,verb,n3
-左右,さゆう,left and right,noun,n3
+覚ます,さます,to awaken (someone),verb,n3
+覚める,さめる,to wake up,verb,n3
+左右,さゆう,left and right; influence; control,noun,n3
 皿,さら,plate; dish,noun,n3
-更に,さらに,furthermore; again; after all,adverb,n3
+更に,さらに,furthermore; again; still more,adverb,n3
 去る,さる,to leave; to go away,verb,n3
 騒ぎ,さわぎ,uproar; disturbance,noun,n3
 参加,さんか,participation,noun,n3
@@ -590,13 +590,13 @@ word,furigana,translation,category,level
 幸せ,しあわせ,happiness; good fortune,adjective,n3
 ジーンズ,,jeans,noun,n3
 ジェット機,ジェットき,jet plane,noun,n3
-然も,しかも,moreover; furthermore,conjunction,n3
+しかも,,moreover; furthermore; and yet,conjunction,n3
 時間割,じかんわり,timetable; schedule,noun,n3
 四季,しき,four seasons,noun,n3
 敷く,しく,to spread out; to lay out,verb,n3
-茂る,しげる,to grow thick; to be luxurious,verb,n3
+茂る,しげる,to grow thickly; to be overgrown,verb,n3
 事件,じけん,event; affair; incident,noun,n3
-時刻,じこく,instant; time; moment,noun,n3
+時刻,じこく,time (of day); moment,noun,n3
 自殺,じさつ,suicide,noun,n3
 事実,じじつ,fact; truth; reality,noun,n3
 支出,ししゅつ,expenditure; expenses,noun,n3
@@ -607,9 +607,9 @@ word,furigana,translation,category,level
 沈む,しずむ,to sink; to feel depressed,verb,n3
 思想,しそう,thought; idea,noun,n3
 舌,した,tongue,noun,n3
-次第,しだい,dependent upon; as soon as,noun,n3
+次第,しだい,dependent upon; as soon as; circumstances,noun,n3
 事態,じたい,situation; present state of affairs,noun,n3
-従う,したがう,to abide (by the rules); to obey,verb,n3
+従う,したがう,"to abide (by the rules), to obey",verb,n3
 したがって,,therefore; consequently,conjunction,n3
 親しい,したしい,intimate; close (e.g. friend),adjective,n3
 質,しつ,quality; nature,noun,n3
@@ -617,7 +617,7 @@ word,furigana,translation,category,level
 実験,じっけん,experiment,noun,n3
 実現,じつげん,implementation; realization,noun,n3
 実行,じっこう,practice; performance; execution,noun,n3
-実際,じっさい,practical; actual condition,noun,n3
+実際,じっさい,practicality; reality; actual condition,noun,n3
 実施,じっし,enforcement; implementation,noun,n3
 実に,じつに,indeed; truly; surely,adverb,n3
 実力,じつりょく,merit; real ability,noun,n3
@@ -637,7 +637,7 @@ word,furigana,translation,category,level
 資本,しほん,funds; capital,noun,n3
 姉妹,しまい,sisters,noun,n3
 仕舞う,しまう,to finish; to close; to put away,verb,n3
-しまった,,damn it!; oh no!,expression,n3
+しまった,,"damn it!, oh no!",expression,n3
 自慢,じまん,pride; boast,noun,n3
 事務,じむ,business; office work,noun,n3
 示す,しめす,to denote; to show; to point out,verb,n3
@@ -645,7 +645,7 @@ word,furigana,translation,category,level
 湿る,しめる,to be wet; to become wet,verb,n3
 ジャーナリスト,,journalist,noun,n3
 借金,しゃっきん,debt; loan,noun,n3
-しゃっくり,,hiccough; hiccup,noun,n3
+しゃっくり,,hiccup,noun,n3
 シャッター,,shutter,noun,n3
 喋る,しゃべる,to talk; to chat,verb,n3
 州,しゅう,state; province,noun,n3
@@ -654,9 +654,9 @@ word,furigana,translation,category,level
 週間,しゅうかん,week; weekly,noun,n3
 就職,しゅうしょく,finding employment,noun,n3
 修正,しゅうせい,amendment; correction; revision,noun,n3
-渋滞,じゅうたい,congestion (e.g. traffic); delay,noun,n3
+渋滞,じゅうたい,"congestion (e.g. traffic), delay",noun,n3
 重大,じゅうだい,serious; important,adjective,n3
-住宅,じゅうたく,resident; housing,noun,n3
+住宅,じゅうたく,residence; housing,noun,n3
 集中,しゅうちゅう,concentration; focusing,noun,n3
 収入,しゅうにゅう,income; receipts,noun,n3
 住民,じゅうみん,citizens; inhabitants,noun,n3
@@ -668,7 +668,7 @@ word,furigana,translation,category,level
 首相,しゅしょう,Prime Minister,noun,n3
 手段,しゅだん,means; way; measure,noun,n3
 主張,しゅちょう,claim; request; assertion,noun,n3
-出身,しゅっしん,"person's origin (town, country, etc.)",noun,n3
+出身,しゅっしん,person's origin (town; country; etc.),noun,n3
 出場,しゅつじょう,stage appearance; participation,noun,n3
 首都,しゅと,capital city,noun,n3
 主婦,しゅふ,housewife,noun,n3
@@ -676,8 +676,8 @@ word,furigana,translation,category,level
 主要,しゅよう,chief; main; principal,adjective,n3
 順,じゅん,order; turn,noun,n3
 瞬間,しゅんかん,moment; second; instant,noun,n3
-順調,じゅんちょう,favourable; doing well,adjective,n3
-順番,じゅんばん,turn (in line); order of things,noun,n3
+順調,じゅんちょう,favorable; doing well,adjective,n3
+順番,じゅんばん,"turn (in line), order of things",noun,n3
 使用,しよう,use; application; employment,noun,n3
 賞,しょう,prize; award,noun,n3
 章,しょう,chapter; section,noun,n3
@@ -693,18 +693,18 @@ word,furigana,translation,category,level
 証明,しょうめい,proof; verification,noun,n3
 正面,しょうめん,front; facade,noun,n3
 賞与,しょうよ,bonus; prize,noun,n3
-食料,しょくりょう,food,noun,n3
-食糧,しょくりょう,provisions; food,noun,n3
-書斎,しょさい,study; library,noun,n3
+食料,しょくりょう,foodstuff; provisions,noun,n3
+食糧,しょくりょう,provisions; rations; food (staple),noun,n3
+書斎,しょさい,study; home office; library,noun,n3
 女子,じょし,woman; girl,noun,n3
 助手,じょしゅ,helper; assistant,noun,n3
 徐々に,じょじょに,slowly; little by little,adverb,n3
 食事,しょくじ,meal,noun,n3
 食器,しょっき,tableware,noun,n3
 食費,しょくひ,food cost,noun,n3
-食品,しょくひん,commodity; foodstuff,noun,n3
+食品,しょくひん,food products; foodstuff,noun,n3
 職人,しょくにん,craftsman; artisan,noun,n3
-職場,しょくば,one's post; place of work,noun,n3
+職場,しょくば,workplace; place of work,noun,n3
 職業,しょくぎょう,occupation; business,noun,n3
 書道,しょどう,calligraphy,noun,n3
 書店,しょてん,bookshop; bookstore,noun,n3
@@ -733,7 +733,7 @@ word,furigana,translation,category,level
 身体,しんたい,the body; the person,noun,n3
 身長,しんちょう,height (of body); stature,noun,n3
 慎重,しんちょう,discretion; prudence,adjective,n3
-審判,しんぱん,refereeing; trial; judgement,noun,n3
+審判,しんぱん,refereeing; trial; judgment,noun,n3
 人物,じんぶつ,character; personality,noun,n3
 進歩,しんぽ,progress; development,noun,n3
 親友,しんゆう,close friend; bosom friend,noun,n3
@@ -752,17 +752,17 @@ word,furigana,translation,category,level
 睡眠,すいみん,sleep,noun,n3
 水面,すいめん,water's surface,noun,n3
 ずいぶん,,extremely; very,adverb,n3
-末,すえ,the end; powder,noun,n3
+末,すえ,the end; tip; future,noun,n3
 姿,すがた,figure; shape; appearance,noun,n3
 好き嫌い,すききらい,likes and dislikes; taste,noun,n3
 好き好み,すきこのみ,matter of taste,noun,n3
 透き通る,すきとおる,to be transparent; to be see-through,verb,n3
 隙間,すきま,crevice; crack; gap,noun,n3
 杉,すぎ,Japanese cedar,noun,n3
-過ごす,すごす,to pass (time); to spend,verb,n3
+過ごす,すごす,"to pass (time), to spend",verb,n3
 筋,すじ,muscle; string; line,noun,n3
-少しも,すこしも,anything of; not one bit,adverb,n3
-図,ず,figure (e.g. in a book); drawing,noun,n3
+少しも,すこしも,not at all; not one bit (with negative verb),adverb,n3
+図,ず,"figure (e.g. in a book), drawing",noun,n3
 ずうずうしい,,impudent; shameless,adjective,n3
 進める,すすめる,to advance; to promote,verb,n3
 勧める,すすめる,to recommend; to advise,verb,n3
@@ -774,19 +774,19 @@ word,furigana,translation,category,level
 既に,すでに,already; too late,adverb,n3
 すなわち,,that is; namely; i.e.,conjunction,n3
 全て,すべて,all; the whole; entirely,noun,n3
-済ませる,すませる,to be finished,verb,n3
+済ませる,すませる,"to finish (something), to get (something) over with",verb,n3
 墨,すみ,ink,noun,n3
-為る,する,to do,verb,n3
+する,,to do,verb,n3
 鋭い,するどい,pointed; sharp,adjective,n3
 寸法,すんぽう,measurement; size,noun,n3
-正,せい,logical; true; regular,noun,n3
+正,せい,correct; right; just,noun,n3
 所為,せい,cause; reason; fault,noun,n3
 性,せい,sex; gender,noun,n3
 姓,せい,surname; family name,noun,n3
 税,ぜい,tax,noun,n3
-税関,ぜいかん,customs house,noun,n3
+税関,ぜいかん,customs,noun,n3
 贅沢,ぜいたく,luxury; extravagance,adjective,n3
-制作,せいさく,"work (e.g. film, book)",noun,n3
+制作,せいさく,work (e.g. film; book),noun,n3
 正式,せいしき,due form; official; formality,noun,n3
 精神,せいしん,mind; soul; spirit,noun,n3
 成人,せいじん,adult,noun,n3
@@ -816,9 +816,9 @@ word,furigana,translation,category,level
 接近,せっきん,getting closer; drawing nearer,noun,n3
 接する,せっする,to come in contact with,verb,n3
 接続,せつぞく,connection; union; join,noun,n3
-設定,せってい,establishment; creation,noun,n3
+設定,せってい,establishment; creation; setting; configuration,noun,n3
 説得,せっとく,persuasion,noun,n3
-節約,せつやく,economising; saving,noun,n3
+節約,せつやく,economizing; saving,noun,n3
 世話,せわ,looking after; help,noun,n3
 善,ぜん,good; goodness,noun,n3
 全員,ぜんいん,all members (unanimity),noun,n3
@@ -826,14 +826,14 @@ word,furigana,translation,category,level
 全国,ぜんこく,country-wide; nation-wide,noun,n3
 先日,せんじつ,the other day; a few days ago,noun,n3
 前者,ぜんしゃ,the former,noun,n3
-選手,せんしゅ,player (in game); team member,noun,n3
+選手,せんしゅ,"player (in game), team member",noun,n3
 前進,ぜんしん,advance; drive; progress,noun,n3
-全体,ぜんたい,whole; entirety; whatever (is the matter),noun,n3
+全体,ぜんたい,whole; entirety,noun,n3
 選択,せんたく,selection; choice,noun,n3
 センチ,,centimeter,noun,n3
 宣伝,せんでん,propaganda; publicity,noun,n3
 扇風機,せんぷうき,electric fan,noun,n3
-線路,せんろ,line; track; roadbed,noun,n3
+線路,せんろ,railway track; line,noun,n3
 ぞう,,elephant,noun,n3
 総理大臣,そうりだいじん,Prime Minister,noun,n3
 送料,そうりょう,postage; shipping charge,noun,n3
@@ -844,14 +844,14 @@ word,furigana,translation,category,level
 相続,そうぞく,succession; inheritance,noun,n3
 騒々しい,そうぞうしい,noisy; boisterous,adjective,n3
 装置,そうち,equipment; installation,noun,n3
-相当,そうとう,suitable; proper,adjective,n3
+相当,そうとう,suitable; proper; considerable,adjective,n3
 速度,そくど,speed; velocity; pace,noun,n3
 測量,そくりょう,measurement; surveying,noun,n3
 速力,そくりょく,speed,noun,n3
 組織,そしき,organization; structure,noun,n3
-注ぐ,そそぐ,to pour (into); to irrigate,verb,n3
-育つ,そだつ,to be raised (e.g. child); to be brought up,verb,n3
-そっくり,,all; altogether; entirely,adverb,n3
+注ぐ,そそぐ,"to pour (into), to irrigate",verb,n3
+育つ,そだつ,"to be raised (e.g. child), to be brought up",verb,n3
+そっくり,,all; altogether; entirely; spitting image; looking just like,adverb,n3
 そっと,,softly; gently,adverb,n3
 袖,そで,sleeve,noun,n3
 備える,そなえる,to furnish; to provide for,verb,n3
@@ -859,7 +859,7 @@ word,furigana,translation,category,level
 その内,そのうち,eventually; sooner or later,adverb,n3
 その為,そのため,hence; for that reason,adverb,n3
 その他,そのほか,otherwise; the rest,noun,n3
-側,そば,side; edge; third person,noun,n3
+側,そば,side; edge; vicinity,noun,n3
 粗末,そまつ,crude; rough; plain,adjective,n3
 剃る,そる,to shave,verb,n3
 それぞれ,,each; every; either,noun,n3
@@ -873,7 +873,7 @@ word,furigana,translation,category,level
 他,た,other (especially places and things),noun,n3
 題,だい,title; subject; theme,noun,n3
 体育,たいいく,physical education; gymnastics,noun,n3
-退院,たいいん,leaving hospital,noun,n3
+退院,たいいん,discharge from hospital,noun,n3
 大学院,だいがくいん,graduate school,noun,n3
 大工,だいく,carpenter,noun,n3
 体系,たいけい,system; organization,noun,n3
@@ -882,7 +882,7 @@ word,furigana,translation,category,level
 滞在,たいざい,stay; sojourn,noun,n3
 大使,たいし,ambassador,noun,n3
 大した,たいした,considerable; great; important,adjective,n3
-対象,たいしょう,"target; object (of worship, study, etc.)",noun,n3
+対象,たいしょう,target; object (of worship; study; etc.),noun,n3
 対照,たいしょう,contrast; antithesis; comparison,noun,n3
 大小,だいしょう,size,noun,n3
 体制,たいせい,order; system; structure,noun,n3
@@ -924,11 +924,11 @@ word,furigana,translation,category,level
 谷,たに,valley,noun,n3
 他人,たにん,another person; unrelated person,noun,n3
 束,たば,handful; bundle,noun,n3
-度,たび,counter for occurrences,counter,n3
+度,たび,"time(s), occasion",noun,n3
 度々,たびたび,often; repeatedly,adverb,n3
 ダブル,,double,noun,n3
 弾,たま,bullet; shot; shell,noun,n3
-偶,たま,even number; couple; man and wife,noun,n3
+偶,たま,even number; couple,noun,n3
 偶々,たまたま,casually; unexpectedly,adverb,n3
 黙る,だまる,to be silent,verb,n3
 試し,ためし,trial; test,noun,n3
@@ -937,8 +937,8 @@ word,furigana,translation,category,level
 段,だん,step; stair; grade,counter,n3
 単位,たんい,unit; denomination,noun,n3
 単語,たんご,word; vocabulary,noun,n3
-男子,だんし,youth; young man,noun,n3
-単純,たんじゅん,simplicity,adjective,n3
+男子,だんし,youth; young man; boy; male,noun,n3
+単純,たんじゅん,simple,adjective,n3
 誕生,たんじょう,birth,noun,n3
 ダンス,,dance,noun,n3
 断水,だんすい,water outage,noun,n3
@@ -966,7 +966,7 @@ word,furigana,translation,category,level
 地方,ちほう,district; region; area,noun,n3
 茶,ちゃ,tea,noun,n3
 ちゃんと,,perfectly; properly; exactly,adverb,n3
-中央,ちゅうおう,centre; central; middle,noun,n3
+中央,ちゅうおう,center; central; middle,noun,n3
 中学,ちゅうがく,junior high school; middle school,noun,n3
 中古,ちゅうこ,used; second-hand,noun,n3
 中止,ちゅうし,suspension; stoppage; discontinuance,noun,n3
@@ -991,16 +991,16 @@ word,furigana,translation,category,level
 通学,つうがく,commuting to school,noun,n3
 通行,つうこう,passage; passing,noun,n3
 通信,つうしん,correspondence; communication,noun,n3
-通じる,つうじる,to run to; to lead to,verb,n3
-通訳,つうやく,interpretation,noun,n3
-通用,つうよう,popular use; circulation,noun,n3
+通じる,つうじる,to run to; to lead to; to get through (e.g. on phone),verb,n3
+通訳,つうやく,interpretation; interpreter,noun,n3
+通用,つうよう,popular use; circulation; to be valid,noun,n3
 通路,つうろ,passage; pathway,noun,n3
 捕まる,つかまる,to be caught; to be arrested,verb,n3
 掴む,つかむ,to seize; to catch; to grasp,verb,n3
 疲れ,つかれ,tiredness; fatigue,noun,n3
 付き合い,つきあい,association; socializing,noun,n3
 次々,つぎつぎ,in succession; one by one,adverb,n3
-就く,つく,"to take (seat, position); to get (a job)",verb,n3
+就く,つく,"to take (seat; position), to get (a job)",verb,n3
 点く,つく,to be lit (e.g. light),verb,n3
 突く,つく,to thrust; to strike,verb,n3
 付ける,つける,to attach; to join; to add,verb,n3
@@ -1022,9 +1022,9 @@ word,furigana,translation,category,level
 連れ,つれ,companion; company,noun,n3
 提案,ていあん,proposal; proposition,noun,n3
 定員,ていいん,fixed number of personnel; capacity,noun,n3
-定価,ていか,established price,noun,n3
+定価,ていか,established price; list price,noun,n3
 低下,ていか,fall; decline; lowering,noun,n3
-定期,ていき,fixed term,noun,n3
+定期,ていき,fixed term; regular (e.g. commuter pass),noun,n3
 抵抗,ていこう,resistance; opposition,noun,n3
 停止,ていし,suspension; interruption,noun,n3
 提出,ていしゅつ,presentation; submission,noun,n3
@@ -1032,7 +1032,7 @@ word,furigana,translation,category,level
 停留所,ていりゅうじょ,bus stop; tram stop,noun,n3
 適切,てきせつ,pertinent; appropriate,adjective,n3
 適度,てきど,moderate,adjective,n3
-適用,てきよう,applying,noun,n3
+適用,てきよう,application; applying,noun,n3
 出来るだけ,できるだけ,as much as possible,adverb,n3
 手首,てくび,wrist,noun,n3
 手品,てじな,sleight of hand; magic,noun,n3

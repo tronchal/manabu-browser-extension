@@ -33,7 +33,7 @@ export default function(data: { [key: string]: any }) {
     ` || ''}
 
     ${data.examples && data.word.example && `
-        <div class="text-center mb-8 rounded-xl bg-page p-2">
+        <div class="text-center mb-8 rounded-xl bg-page p-2 transition-colors">
             <p>{{word.example}}</p>
             <p class="italic">{{word.example_translation}}</p>
         </div>

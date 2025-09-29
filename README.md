@@ -14,29 +14,37 @@ Learn Japanese words every time you open a new tab in your browser.
 - Built with TypeScript and Web Components.
 
 ## Installation
-1. Clone or download this repository
-2. Install dependencies:
+You need at least [node.js](https://nodejs.org/en) v22 installed in your device.
+
+1. Clone or download this repository.
+1. Open a terminal window and navigate to the repository folder.
+1. Run this command to install npm dependencies:
    ```bash
    npm install
    ```
-3. Build the extension:
+1. Build the extension:
    ```bash
    npm run build
    ```
-4. Open Chrome and navigate to `chrome://extensions`
-5. Enable "Developer mode" in the top right corner
-6. Click "Load unpacked" and select the extension directory
+1. Open Chrome and navigate to `chrome://extensions`.
+1. Enable "Developer mode" in the top right corner.
+1. Click "Load unpacked" and select the extension directory.
 
 ## Development
-To start development with watch mode:
+To start local development:
 ```bash
 npm run dev
 ```
-
 This will watch for changes in the src/ folder, rebuild automatically and reload the browser.
 
-Based on [言葉 の Tab](https://addons.mozilla.org/en-US/firefox/addon/the-tab-of-words/) and [Tab of Words](https://tab-of-words.keibungen.com/).
+To start local development as a Chrome extension:
+```bash
+npm run dev:chrome
+```
 
+---
+
+Based on [言葉 の Tab](https://addons.mozilla.org/en-US/firefox/addon/the-tab-of-words/) and [Tab of Words](https://tab-of-words.keibungen.com/).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

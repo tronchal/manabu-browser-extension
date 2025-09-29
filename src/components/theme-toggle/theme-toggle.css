@@ -2,16 +2,17 @@
 
 @theme {
     /* Variables from global scope */
-    --color-word: inherit;
-    --color-text: inherit;
-    --color-border: inherit;
-    --color-page: inherit;
     --color-card: inherit;
-    --color-btn-primary: inherit;
+}
+
+@layer base {
+    :host {
+        display: block;
+    }
 }
 
 @layer utilities {
-    .darkmode-toggle {
+    .theme-toggle {
         transition: background-color 0.1s linear;
 
         &::after {
@@ -19,7 +20,7 @@
         }
 
         &:hover {
-            background-color: var(--color-text);
+            background-color: var(--theme-hover);
         }
     }
 }

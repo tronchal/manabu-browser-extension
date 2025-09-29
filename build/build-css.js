@@ -16,7 +16,9 @@ async function buildFile(filepath) {
     const outputFile = filepath.replace(srcDir + path.sep, distDir + path.sep);
     const result = await postcss([
         tailwindcss,
-        isProd ? cssnano : null
+        isProd ? cssnano({
+            preset: 'default'
+        }) : null
     ].filter(Boolean))
         .process(file, { from: filepath, to: outputFile });
 

@@ -3,7 +3,7 @@ import { StorageInterface, StoredData } from '../../types/interfaces';
 import { STORAGE_KEY } from '../../types/conf';
 
 const defaults: StoredData = {
-    darkMode: false,
+    theme: 0,
     bookmarks: [],
     category: 0,
     level: 0,

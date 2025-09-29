@@ -5,7 +5,7 @@ export interface StorageInterface {
 
 export interface StoredData {
     bookmarks: number[];
-    darkMode: boolean;
+    theme: number;
     category: number;
     level: number;
     furigana: boolean;

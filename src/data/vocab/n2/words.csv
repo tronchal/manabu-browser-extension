@@ -17,7 +17,7 @@ word,furigana,translation,category,level
 安定,あんてい,stability; equilibrium,noun,n2
 あんなに,,to that extent; so much,adverb,n2
 あんまり,,not very; not much,adverb,n2
-生き,いき,living,noun,n2
+生き,いき,living; fresh; lively,noun,n2
 息,いき,breath,noun,n2
 勢い,いきおい,vigor; force,noun,n2
 生き物,いきもの,living thing; creature,noun,n2
@@ -60,7 +60,7 @@ word,furigana,translation,category,level
 丘,おか,hill; height,noun,n2
 沖,おき,open sea,noun,n2
 奥,おく,interior; inner part,noun,n2
-贈る,おくる,to send; to give,verb,n2
+贈る,おくる,to present; to give (as a gift),verb,n2
 お昼,おひる,lunch; noon,noun,n2
 お参り,おまいり,worship; shrine visit,noun,n2
 可,か,passable,adjective,n2
@@ -81,7 +81,7 @@ word,furigana,translation,category,level
 活躍,かつやく,activity; great efforts,noun,n2
 仮定,かてい,assumption; supposition,noun,n2
 課程,かてい,course; curriculum,noun,n2
-可也,かなり,considerably; fairly,adverb,n2
+かなり,,considerably; fairly,adverb,n2
 カバー,,cover,noun,n2
 過半数,かはんすう,majority,noun,n2
 かび,,mold; mildew,noun,n2
@@ -148,7 +148,7 @@ word,furigana,translation,category,level
 正午,しょうご,noon; mid-day,noun,n2
 正直,しょうじき,honesty; integrity,adjective,n2
 常識,じょうしき,common sense,noun,n2
-少女,しょうじょ,daughter; young girl,noun,n2
+少女,しょうじょ,young girl,noun,n2
 症状,しょうじょう,symptoms; condition,noun,n2
 少々,しょうしょう,just a minute; small quantity,adverb,n2
 上達,じょうたつ,improvement; advance,noun,n2
@@ -205,7 +205,7 @@ word,furigana,translation,category,level
 揃える,そろえる,to put things in order; to arrange,verb,n2
 大会,たいかい,convention; tournament,noun,n2
 大企業,だいきぎょう,large enterprise; major company,noun,n2
-だからといって,だからといって,while it's true that; just because,expression,n2
+だからといって,,while it's true that; just because,expression,n2
 だけあって,,being the case; precisely because,expression,n2
 だけど,,however,conjunction,n2
 助かる,たすかる,to be saved; to be helped,verb,n2
@@ -304,11 +304,11 @@ word,furigana,translation,category,level
 都会,とかい,city,noun,n2
 尖る,とがる,to taper to a point; to become sharp,verb,n2
 時,とき,time; hour,noun,n2
-どきどき,,thump-thump;ドキドキ,adverb,n2
-溶く,とく,to dissolve (paint),verb,n2
+どきどき,,thump-thump,adverb,n2
+溶く,とく,"to dissolve (paint, eggs, etc.)",verb,n2
 退く,どく,to retreat; to recede,verb,n2
 毒,どく,poison; toxicant,noun,n2
-得意,とくい,pride; triumph,adjective,n2
+得意,とくい,pride; triumph; one's strong point; good at,adjective,n2
 特殊,とくしゅ,special; unique,adjective,n2
 読書,どくしょ,reading,noun,n2
 独身,どくしん,bachelorhood; single,noun,n2
@@ -319,20 +319,20 @@ word,furigana,translation,category,level
 溶ける,とける,to melt; to thaw,verb,n2
 退ける,どける,to remove; to take away,verb,n2
 床,とこ,bed; bedding,noun,n2
-所が,ところが,however; while,conjunction,n2
-所で,ところで,by the way; even if,conjunction,n2
+ところが,,however; while,conjunction,n2
+ところで,,by the way; even if,conjunction,n2
 登山,とざん,mountain-climbing,noun,n2
 年月,としつき,months and years,noun,n2
 図書,としょ,books,noun,n2
 年寄り,としより,old people; the aged,noun,n2
-閉じる,とじる,"to close (e.g. book, eyes)",verb,n2
+閉じる,とじる,to close (e.g. book; eyes),verb,n2
 途端,とたん,"just (now, at the moment, etc.)",noun,n2
 土地,とち,plot of land; lot,noun,n2
 突然,とつぜん,abruptly; suddenly,adverb,n2
 届く,とどく,to reach,verb,n2
 整う,ととのう,to be prepared; to be in order,verb,n2
 怒鳴る,どなる,to shout; to yell,verb,n2
-飛ばす,とばす,to skip over; to omit,verb,n2
+飛ばす,とばす,to skip over; to omit; to make fly,verb,n2
 飛び込む,とびこむ,to jump in; to plunge into,verb,n2
 飛び出す,とびだす,to jump out; to rush out,verb,n2
 富,とみ,wealth; riches,noun,n2
@@ -361,9 +361,9 @@ word,furigana,translation,category,level
 慰める,なぐさめる,to comfort; to console,verb,n2
 殴る,なぐる,to strike; to hit,verb,n2
 謎,なぞ,riddle; puzzle,noun,n2
-納得,なっとく,consent; agreement,noun,n2
+納得,なっとく,understanding; acceptance,noun,n2
 等,など,et cetera; etc.,particle,n2
-斜め,ななめ,obliqueness,adjective,n2
+斜め,ななめ,oblique; diagonal,adjective,n2
 何しろ,なにしろ,at any rate; anyhow,adverb,n2
 何でも,なんでも,by all means; everything,adverb,n2
 何とか,なんとか,somehow; anyhow,adverb,n2
@@ -371,19 +371,19 @@ word,furigana,translation,category,level
 並木,なみき,row of trees,noun,n2
 涙,なみだ,tear,noun,n2
 悩む,なやむ,to be worried; to be troubled,verb,n2
-成るべく,なるべく,as much as possible,adverb,n2
+なるべく,,as much as possible,adverb,n2
 縄,なわ,rope; hemp,noun,n2
 荷,に,load; baggage,noun,n2
 似合う,にあう,to suit; to match,verb,n2
-煮える,にえる,to boil; to cook,verb,n2
+煮える,にえる,to be boiled; to be cooked,verb,n2
 苦手,にがて,poor (at); weak (in),adjective,n2
 握る,にぎる,to grasp; to seize,verb,n2
 憎い,にくい,hateful; abominable,adjective,n2
 憎む,にくむ,to hate; to detest,verb,n2
 憎らしい,にくらしい,odious; hateful,adjective,n2
 虹,にじ,rainbow,noun,n2
-日ごろ,にちごろ,normally; habitually,adverb,n2
-日常,にちじょう,ordinary; regular,noun,n2
+日頃,にちごろ,normally; habitually,adverb,n2
+日常,にちじょう,everyday; daily,noun,n2
 日光,にっこう,sunlight,noun,n2
 日中,にっちゅう,daytime; during the day,noun,n2
 日程,にってい,agenda; schedule,noun,n2
@@ -397,15 +397,15 @@ word,furigana,translation,category,level
 布,ぬの,cloth,noun,n2
 縫う,ぬう,to sew,verb,n2
 濡らす,ぬらす,to wet; to moisten,verb,n2
-願い,ねがい,desire; wish,noun,n2
-願う,ねがう,to desire; to wish,verb,n2
+願い,ねがい,desire; wish; request,noun,n2
+願う,ねがう,to desire; to wish; to request,verb,n2
 鼠,ねずみ,rat; mouse,noun,n2
 熱帯,ねったい,tropics,noun,n2
-熱中,ねっちゅう,nuts!; enthusiasm,noun,n2
-寝坊,ねぼう,sleeping in late,noun,n2
+熱中,ねっちゅう,enthusiasm; zeal; being crazy about,noun,n2
+寝坊,ねぼう,oversleeping; sleeping in late,noun,n2
 狙い,ねらい,aim,noun,n2
-狙う,ねらう,to aim at,verb,n2
-年度,ねんど,year; fiscal year,noun,n2
+狙う,ねらう,to aim at; to be after,verb,n2
+年度,ねんど,fiscal year; school year,noun,n2
 農家,のうか,farmer; farm family,noun,n2
 農業,のうぎょう,agriculture,noun,n2
 農産物,のうさんぶつ,agricultural produce,noun,n2
@@ -413,22 +413,22 @@ word,furigana,translation,category,level
 濃度,のうど,concentration; density,noun,n2
 合う,あう,to fit; to suit; to match,verb,n2
 あちらこちら,,here and there; this way and that,adverb,n2
-あっちこっち,,here and there (more casual),adverb,n2
-暴れる,あばれる,to act violently; to rage,verb,n2
-余る,あまる,to remain; to be left over,verb,n2
-危うい,あやうい,dangerous; risky,adjective,n2
+あっちこっち,,here and there (casual),adverb,n2
+暴れる,あばれる,to act violently; to rage; to struggle,verb,n2
+余る,あまる,to remain; to be left over; to be in excess,verb,n2
+危うい,あやうい,dangerous; risky; critical,adjective,n2
 粗い,あらい,coarse; rough,adjective,n2
 争う,あらそう,to dispute; to argue; to compete,verb,n2
-改めて,あらためて,again; anew; formally,adverb,n2
+改めて,あらためて,once again; anew; formally,adverb,n2
 改める,あらためる,to change; to reform; to revise,verb,n2
-有難う,ありがとう,thank you (formal),expression,n2
+ありがとう,,thank you,expression,n2
 或いは,あるいは,or; possibly; perhaps,conjunction,n2
-行き,いき,going; bound for,noun,n2
+行き,ゆき,going; bound for,noun,n2
 意義,いぎ,meaning; significance,noun,n2
-育児,いくじ,childcare; nursing,noun,n2
+育児,いくじ,childcare; child-rearing,noun,n2
 以後,いご,after this; from now on,noun,n2
 以降,いこう,on and after; hereafter,noun,n2
-一面,いちめん,one side; the whole surface,noun,n2
+一面,いちめん,one side; the whole surface; one aspect,noun,n2
 一部,いちぶ,one part; a portion; one copy,noun,n2
 一気に,いっきに,in one go; in one breath,adverb,n2
 一般的,いっぱんてき,general; common,adjective,n2
@@ -437,331 +437,330 @@ word,furigana,translation,category,level
 ウーマン,,woman,noun,n2
 ウール,,wool,noun,n2
 運送,うんそう,shipping; transportation,noun,n2
-運賃,うんちん,freight rates; shipping cost,noun,n2
+運賃,うんちん,fare; freight rates; shipping cost,noun,n2
 英雄,えいゆう,hero,noun,n2
 エチケット,,etiquette,noun,n2
 エプロン,,apron,noun,n2
-偉い,えらい,great; admirable; terrible,adjective,n2
-縁,えん,relation; connection; edge,noun,n2
+偉い,えらい,great; admirable; important,adjective,n2
+縁,えん,relation; connection; fate; edge,noun,n2
 追う,おう,to chase; to pursue,verb,n2
-応ずる,おうずる,to respond; to satisfy; to accept,verb,n2
+応じる,おうじる,to respond; to satisfy; to accept,verb,n2
 応用,おうよう,application; practical use,noun,n2
-大型,おおがた,large-size; large-scale,noun,n2
+大型,おおがata,large-size; large-scale,noun,n2
 大げさ,おおげさ,exaggerated; overdone,adjective,n2
 大ざっぱ,おおざっぱ,rough; broad; careless,adjective,n2
-大通,おおどおり,main street,noun,n2
-大みそか,おおみそか,New Year's Eve,noun,n2
-オーケー,,okay; OK,interjection,n2
-お蔭様で,おかげさまで,thanks to you,expression,n2
+大通り,おおどおり,main street; avenue,noun,n2
+大晦日,おおみそか,New Year's Eve,noun,n2
+オーケー,,OK; okay,interjection,n2
+お陰様で,おかげさまで,thanks to you; thankfully,expression,n2
 犯す,おかす,to commit (a crime); to violate,verb,n2
-押さえる,おさえる,to pin down; to seize; to grasp,verb,n2
-治める,おさめる,to govern; to subdue; to settle,verb,n2
-修める,おさめる,to study; to master; to learn,verb,n2
-お喋り,おしゃべり,chattering; talkative,noun,n2
-押し寄せる,おしよせる,to push aside; to surge forward,verb,n2
-お勧め,おすすめ,recommendation; suggestion,noun,n2
+押さえる,おさえる,to hold down; to seize; to grasp,verb,n2
+治める,おさめる,to govern; to manage; to settle,verb,n2
+修める,おさめる,to study; to master,verb,n2
+お喋り,おしゃべり,chattering; talkative person; gossip,noun,n2
+押し寄せる,おしよせる,to surge; to rush; to descend on,verb,n2
+お勧め,おすすめ,recommendation,noun,n2
 遅くとも,おそくとも,at the latest,adverb,n2
-恐らく,おそらく,probably; perhaps,adverb,n2
+恐らく,おそらく,probably; perhaps; likely,adverb,n2
 教わる,おそわる,to be taught; to learn from,verb,n2
 落ち着く,おちつく,to calm down; to settle down,verb,n2
 仰る,おっしゃる,to say; to speak (honorific),verb,n2
-お手数,おてすず,trouble (polite),noun,n2
-おでかけ,,going out,noun,n2
+お手数,おてすう,trouble; bother (polite),noun,n2
+お出かけ,おでかけ,going out; outing,noun,n2
 おどおど,,nervously; timidly,adverb,n2
-同い年,おないどし,same age,noun,n2
-各,おのの,each; every,prefix,n2
+同い年,おないどし,of the same age,noun,n2
+各,かく,each; every,prefix,n2
 お待ちください,おまちください,Please wait a moment.,expression,n2
-御目出度う御座います,おめでとうございます,Congratulations!,expression,n2
+おめでとうございます,,Congratulations!,expression,n2
 思いがけない,おもいがけない,unexpected; surprising,adjective,n2
-思い切って,おもいきって,resolutely; boldly,adverb,n2
-思う存分,おもうぞんぶん,to one's heart's content,adverb,n2
+思い切って,おもいきって,resolutely; boldly; daringly,adverb,n2
+思う存分,おもうぞんぶん,to one's heart's content; as much as one wants,adverb,n2
 玩具,おもちゃ,toy,noun,n2
 主に,おもに,mainly; primarily,adverb,n2
 重んじる,おもんじる,to respect; to honor; to value,verb,n2
 重んずる,おもんずる,to respect; to honor; to value,verb,n2
-温室,おんしつ,greenhouse; hothouse,noun,n2
+温室,おんしつ,greenhouse,noun,n2
 回収,かいしゅう,collection; recovery,noun,n2
-改造,かいぞう,remodeling; modification,noun,n2
-開通,かいつう,"opening (of a road, railway)",noun,n2
+改造,かいぞう,remodeling; modification; restructuring,noun,n2
+開通,かいつう,opening (of a road; railway; etc.),noun,n2
 回答,かいとう,reply; answer,noun,n2
 解説,かいせつ,explanation; commentary,noun,n2
-開発,かいはつ,development; exploitation,noun,n2
-購買,こうばい,purchasing; buying,noun,n2
+開発,かいはつ,development,noun,n2
+購買,こうばい,purchase; buying,noun,n2
 係員,かかりいん,person in charge; attendant,noun,n2
-限り,かぎり,limit; as long as; unless,noun,n2
+限り,かぎり,limit; as long as; to the extent of,noun,n2
 書留,かきとめ,registered mail,noun,n2
-かき混ぜる,かきまぜる,to stir; to scramble,verb,n2
+かき混ぜる,かきまぜる,to stir; to mix; to scramble,verb,n2
 拡張,かくちょう,expansion; extension,noun,n2
 確率,かくりつ,probability,noun,n2
-掛け,かけ,credit; installment; hanging,noun,n2
+掛け,かけ,credit; installment; bet,noun,n2
 駆け足,かけあし,running fast; double time,noun,n2
 加工,かこう,processing; manufacturing,noun,n2
 下降,かこう,descent; fall; drop,noun,n2
 貸し出し,かしだし,lending; loaning,noun,n2
-過失,かしつ,error; fault; blunder,noun,n2
+過失,かしつ,error; fault; negligence,noun,n2
 加速,かそく,acceleration,noun,n2
-課題,かだい,subject; theme; task,noun,n2
-難い,かたい,difficult; hard,adjective,n2
-傾ける,かたむける,to incline; to lean; to tilt,verb,n2
+課題,かだい,subject; theme; task; challenge,noun,n2
+難い,かたい,difficult to...; hard to... (used as a suffix),adjective,n2
+傾ける,かたむける,to incline; to lean; to devote,verb,n2
 固める,かためる,to harden; to solidify; to fortify,verb,n2
 課長,かちょう,section manager; section chief,noun,n2
 活発,かっぱつ,lively; active; vigorous,adjective,n2
 かつて,,once; before; formerly,adverb,n2
-悲しみ,かなしみ,sadness; sorrow,noun,n2
-軽んじる,かろんじる,to despise; to look down on; to slight,verb,n2
-軽んずる,かろんずる,to despise; to look down on; to slight,verb,n2
+悲しみ,かなしみ,sadness; sorrow; grief,noun,n2
+軽んじる,かろんじる,to look down on; to make light of; to slight,verb,n2
+軽んずる,かろんずる,to look down on; to make light of; to slight,verb,n2
 感ずる,かんずる,to feel; to sense,verb,n2
 完璧,かんぺき,perfect; complete; flawless,adjective,n2
-気,き,spirit; mind; mood,noun,n2
+気,き,spirit; mind; mood; energy,noun,n2
 機会,きかい,chance; opportunity,noun,n2
 気が付く,きがつく,to notice; to realize,verb,n2
 聞き直す,ききなおす,to ask again; to listen again,verb,n2
 危険,きけん,danger; peril; hazard,noun,n2
 期日,きじつ,fixed date; deadline,noun,n2
 議題,ぎだい,topic for discussion; agenda,noun,n2
-きっかけ,,chance; start; impetus,noun,n2
+きっかけ,,chance; start; trigger; impetus,noun,n2
 ぎっしり,,tightly; packed; crammed,adverb,n2
 規定,きてい,regulation; provision,noun,n2
 起点,きてん,starting point; origin,noun,n2
 きっちり,,precisely; tightly; exactly,adverb,n2
 きらきら,,glittering; sparkling; twinkling,adverb,n2
-切り上げる,きりあげる,to round up; to finish; to wind up,verb,n2
+切り上げる,きりあげる,to round up; to finish; to cut short,verb,n2
 綺麗,きれい,beautiful; clean; tidy,adjective,n2
 金額,きんがく,amount of money,noun,n2
 緊急,きんきゅう,urgent; emergency,noun,n2
 禁物,きんもつ,forbidden thing; taboo,noun,n2
 区,く,ward; district; section,noun,n2
 くしゃみ,,sneeze,noun,n2
-ぐすぐす,,slowly; dawdling; procrastinating,adverb,n2
-苦心,くしん,effort; trouble; pains,noun,n2
+ぐずぐず,,slowly; dawdling; complaining,adverb,n2
+苦心,くしん,pains; trouble; effort,noun,n2
 くっきり,,distinctly; clearly; sharply,adverb,n2
-草臥れる,くたびれる,to get tired; to wear out,verb,n2
-下る,くだる,to descend; to go down; to be handed down,verb,n2
-くちゃくちゃ,,crumpled; messy,adverb,n2
+草臥れる,くたびれる,to get tired; to be worn out,verb,n2
+下る,くだる,to descend; to go down; to be handed down (e.g. an order),verb,n2
+くちゃくちゃ,,crumpled; messy; masticated,adverb,n2
 口論,こうろん,quarrel; argument,noun,n2
-くっ付く,くっつく,to adhere to; to stick to,verb,n2
+くっ付く,くっつく,to adhere to; to stick to; to cling to,verb,n2
 くっ付ける,くっつける,to attach; to stick together,verb,n2
-くどい,,verbose; tedious; repetitive,adjective,n2
-組み立てる,くみたてる,to assemble; to set up,verb,n2
-クラブ,,club; nightclub; golf club,noun,n2
+くどい,,verbose; tedious; heavy (taste),adjective,n2
+組み立てる,くみたてる,to assemble; to set up; to construct,verb,n2
+クラブ,,club; nightclub,noun,n2
 くるくる,,spinning; revolving; wrapping,adverb,n2
 クレジットカード,,credit card,noun,n2
 敬語,けいご,honorific language,noun,n2
-経費,けいひ,expenses; cost; outlay,noun,n2
-下車,げしゃ,"alighting (from train, etc.)",noun,n2
+経費,けいひ,expenses; cost,noun,n2
+下車,げしゃ,alighting (from a train; bus; etc.),noun,n2
 下旬,げじゅん,last third of a month,noun,n2
 削除,さくじょ,deletion; elimination,noun,n2
 月給,げっきゅう,monthly salary,noun,n2
-傑作,けっさく,masterpiece; best work,noun,n2
+傑作,けっさく,masterpiece,noun,n2
 欠乏,けつぼう,lack; deficiency; shortage,noun,n2
 減少,げんしょう,decrease; reduction,noun,n2
 限定,げんてい,limit; restriction,noun,n2
-子,こ,child; the young,noun,n2
+子,こ,child; offspring,noun,n2
 請う,こう,to ask; to request; to beg,verb,n2
-強風,きょうふう,strong wind; high wind,noun,n2
+強風,きょうふう,strong wind; gale,noun,n2
 コーチ,,coach,noun,n2
-コース,,course; route; course (meal),noun,n2
-焦がす,こがす,to burn; to scorch; to singe,verb,n2
+コース,,course; route,noun,n2
+焦がす,こがす,to burn; to scorch; to char,verb,n2
 心地,ここち,feeling; sensation; mood,noun,n2
 心掛ける,こころがける,to bear in mind; to aim to do,verb,n2
 心強い,こころづよい,heartening; reassuring,adjective,n2
 試みる,こころみる,to try; to attempt,verb,n2
-志,こころざし,will; intention; motive,noun,n2
-こっそり,,secretly; stealthily; quietly,adverb,n2
-固定,こてい,fixation; fixed,noun,n2
+志,こころざし,will; ambition; motive,noun,n2
+こっそり,,secretly; stealthily,adverb,n2
+固定,こてい,fixation; being fixed,noun,n2
 個々,ここ,individual; one by one,noun,n2
-誤魔化す,ごまかす,to deceive; to falsify; to cover up,verb,n2
+誤魔化す,ごまかす,to deceive; to falsify; to gloss over,verb,n2
 コメント,,comment,noun,n2
 小屋,こや,hut; cabin; shed,noun,n2
-混合,こんごう,mixing; mixture; blending,noun,n2
+混合,こんごう,mixing; mixture; blend,noun,n2
 採点,さいてん,scoring; grading; marking,noun,n2
-冴える,さえて,clear; sharp; keen,adjective,n2
+冴える,さえる,to be clear; to be sharp; to be keen,adjective,n2
 栄える,さかえる,to prosper; to flourish,verb,n2
-さきほど,,a short while ago,adverb,n2
-削る,けずる,to shave; to plane; to reduce,verb,n2
+さきほど,,a short while ago; just now,adverb,n2
+削る,けずる,to shave; to plane; to reduce; to cut down,verb,n2
 炸裂,さくれつ,explosion; bursting,noun,n2
-探る,さぐる,to search; to look for; to probe,verb,n2
-差し出す,さしだす,to present; to submit; to extend,verb,n2
-指図,さしず,instructions; orders; direction,noun,n2
-差し支える,さしつかえる,to interfere; to hinder; to be affected,verb,n2
-誘う,さそう,to invite; to ask; to tempt,verb,n2
-定める,さだめる,to establish; to define; to set,verb,n2
-錯覚,さっかく,optical illusion; misconception,noun,n2
-さっさと,,quickly; promptly; without delay,adverb,n2
-早速,さっそく,at once; immediately; without delay,adverb,n2
+探る,さぐる,to search for; to probe; to explore,verb,n2
+差し出す,さしだす,to present; to submit; to hand in,verb,n2
+指図,さしず,instruction; order; direction,noun,n2
+差し支える,さしつかえる,to interfere; to hinder; to be inconvenient,verb,n2
+誘う,さそう,to invite; to ask out; to tempt,verb,n2
+定める,さだめる,to decide; to establish; to define,verb,n2
+錯覚,さっかく,optical illusion; hallucination; misconception,noun,n2
+さっさと,,quickly; promptly,adverb,n2
+早速,さっそく,at once; immediately; right away,adverb,n2
 さっと,,quickly; swiftly; suddenly,adverb,n2
-さて,,well; now; then,conjunction,n2
-冷ます,さます,to cool; to dampen; to let cool,verb,n2
-冷める,さめる,to cool down; to wane; to fade,verb,n2
+さて,,well; now then,conjunction,n2
+冷ます,さます,to cool; to let cool,verb,n2
+冷める,さめる,to cool down; to lose interest,verb,n2
 しあさって,,two days after tomorrow,noun,n2
-しいんと,,silent; quiet; hushed,adverb,n2
+しいんと,,silently; quietly,adverb,n2
 自衛,じえい,self-defense,noun,n2
-塩辛い,しおからい,salty (to the point of being pungent),adjective,n2
+塩辛い,しおからい,salty,adjective,n2
 しかしながら,,however; but,conjunction,n2
 仕組み,しくみ,structure; mechanism; system,noun,n2
 死刑,しけい,death penalty; capital punishment,noun,n2
 資源,しげん,resources,noun,n2
 じっと,,motionlessly; fixedly; patiently,adverb,n2
-実は,じつは,as a matter of fact; by the way,adverb,n2
+実は,じつは,as a matter of fact; actually; to tell the truth,adverb,n2
 品詞,ひんし,part of speech,noun,n2
-しばらく,,for a moment; for a while; for some time,adverb,n2
-渋い,しぶい,astringent; bitter; gloomy,adjective,n2
-じめじめ,,damp; humid; gloomy,adverb,n2
-染みる,しみる,to penetrate; to soak in; to be stained,verb,n2
-しめきり,,deadline; closing,noun,n2
+しばらく,,for a moment; for a while,adverb,n2
+渋い,しぶい,astringent; bitter; somber; tasteful,adjective,n2
+じめじめ,,damp; humid; gloomy (personality),adverb,n2
+染みる,しみる,to soak into; to penetrate; to sting,verb,n2
+締め切り,しめきり,deadline; closing,noun,n2
 霜,しも,frost,noun,n2
-じゃ,,well then; in that case (casual),conjunction,n2
-しゃがむ,,to squat; to crouch down,verb,n2
+じゃ,,well then; in that case,conjunction,n2
+しゃがむ,,to squat; to crouch,verb,n2
 社交,しゃこう,social life; social intercourse,noun,n2
-社説,しゃせつ,editorial; leading article,noun,n2
-しゃぶる,,to suck; to chew,verb,n2
+社説,しゃせつ,editorial,noun,n2
+しゃぶる,,to suck; to lick,verb,n2
 集金,しゅうきん,money collection,noun,n2
-修業,しゅうぎょう,pursuit of knowledge; study,noun,n2
+修業,しゅうぎょう,study; training; pursuit of knowledge,noun,n2
 収集,しゅうしゅう,collection; gathering,noun,n2
-終点,しゅうてん,terminus; last stop; destination,noun,n2
-じゅうたん,,carpet; rug,noun,n2
-重点,じゅうてん,important point; emphasis; priority,noun,n2
+終点,しゅうてん,terminus; last stop,noun,n2
+絨毯,じゅうたん,carpet; rug,noun,n2
+重点,じゅうてん,important point; emphasis,noun,n2
 重役,じゅうやく,company executive; director,noun,n2
-需要,じゅよう,demand; request,noun,n2
-受領,じゅりょう,receipt; acceptance,noun,n2
+需要,じゅよう,demand,noun,n2
+受領,じゅりょう,receipt,noun,n2
 準急,じゅんきゅう,semi-express train,noun,n2
-状況,じょうきょう,state of affairs; situation; circumstances,noun,n2
+状況,じょうきょう,situation; circumstances,noun,n2
 条件,じょうけん,condition; term; requirement,noun,n2
-賞金,しょうきん,money award; prize; reward,noun,n2
+賞金,しょうきん,prize money; reward,noun,n2
 将軍,しょうぐん,general; shogun,noun,n2
-生じる,しょうじる,to produce; to cause; to occur,verb,n2
-生ずる,しょうずる,to produce; to cause; to occur,verb,n2
+生じる,しょうじる,to arise; to result from; to cause,verb,n2
+生ずる,しょうずる,to arise; to result from; to cause,verb,n2
 上昇,じょうしょう,rising; ascending; climbing,noun,n2
-少数,しょうすう,minority; few; small number,noun,n2
-承諾,しょうだく,consent; acquiescence; agreement,noun,n2
-上等,じょうとう,superiority; first-class; very good,adjective,n2
-衝突,しょうとつ,collision; conflict; clash,noun,n2
-商人,しょうにん,merchant; trader; shopkeeper,noun,n2
-承認,しょうにん,recognition; acknowledgment; approval,noun,n2
-上班,じょうはん,first half,noun,n2
+少数,しょうすう,minority; small number,noun,n2
+承諾,しょうだく,consent; approval; agreement,noun,n2
+上等,じょうとう,superior; first-class; high quality,adjective,n2
+衝突,しょうとつ,collision; clash; conflict,noun,n2
+商人,しょうにん,merchant; trader,noun,n2
+承認,しょうにん,recognition; approval; acknowledgment,noun,n2
+上半,じょうはん,first half (of a year; game; etc.),noun,n2
 女王,じょおう,queen,noun,n2
-職,しょく,employment; work,noun,n2
-しょっちゅう,,always; all the time; constantly,adverb,n2
-じん,,dust (suffix),suffix,n2
+職,しょく,employment; work; job,noun,n2
+しょっちゅう,,always; constantly; frequently,adverb,n2
+塵,じん,dust,suffix,n2
 真剣,しんけん,serious; earnest,adjective,n2
 親善,しんぜん,friendship; goodwill,noun,n2
-心情,しんじょう,feelings; emotion; state of mind,noun,n2
+心情,しんじょう,feelings; emotion; sentiment,noun,n2
 神話,しんわ,myth; legend,noun,n2
-すいすい,,smoothly; easily; swimmingly,adverb,n2
+すいすい,,smoothly; easily,adverb,n2
 推奨,すいしょう,recommendation,noun,n2
 水中,すいちゅう,underwater,noun,n2
-すいぶん,,very; extremely; considerably,adverb,n2
-すえる,,to set; to place; to install,verb,n2
-すがすがしい,,refreshing; invigorating,adjective,n2
-掬う,すくう,to scoop; to ladle out,verb,n2
-すくなくとも,,at least,adverb,n2
+随分,ずいぶん,very; extremely; considerably,adverb,n2
+据える,すえる,to set; to place; to install,verb,n2
+すがすがしい,,refreshing; crisp,adjective,n2
+掬う,すくう,to scoop up; to ladle out,verb,n2
+少なくとも,すくなくとも,at least,adverb,n2
 透ける,すける,to be transparent; to be see-through,verb,n2
-すさまじい,,terrible; tremendous; violent,adjective,n2
+すさまじい,,terrific; tremendous; awful,adjective,n2
 濯ぐ,すすぐ,to rinse; to wash out,verb,n2
-すっと,,swiftly; smoothly; suddenly,adverb,n2
+すっと,,swiftly; smoothly; to feel refreshed,adverb,n2
 すばしこい,,nimble; agile; quick,adjective,n2
-すばやい,,quick; prompt; swift,adjective,n2
-澄む,すむ,to become clear; to be transparent,verb,n2
-すらすら,,smoothly; fluently; without hesitation,adverb,n2
-するする,,smoothly; easily; sliding,adverb,n2
-すれちがう,,to pass by one another; to disagree,verb,n2
-すれる,,to rub; to chafe; to become worn,verb,n2
-すんなり,,slenderly; smoothly; without resistance,adverb,n2
-生育,せいいく,growth; development; breeding,noun,n2
-制御,せいぎょ,control; regulation,noun,n2
-政策,せいさく,political measure; policy,noun,n2
-制裁,せいさい,restraint; sanctions; punishment,noun,n2
-成熟,せいじゅく,maturity; ripeness,noun,n2
-性能,せいのう,ability; performance; efficiency,noun,n2
-制覇,せいは,conquest; domination; supremacy,noun,n2
+素早い,すばやい,quick; prompt; swift,adjective,n2
+澄む,すむ,to become clear; to become transparent,verb,n2
+すらすら,,smoothly; fluently,adverb,n2
+するする,,smoothly; glidingly,adverb,n2
+すれ違う,すれちがう,to pass by one another; to miss each other,verb,n2
+すれる,,to rub against; to become worn out,verb,n2
+すんなり,,smoothly; without resistance; slim,adverb,n2
+生育,せいいく,growth; development,noun,n2
+制御,せいぎょ,control; regulation; command,noun,n2
+政策,せいさく,policy,noun,n2
+制裁,せいさい,sanctions,noun,n2
+成熟,せいじゅく,maturity,noun,n2
+性能,せいのう,performance; efficiency,noun,n2
+制覇,せいは,conquest,noun,n2
 生物学,せいぶつがく,biology,noun,n2
-成分,せいぶん,ingredient; component; composition,noun,n2
+成分,せいぶん,ingredient; component,noun,n2
 精密,せいみつ,precise; exact; detailed,adjective,n2
 勢力,せいりょく,influence; power; force,noun,n2
-せえ,,no; hey (dialect),interjection,n2
-咳,せき,cough,noun,n2
+せき,,cough,noun,n2
 世辞,せじ,flattery; compliment,noun,n2
-せっかく,,with trouble; specially; despite effort,adverb,n2
-せっかち,,impatient; hasty; quick-tempered,adjective,n2
-接触,せっしょく,contact; touch; interaction,noun,n2
-全快,ぜんかい,complete recovery (from illness),noun,n2
-全身,ぜんしん,the whole body; full-length,noun,n2
-先進,せんしん,advanced; leading,noun,n2
+せっかく,,with much effort; specially,adverb,n2
+せっかち,,hasty; impatient,adjective,n2
+接触,せっしょく,contact; touch,noun,n2
+全快,ぜんかい,complete recovery of health,noun,n2
+全身,ぜんしん,the whole body,noun,n2
+先進,せんしん,advanced,noun,n2
 先端,せんたん,pointed end; tip; forefront,noun,n2
-前途,ぜんと,future prospects; outlook,noun,n2
-専売,せんばい,monopoly; specialized sale,noun,n2
-方面,ほうめん,direction; district; field,noun,n2
-そう,,so; like that (conversational),adverb,n2
-総合,そうごう,synthesis; integration; composite,noun,n2
-創作,そうさく,creation; production; fiction,noun,n2
+前途,ぜんと,future prospects,noun,n2
+専売,せんばい,monopoly,noun,n2
+方面,ほうめん,direction; district; field (of study; etc.),noun,n2
+そう,,so; in that way,adverb,n2
+総合,そうごう,synthesis; integration,noun,n2
+創作,そうさく,creation; original work; fiction,noun,n2
 促進,そくしん,promotion; acceleration; encouragement,noun,n2
 外す,はずす,to remove; to take off; to miss,verb,n2
 そのまま,,as it is; without change,adverb,n2
-そびえる,,to tower; to soar; to rise,verb,n2
-素朴,そぼく,simple; artless; naive,adjective,n2
-そむく,,to run counter to; to disobey; to betray,verb,n2
-そよそよ,,gently (of wind); softly,adverb,n2
-そらす,,to turn away; to avert; to distract,verb,n2
-それでも,,but (still); and yet; nevertheless,conjunction,n2
+そびえる,,to tower; to soar,verb,n2
+素朴,そぼく,simple; rustic; artless,adjective,n2
+背く,そむく,to disobey; to go against; to betray,verb,n2
+そよそよ,,breezily; gently (of wind),adverb,n2
+逸らす,そらす,to turn away; to avert; to deflect,verb,n2
+それでも,,but still; and yet; nevertheless,conjunction,n2
 それとも,,or; or else,conjunction,n2
 それなのに,,and yet; despite that,conjunction,n2
 それなら,,if that's the case; then,conjunction,n2
-対,たい,versus; anti-; equal,noun,n2
+対,たい,versus; against; pair,noun,n2
 大多数,だいたすう,great majority,noun,n2
 対して,たいして,towards; against; regarding,adverb,n2
-大衆,たいしゅう,general public; masses,noun,n2
-対する,たいする,to face; to oppose; to regard,verb,n2
+大衆,たいしゅう,the general public; the masses,noun,n2
+対する,たいする,to face; to oppose; to deal with,verb,n2
 耐える,たえる,to endure; to bear; to withstand,verb,n2
-絶える,たえる,to die out; to become extinct,verb,n2
+絶える,たえる,to die out; to cease; to be cut off,verb,n2
 耕す,たがやす,to till; to plow; to cultivate,verb,n2
-高まる,たかまる,to rise; to heighten; to intensify,verb,n2
-高める,たかめる,to raise; to increase; to enhance,verb,n2
+高まる,たかまる,to rise; to heighten; to be promoted,verb,n2
+高める,たかめる,to raise; to enhance; to boost,verb,n2
 滝,たき,waterfall,noun,n2
-焚く,たく,to burn; to kindle; to build a fire,verb,n2
-蓄える,たくわえる,to store; to save; to accumulate,verb,n2
-携わる,たずさわる,to engage in; to participate in; to be involved in,verb,n2
-たちまち,,in an instant; instantly; suddenly,adverb,n2
-たてかえる,,to replace; to convert; to rearrange,verb,n2
-辿り着く,たどりつく,to arrive at (after struggle); to finally reach,verb,n2
-辿る,たどる,to follow (a path); to trace; to pursue,verb,n2
+焚く,たく,to burn; to build a fire; to boil,verb,n2
+蓄える,たくわえる,to store; to save up; to accumulate,verb,n2
+携わる,たずさわる,to be involved in; to engage in,verb,n2
+たちまち,,in an instant; suddenly,adverb,n2
+立て替える,たてかえる,to pay for another; to advance money for,verb,n2
+辿り着く,たどりつく,to finally arrive at; to struggle to reach,verb,n2
+辿る,たどる,to follow (a path); to trace,verb,n2
 躊躇う,ためらう,to hesitate; to waver,verb,n2
-たやすい,,easy; simple; light,adjective,n2
-だるい,,dull; sluggish; languid,adjective,n2
-たれる,,to hang; to droop; to drip,verb,n2
-単一,たんいつ,single; simple; singular,adjective,n2
+たやすい,,easy; simple,adjective,n2
+だるい,,sluggish; languid; dull,adjective,n2
+垂れる,たれる,to hang; to droop; to drip,verb,n2
+単一,たんいつ,single; simple; uniform,adjective,n2
 短気,たんき,short temper; quick temper,noun,n2
-たんす,,chest of drawers; wardrobe,noun,n2
-だんまり,,silence; mute,noun,n2
-近付く,ちかづく,to approach; to get near; to become intimate,verb,n2
-近付ける,ちかづける,to bring near; to put close; to let approach,verb,n2
-力強い,ちからづよい,powerful; reassuring; heartening,adjective,n2
-ちくちく,,prickling; stinging; piercing,adverb,n2
+箪笥,たんす,chest of drawers,noun,n2
+だんまり,,silence; keeping silent,noun,n2
+近付く,ちかづく,to approach; to get near,verb,n2
+近付ける,ちかづける,to bring near; to associate with,verb,n2
+力強い,ちからづよい,powerful; strong; reassuring,adjective,n2
+ちくちく,,prickling; stinging sensation,adverb,n2
 ちっとも,,not at all (with negative),adverb,n2
-ちまちま,,small; cramped; in a small way,adverb,n2
+ちまちま,,small and detailed; timidly,adverb,n2
 ちんまり,,neatly; compactly; snugly,adverb,n2
-ついでに,,while you're at it; incidentally; taking the opportunity,adverb,n2
-通ずる,つうずる,to run to; to lead to; to understand,verb,n2
+ついでに,,while you're at it; incidentally,adverb,n2
+通じる,つうじる,to run to; to lead to; to be understood,verb,n2
 定年,ていねん,retirement age,noun,n2
-提示,ていじ,presentation; submission; showing,noun,n2
+提示,ていじ,presentation; showing,noun,n2
 訂正,ていせい,correction; revision,noun,n2
-停滞,ていたい,stagnation; tie-up; congestion,noun,n2
-手入れ,ていれ,care; maintenance; tending,noun,n2
-手がかり,てがかり,clue; lead; key,noun,n2
+停滞,ていたい,stagnation; tie-up,noun,n2
+手入れ,ていれ,care; maintenance; repairs,noun,n2
+手がかり,てがかり,clue; lead; trail,noun,n2
 的確,てきかく,precise; accurate; appropriate,adjective,n2
 でたらめ,,nonsense; random; irresponsible,adjective,n2
-てっきり,,surely; certainly; beyond doubt,adverb,n2
-転換,てんかん,conversion; diversion; change,noun,n2
-伝言,でんごん,verbal message; word,noun,n2
+てっきり,,surely; certainly (often of a mistaken belief),adverb,n2
+転換,てんかん,conversion; changeover,noun,n2
+伝言,でんごん,verbal message,noun,n2
 展開,てんかい,development; evolution; deployment,noun,n2
-伝統,でんとう,tradition; convention,noun,n2
+伝統,でんとう,tradition,noun,n2
 問,とい,question; problem,noun,n2
-問い合わせ,といあわせ,inquiry; enquiry; query,noun,n2
+問い合わせ,といあわせ,inquiry,noun,n2
 答案,とうあん,examination paper; answer sheet,noun,n2
 統一,とういつ,unity; consolidation; uniformity,noun,n2
 討論,とうろん,debate; discussion,noun,n2
-解く,とく,to solve; to unravel; to untie,verb,n2
+解く,とく,to solve; to untie; to undo,verb,n2
 説く,とく,to explain; to advocate; to preach,verb,n2
-特産,とくさん,specialty; special product,noun,n2
-遂げる,とげる,to accomplish; to achieve; to attain,verb,n2
-年頃,としごろ,age; marriageable age; time of life,noun,n2
-仲良し,なかよし,good terms; intimacy; close friend,noun,n2
+特産,とくさん,specialty product,noun,n2
+遂げる,とげる,to accomplish; to achieve; to carry out,verb,n2
+年頃,としごろ,age; approximate age; marriageable age,noun,n2
+仲良し,なかよし,close friend; on good terms,noun,n2

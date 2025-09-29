@@ -1,10 +1,12 @@
 @import "tailwindcss";
 
+@custom-variant noon (&:where(.noon, .noon *));
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-    --color-dark: #2d3748;
-    --color-light: #f7fafc;
+    --color-light: #eef3f7;
+    --color-noon: #e5dbca;
+    --color-dark: #323e52;
     --color-darker: #232b39;
     --color-darkest: #181f2b;
     /* Variables from global scope */
@@ -14,26 +16,40 @@
 
 @layer theme {
     :root {
-        --font-serif: 'Noto Sans JP', sans-serif;
+        --bg-pattern: url('assets/pattern-1.png');
         --color-card: var(--color-white);
         --color-word: var(--color-gray-800);
         --color-text: var(--color-gray-600);
         --color-border: color-mix(in oklab, var(--color-light), black 30%);
-        --theme-icon: '🌙';
         --color-page: var(--color-light);
-        --color-menu: color-mix(in oklab, var(--color-light), var(--color-dark) 5%);
+        --color-menu: #dbe6ed;
         --color-menu-icon: var(--color-text);
         --color-btn-primary: var(--color-darker);
+        --font-serif: 'Noto Sans JP', sans-serif;
+        --theme-hover: var(--color-noon);
+        --theme-icon: '🌤️';
     }
+
+    .noon {
+        --bg-pattern: url('assets/pattern-1.png');
+        --color-card: color-mix(in oklab, var(--color-noon), white 40%);
+        --color-menu: color-mix(in oklab, var(--color-noon), black 1.5%);
+        --color-page: var(--color-noon);
+        --theme-hover: var(--color-dark);
+        --theme-icon: '🌙';
+    }
+
     .dark {
+        --bg-pattern: url('assets/pattern-3.png');
         --color-card: var(--color-darker);
         --color-word: var(--color-white);
         --color-text: var(--color-gray-300);
         --color-border: color-mix(in oklab, var(--color-dark), white 30%);
-        --theme-icon: '☀️';
         --color-page: var(--color-dark);
-        --color-menu: color-mix(in oklab, var(--color-dark), black 30%);
+        --color-menu: color-mix(in oklab, var(--color-dark), black 40%);
         --color-btn-primary: var(--color-blue-50);
+        --theme-hover: var(--color-light);
+        --theme-icon: '☀️';
     }
 }
 
@@ -42,6 +58,8 @@
         @apply text-text;
         /* Overrides injected style */
         font-size: 100% !important;
+        background-image: var(--bg-pattern);
+        background-size: 63px;
     }
 }
 
